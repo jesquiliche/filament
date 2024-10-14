@@ -1,0 +1,506 @@
+[
+    {
+        "pregunta": "¿Qué significa la velocidad máxima permitida en una carretera?",
+        "a": "La velocidad mínima que debes alcanzar",
+        "b": "La velocidad máxima que no debes superar",
+        "c": "La velocidad promedio en la que se debe conducir",
+        "respuesta": "b",
+        "explicacion": "La velocidad máxima permitida indica el límite de velocidad que no debe ser superado para garantizar la seguridad en la carretera.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad de reacción?",
+        "a": "La velocidad a la que un vehículo puede acelerar",
+        "b": "El tiempo que tarda un conductor en reaccionar ante un peligro",
+        "c": "La velocidad a la que un motor funciona",
+        "respuesta": "b",
+        "explicacion": "La velocidad de reacción es el tiempo que un conductor tarda en responder a una situación de emergencia, crucial para la seguridad vial.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad adecuada para conducir en una zona escolar?",
+        "a": "50 km/h",
+        "b": "30 km/h",
+        "c": "40 km/h",
+        "respuesta": "b",
+        "explicacion": "En muchas localidades, la velocidad adecuada para conducir en una zona escolar es de 30 km/h para garantizar la seguridad de los niños.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo afecta la velocidad a la distancia de frenado?",
+        "a": "La distancia de frenado disminuye con mayor velocidad",
+        "b": "La distancia de frenado aumenta con mayor velocidad",
+        "c": "La velocidad no afecta la distancia de frenado",
+        "respuesta": "b",
+        "explicacion": "La distancia de frenado aumenta con la velocidad; cuanto más rápido se viaja, más lejos se necesita detener el vehículo.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad crucero?",
+        "a": "La velocidad máxima permitida en una carretera",
+        "b": "Una velocidad constante que se mantiene en la carretera",
+        "c": "La velocidad a la que un vehículo acelera",
+        "respuesta": "b",
+        "explicacion": "La velocidad crucero se refiere a mantener una velocidad constante, generalmente utilizada en autopistas para optimizar el consumo de combustible.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué sucede si se conduce a una velocidad demasiado alta?",
+        "a": "Se mejora la eficiencia del combustible",
+        "b": "Aumenta el riesgo de accidentes",
+        "c": "Se reduce el desgaste de los neumáticos",
+        "respuesta": "b",
+        "explicacion": "Conducir a una velocidad demasiado alta aumenta significativamente el riesgo de accidentes y reduce la capacidad de reacción.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo se mide la velocidad de un vehículo?",
+        "a": "En litros por hora",
+        "b": "En kilómetros por hora o millas por hora",
+        "c": "En caballos de fuerza",
+        "respuesta": "b",
+        "explicacion": "La velocidad de un vehículo se mide comúnmente en kilómetros por hora (km/h) o millas por hora (mph).",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es un velocímetro?",
+        "a": "Un dispositivo que mide la temperatura del motor",
+        "b": "Un instrumento que indica la velocidad del vehículo",
+        "c": "Un sistema que mide el consumo de combustible",
+        "respuesta": "b",
+        "explicacion": "Un velocímetro es un instrumento en el tablero de un vehículo que indica la velocidad a la que se está conduciendo.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué efecto tiene el exceso de velocidad en el consumo de combustible?",
+        "a": "Reduce el consumo de combustible",
+        "b": "Aumenta el consumo de combustible",
+        "c": "No tiene efecto",
+        "respuesta": "b",
+        "explicacion": "Conducir a altas velocidades generalmente aumenta el consumo de combustible debido a la resistencia del aire y la ineficiencia del motor.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad adecuada en condiciones climáticas adversas?",
+        "a": "La velocidad máxima permitida",
+        "b": "Una velocidad más baja que la normal",
+        "c": "La velocidad de crucero",
+        "respuesta": "b",
+        "explicacion": "En condiciones climáticas adversas, es recomendable reducir la velocidad para mantener el control del vehículo y garantizar la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad terminal?",
+        "a": "La velocidad a la que un vehículo puede acelerar indefinidamente",
+        "b": "La velocidad máxima que un objeto puede alcanzar en caída libre",
+        "c": "La velocidad promedio en una carretera",
+        "respuesta": "b",
+        "explicacion": "La velocidad terminal es la velocidad máxima que un objeto alcanza durante una caída libre cuando la resistencia del aire equilibra la gravedad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué significa el término 'velocidad de aproximación' en el contexto de la conducción?",
+        "a": "La velocidad a la que un vehículo se acerca a una intersección",
+        "b": "La velocidad máxima permitida",
+        "c": "La velocidad a la que se inicia un giro",
+        "respuesta": "a",
+        "explicacion": "La velocidad de aproximación se refiere a la velocidad a la que un vehículo se acerca a una intersección o un obstáculo, lo que es crucial para la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo afecta la aceleración a la velocidad?",
+        "a": "Aumenta la velocidad del vehículo",
+        "b": "Disminuye la velocidad del vehículo",
+        "c": "No tiene efecto",
+        "respuesta": "a",
+        "explicacion": "La aceleración se refiere al aumento de la velocidad del vehículo; un aumento en la aceleración resultará en una mayor velocidad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad angular?",
+        "a": "La velocidad de un vehículo en línea recta",
+        "b": "La velocidad a la que gira un objeto alrededor de un punto",
+        "c": "La velocidad promedio de un vehículo",
+        "respuesta": "b",
+        "explicacion": "La velocidad angular es la velocidad a la que un objeto gira alrededor de un punto y se mide en radianes por segundo.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad de un vehículo al tomar una curva?",
+        "a": "Siempre debe ser máxima",
+        "b": "Puede ser menor que la velocidad máxima permitida",
+        "c": "Siempre debe ser mínima",
+        "respuesta": "b",
+        "explicacion": "Al tomar una curva, la velocidad del vehículo puede y debe ser menor que la velocidad máxima permitida para mantener el control y la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es un límite de velocidad variable?",
+        "a": "Un límite de velocidad que no cambia",
+        "b": "Un límite de velocidad que puede cambiar dependiendo de las condiciones",
+        "c": "Un límite de velocidad que siempre es bajo",
+        "respuesta": "b",
+        "explicacion": "Un límite de velocidad variable puede cambiar dependiendo de las condiciones de la carretera, como el tráfico o las condiciones climáticas.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué implica el término 'velocidad promedio'?",
+        "a": "La velocidad más alta alcanzada en un viaje",
+        "b": "La distancia total dividida por el tiempo total de viaje",
+        "c": "La velocidad en una carretera específica",
+        "respuesta": "b",
+        "explicacion": "La velocidad promedio se calcula dividiendo la distancia total recorrida por el tiempo total de viaje y es un indicador del rendimiento del viaje.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad crítica en una curva?",
+        "a": "La velocidad a la que un vehículo puede salir de la curva",
+        "b": "La velocidad máxima permitida",
+        "c": "La velocidad promedio en una recta",
+        "respuesta": "a",
+        "explicacion": "La velocidad crítica en una curva es la velocidad máxima a la que un vehículo puede tomar la curva sin perder el control o deslizarse.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de conocer la velocidad de un vehículo?",
+        "a": "No es importante",
+        "b": "Ayuda a calcular el tiempo de llegada y a mantener la seguridad",
+        "c": "Solo se necesita en competiciones",
+        "respuesta": "b",
+        "explicacion": "Conocer la velocidad de un vehículo es esencial para planificar tiempos de llegada y garantizar la seguridad en la carretera.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué se entiende por velocidad mínima en una autopista?",
+        "a": "La velocidad que nunca debe ser superada",
+        "b": "La velocidad por debajo de la cual no se debe conducir",
+        "c": "La velocidad máxima permitida",
+        "respuesta": "b",
+        "explicacion": "La velocidad mínima en una autopista es la velocidad por debajo de la cual los vehículos no deben conducir para mantener un flujo de tráfico seguro.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo afecta la velocidad al tiempo de reacción en situaciones de emergencia?",
+        "a": "Aumenta el tiempo de reacción",
+        "b": "Reduce el tiempo de reacción",
+        "c": "No tiene efecto",
+        "respuesta": "a",
+        "explicacion": "A mayor velocidad, mayor es el tiempo necesario para reaccionar, lo que puede llevar a situaciones peligrosas.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima permitida en una zona residencial?",
+        "a": "20 km/h",
+        "b": "30 km/h",
+        "c": "50 km/h",
+        "respuesta": "b",
+        "explicacion": "En muchas localidades, la velocidad máxima permitida en zonas residenciales es de 30 km/h para garantizar la seguridad de los peatones.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué sucede al conducir a velocidades excesivas en condiciones de lluvia?",
+        "a": "La distancia de frenado se reduce",
+        "b": "Aumenta el riesgo de aquaplaning",
+        "c": "No afecta la conducción",
+        "respuesta": "b",
+        "explicacion": "Conducir a velocidades excesivas en condiciones de lluvia aumenta el riesgo de aquaplaning, ya que los neumáticos pueden perder contacto con la carretera.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué implica la velocidad de crucero adaptativa en los vehículos modernos?",
+        "a": "El conductor controla manualmente la velocidad",
+        "b": "El vehículo ajusta automáticamente la velocidad para mantener una distancia segura",
+        "c": "La velocidad se establece a un límite fijo",
+        "respuesta": "b",
+        "explicacion": "La velocidad de crucero adaptativa ajusta automáticamente la velocidad del vehículo para mantener una distancia segura respecto al vehículo que está delante.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo se ve afectada la velocidad de un vehículo por la carga que lleva?",
+        "a": "No se ve afectada",
+        "b": "Aumenta la velocidad",
+        "c": "Puede disminuir la velocidad",
+        "respuesta": "c",
+        "explicacion": "La velocidad de un vehículo puede disminuir si lleva una carga pesada, ya que esto puede afectar su rendimiento y aceleración.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad de desplazamiento?",
+        "a": "La velocidad de un vehículo en línea recta",
+        "b": "La velocidad promedio de un vehículo en movimiento",
+        "c": "La velocidad de un objeto que se desplaza sin parar",
+        "respuesta": "b",
+        "explicacion": "La velocidad de desplazamiento se refiere a la velocidad promedio de un vehículo durante un trayecto, teniendo en cuenta todas las paradas y cambios de velocidad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué implica un cambio de velocidad al tomar una curva?",
+        "a": "Aumentar la velocidad",
+        "b": "Mantener la misma velocidad",
+        "c": "Disminuir la velocidad",
+        "respuesta": "c",
+        "explicacion": "Al tomar una curva, es necesario disminuir la velocidad para mantener el control y evitar deslizamientos.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la velocidad de reacción de un conductor?",
+        "a": "La velocidad a la que un vehículo puede acelerar",
+        "b": "El tiempo que un conductor tarda en reaccionar a un estímulo",
+        "c": "La velocidad promedio en la que se conduce",
+        "respuesta": "b",
+        "explicacion": "La velocidad de reacción de un conductor se refiere al tiempo que tarda en responder ante un peligro o un estímulo.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el efecto de la velocidad en la estabilidad de un vehículo?",
+        "a": "A mayor velocidad, mayor estabilidad",
+        "b": "La velocidad no afecta la estabilidad",
+        "c": "A mayor velocidad, menor estabilidad",
+        "respuesta": "c",
+        "explicacion": "A mayor velocidad, la estabilidad del vehículo puede verse comprometida, lo que aumenta el riesgo de accidentes.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué significa 'velocidad excesiva' en la conducción?",
+        "a": "Conducir a la velocidad máxima permitida",
+        "b": "Conducir por encima del límite de velocidad establecido",
+        "c": "Conducir a una velocidad moderada",
+        "respuesta": "b",
+        "explicacion": "La velocidad excesiva se refiere a conducir a una velocidad superior al límite permitido, lo que representa un peligro para la seguridad vial.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es un radar de velocidad?",
+        "a": "Un dispositivo que mide la velocidad de los vehículos",
+        "b": "Un instrumento para medir la temperatura del motor",
+        "c": "Un sistema de navegación",
+        "respuesta": "a",
+        "explicacion": "Un radar de velocidad es un dispositivo utilizado por las autoridades para medir la velocidad de los vehículos en la carretera.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué factores afectan la distancia de frenado de un vehículo?",
+        "a": "La velocidad y las condiciones de la carretera",
+        "b": "Solo la velocidad",
+        "c": "La carga del vehículo y el tipo de combustible",
+        "respuesta": "a",
+        "explicacion": "La distancia de frenado de un vehículo está afectada tanto por la velocidad a la que se viaja como por las condiciones de la carretera.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es un límite de velocidad fijo?",
+        "a": "Un límite de velocidad que se puede cambiar según las condiciones",
+        "b": "Un límite de velocidad establecido que no cambia",
+        "c": "Un límite que solo se aplica en días específicos",
+        "respuesta": "b",
+        "explicacion": "Un límite de velocidad fijo es aquel que está claramente señalado y no cambia, independientemente de las condiciones.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo afecta la velocidad en la distancia de parada total?",
+        "a": "La distancia de parada total se reduce con la velocidad",
+        "b": "La distancia de parada total aumenta con la velocidad",
+        "c": "La velocidad no afecta la distancia de parada total",
+        "respuesta": "b",
+        "explicacion": "La distancia de parada total, que incluye la distancia de reacción y la distancia de frenado, aumenta con la velocidad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el límite de velocidad en un túnel?",
+        "a": "Es siempre mayor que en la carretera",
+        "b": "Es igual que el de la carretera",
+        "c": "Puede ser menor debido a las condiciones de visibilidad",
+        "respuesta": "c",
+        "explicacion": "El límite de velocidad en un túnel puede ser menor que el de la carretera debido a las condiciones de visibilidad y la concentración del tráfico.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué factores influyen en la percepción de la velocidad por parte del conductor?",
+        "a": "La experiencia y el entorno",
+        "b": "Solo la velocidad del vehículo",
+        "c": "La cantidad de combustible",
+        "respuesta": "a",
+        "explicacion": "La percepción de la velocidad de un conductor puede verse influenciada por su experiencia, el entorno y otros factores como la visibilidad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de respetar los límites de velocidad?",
+        "a": "Para evitar multas",
+        "b": "Para garantizar la seguridad en la carretera",
+        "c": "No es importante",
+        "respuesta": "b",
+        "explicacion": "Respetar los límites de velocidad es crucial para garantizar la seguridad en la carretera y reducir el riesgo de accidentes.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad generalmente permitido en una autopista?",
+        "a": "90 km/h",
+        "b": "110 km/h",
+        "c": "120 km/h",
+        "respuesta": "c",
+        "explicacion": "En muchas autopistas, el límite de velocidad permitido es de 120 km/h, aunque puede variar según el país.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad típico en una carretera rural?",
+        "a": "50 km/h",
+        "b": "80 km/h",
+        "c": "100 km/h",
+        "respuesta": "b",
+        "explicacion": "El límite de velocidad en una carretera rural suele ser de 80 km/h, aunque puede variar en diferentes regiones.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué límite de velocidad se aplica en áreas escolares?",
+        "a": "20 km/h",
+        "b": "30 km/h",
+        "c": "40 km/h",
+        "respuesta": "b",
+        "explicacion": "En muchas áreas escolares, el límite de velocidad es de 30 km/h para garantizar la seguridad de los niños.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en zonas urbanas en general?",
+        "a": "50 km/h",
+        "b": "60 km/h",
+        "c": "70 km/h",
+        "respuesta": "a",
+        "explicacion": "En la mayoría de las zonas urbanas, el límite de velocidad permitido es de 50 km/h.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en un camino de acceso?",
+        "a": "30 km/h",
+        "b": "50 km/h",
+        "c": "70 km/h",
+        "respuesta": "b",
+        "explicacion": "En los caminos de acceso, el límite de velocidad suele ser de 50 km/h, aunque puede depender de la localización.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué límite de velocidad es común en zonas residenciales?",
+        "a": "20 km/h",
+        "b": "30 km/h",
+        "c": "40 km/h",
+        "respuesta": "b",
+        "explicacion": "En zonas residenciales, el límite de velocidad común es de 30 km/h para proteger a los peatones.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en carreteras de doble sentido?",
+        "a": "80 km/h",
+        "b": "90 km/h",
+        "c": "100 km/h",
+        "respuesta": "c",
+        "explicacion": "El límite de velocidad en carreteras de doble sentido suele ser de 100 km/h, dependiendo de la señalización.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué velocidad máxima se permite en zonas de trabajo en la carretera?",
+        "a": "20 km/h",
+        "b": "30 km/h",
+        "c": "40 km/h",
+        "respuesta": "b",
+        "explicacion": "En las zonas de trabajo en la carretera, el límite de velocidad suele ser de 30 km/h para garantizar la seguridad de los trabajadores.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en autopistas para vehículos pesados?",
+        "a": "80 km/h",
+        "b": "90 km/h",
+        "c": "100 km/h",
+        "respuesta": "a",
+        "explicacion": "En muchas autopistas, el límite de velocidad para vehículos pesados es de 80 km/h para garantizar la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué límite de velocidad se establece generalmente en puentes?",
+        "a": "50 km/h",
+        "b": "60 km/h",
+        "c": "70 km/h",
+        "respuesta": "a",
+        "explicacion": "En muchos puentes, el límite de velocidad es de 50 km/h, a menudo por razones de seguridad estructural.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en túneles?",
+        "a": "80 km/h",
+        "b": "100 km/h",
+        "c": "50 km/h",
+        "respuesta": "c",
+        "explicacion": "En los túneles, el límite de velocidad suele ser de 50 km/h debido a las condiciones de visibilidad y seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué velocidad máxima se permite en una carretera con pavimento desgastado?",
+        "a": "50 km/h",
+        "b": "60 km/h",
+        "c": "70 km/h",
+        "respuesta": "a",
+        "explicacion": "En carreteras con pavimento desgastado, el límite de velocidad puede reducirse a 50 km/h para garantizar la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en caminos rurales sin pavimentar?",
+        "a": "30 km/h",
+        "b": "40 km/h",
+        "c": "50 km/h",
+        "respuesta": "c",
+        "explicacion": "En caminos rurales sin pavimentar, el límite de velocidad suele ser de 50 km/h debido a las condiciones del camino.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué límite de velocidad se recomienda en condiciones climáticas adversas?",
+        "a": "Mantener el límite de velocidad",
+        "b": "Reducir la velocidad",
+        "c": "Aumentar la velocidad",
+        "respuesta": "b",
+        "explicacion": "En condiciones climáticas adversas, como lluvia o nieve, se recomienda reducir la velocidad para garantizar la seguridad.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en zonas de montaña?",
+        "a": "50 km/h",
+        "b": "70 km/h",
+        "c": "80 km/h",
+        "respuesta": "a",
+        "explicacion": "En muchas zonas de montaña, el límite de velocidad se establece en 50 km/h debido a las curvas y pendientes pronunciadas.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué límite de velocidad se aplica a los vehículos de emergencia en servicio?",
+        "a": "Sin límite",
+        "b": "80 km/h",
+        "c": "100 km/h",
+        "respuesta": "a",
+        "explicacion": "Los vehículos de emergencia en servicio pueden operar sin límite de velocidad, pero deben hacerlo con cuidado y respeto a la seguridad de otros usuarios de la vía.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad para ciclistas en carriles para bicicletas?",
+        "a": "10 km/h",
+        "b": "20 km/h",
+        "c": "30 km/h",
+        "respuesta": "b",
+        "explicacion": "En carriles para bicicletas, el límite de velocidad puede ser de 20 km/h para garantizar la seguridad de los ciclistas y peatones.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué velocidad se recomienda al acercarse a un cruce ferroviario?",
+        "a": "10 km/h",
+        "b": "30 km/h",
+        "c": "40 km/h",
+        "respuesta": "b",
+        "explicacion": "Se recomienda reducir la velocidad a 30 km/h al acercarse a un cruce ferroviario para tener tiempo suficiente para detenerse si es necesario.",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el límite de velocidad en vías de un solo sentido?",
+        "a": "50 km/h",
+        "b": "60 km/h",
+        "c": "70 km/h",
+        "respuesta": "a",
+        "explicacion": "En vías de un solo sentido, el límite de velocidad comúnmente es de 50 km/h, dependiendo de la señalización específica.",
+        "categoria_id": 4
+    }
+]

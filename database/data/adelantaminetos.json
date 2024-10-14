@@ -1,0 +1,164 @@
+[
+    {
+        "pregunta": "¿Cuándo es legal adelantar en una carretera?",
+        "a": "En cualquier momento",
+        "b": "Solo cuando no hay líneas continuas",
+        "c": "Solo si el vehículo está parado",
+        "respuesta": "b",
+        "explicacion": "Es legal adelantar solo cuando no hay líneas continuas que prohíban la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debes hacer al adelantar a un ciclista?",
+        "a": "Acelerar rápidamente",
+        "b": "Mantener una distancia segura",
+        "c": "Tocar el claxon",
+        "respuesta": "b",
+        "explicacion": "Al adelantar a un ciclista, es importante mantener una distancia segura para garantizar su seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuál es la señal de advertencia de un adelantamiento?",
+        "a": "Una señal de stop",
+        "b": "Una línea continua",
+        "c": "Una línea discontinua",
+        "respuesta": "c",
+        "explicacion": "Una línea discontinua indica que es posible realizar un adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor antes de adelantar?",
+        "a": "Acelerar sin mirar",
+        "b": "Comprobar los espejos y puntos ciegos",
+        "c": "No hacer nada",
+        "respuesta": "b",
+        "explicacion": "Antes de adelantar, el conductor debe comprobar los espejos y puntos ciegos para asegurar que no hay riesgo.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Es legal adelantar en una curva?",
+        "a": "Sí, siempre",
+        "b": "No, nunca",
+        "c": "Solo en curvas amplias",
+        "respuesta": "b",
+        "explicacion": "No es legal adelantar en una curva, ya que puede ser peligroso debido a la visibilidad reducida.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué distancia mínima se debe mantener al adelantar un vehículo?",
+        "a": "1 metro",
+        "b": "1.5 metros",
+        "c": "2 metros",
+        "respuesta": "b",
+        "explicacion": "Se recomienda mantener una distancia mínima de 1.5 metros al adelantar un vehículo.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debes hacer si otro vehículo te está adelantando?",
+        "a": "Acelerar para no ser adelantado",
+        "b": "Mantener la velocidad y ceder el paso",
+        "c": "Desviarte a la acera",
+        "respuesta": "b",
+        "explicacion": "Debes mantener la velocidad y ceder el paso al vehículo que te está adelantando.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Prohibido adelantar'?",
+        "a": "Se puede adelantar",
+        "b": "No se puede adelantar",
+        "c": "Solo se puede adelantar en condiciones especiales",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Prohibido adelantar' indica que la maniobra no está permitida en ese tramo.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debes evitar al adelantar en una carretera?",
+        "a": "Mirar por los espejos",
+        "b": "Realizar la maniobra de forma brusca",
+        "c": "Aumentar la velocidad",
+        "respuesta": "b",
+        "explicacion": "Al adelantar, debes evitar realizar la maniobra de forma brusca, ya que puede causar accidentes.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debes hacer al volver a tu carril después de adelantar?",
+        "a": "Girar el volante bruscamente",
+        "b": "Asegurarte de que tienes suficiente espacio",
+        "c": "No es necesario mirar",
+        "respuesta": "b",
+        "explicacion": "Debes asegurarte de que tienes suficiente espacio antes de volver a tu carril tras un adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Es seguro adelantar a un vehículo en una zona de paso peatonal?",
+        "a": "Sí, siempre",
+        "b": "No, nunca",
+        "c": "Solo si no hay peatones",
+        "respuesta": "b",
+        "explicacion": "No es seguro adelantar a un vehículo en una zona de paso peatonal debido al riesgo de atropellos.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué condiciones meteorológicas pueden hacer que un adelantamiento sea peligroso?",
+        "a": "Buen tiempo",
+        "b": "Niebla o lluvia",
+        "c": "Día soleado",
+        "respuesta": "b",
+        "explicacion": "Condiciones como niebla o lluvia pueden reducir la visibilidad y aumentar el riesgo de accidentes al adelantar.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica una señal de advertencia sobre un cruce ferroviario?",
+        "a": "Es seguro adelantar",
+        "b": "No adelantar, hay riesgo de tren",
+        "c": "Se debe acelerar",
+        "respuesta": "b",
+        "explicacion": "La señal de advertencia sobre un cruce ferroviario indica que no se debe adelantar debido al riesgo de un tren.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al adelantar en una carretera de doble sentido?",
+        "a": "Adelantar sin mirar",
+        "b": "Asegurarse de que no vienen vehículos de frente",
+        "c": "Adelantar siempre que quieran",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben asegurarse de que no vienen vehículos de frente antes de realizar un adelantamiento en una carretera de doble sentido.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un conductor está indeciso al adelantar?",
+        "a": "Acelerar para presionarlo",
+        "b": "Esperar a que el conductor tome una decisión",
+        "c": "Tocar el claxon",
+        "respuesta": "b",
+        "explicacion": "Es mejor esperar a que el conductor indeciso tome una decisión antes de intentar adelantar.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si al adelantar hay un cambio de carril inesperado por parte del vehículo que se adelanta?",
+        "a": "Acelerar",
+        "b": "Frenar y mantener la distancia",
+        "c": "Chocar",
+        "respuesta": "b",
+        "explicacion": "En caso de un cambio de carril inesperado, se debe frenar y mantener la distancia para evitar un accidente.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de prohibición de adelantar'?",
+        "a": "Se puede adelantar",
+        "b": "No se puede adelantar",
+        "c": "Se debe reducir la velocidad",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de prohibición de adelantar' indica que ya se puede realizar la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "Al adelantar en una carretera, ¿qué se debe tener en cuenta sobre el límite de velocidad?",
+        "a": "Se puede exceder el límite",
+        "b": "Se debe respetar el límite de velocidad",
+        "c": "No importa la velocidad",
+        "respuesta": "b",
+        "explicacion": "Al adelantar, se debe respetar el límite de velocidad establecido en la carretera.",
+        "categoria_id": 6
+    }
+]

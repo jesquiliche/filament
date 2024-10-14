@@ -34,7 +34,7 @@ class CategoriaResource extends Resource
         return $form
             ->schema([
                 Select::make('bloque_id')
-                    ->label('Bloque')
+                    ->label('Carné de conducir')
                     ->relationship('bloque', 'nombre')  // relación con el modelo Bloque y mostrar el código
                     ->searchable()  // habilita la búsqueda en el combo
                     ->required(),
@@ -55,7 +55,7 @@ public static function table(Table $table): Table
     return $table
         ->columns([
             Tables\Columns\TextColumn::make('bloque.nombre')  // Muestra el nombre del bloque
-                ->label('Nombre del Bloque')
+                ->label('Carné de conducir')
                 ->sortable()
                 ->searchable(),
             Tables\Columns\TextColumn::make('nombre')

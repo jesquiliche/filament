@@ -26,28 +26,28 @@ class PreguntaSeeder extends Seeder
 
         DB::table('preguntas')->delete();
 
-        foreach($archivos as $archivo) {
-            $json = File::get($directorio.$archivo);
+        foreach ($archivos as $archivo) {
+            $json = File::get($directorio . $archivo);
             $data = json_decode($json);
             foreach ($data as $obj) {
                 Pregunta::create(array(
-                    
+
                     'pregunta' => $obj->pregunta,
-                    'a'=>$obj->a,
-                    'b'=>$obj->b,
-                    'c'=>$obj->c,
-                    'd'=>$obj->d,
+                    'a' => $obj->a,
+                    'b' => $obj->b,
+                    'c' => $obj->c,
+
+                    'Explicacion' => $obj->explicacion,
                     'respuesta' => $obj->respuesta,
-                    'categoria_id'=> $obj->categoria_id
+                    'categoria_id' => $obj->categoria_id
                 ));
-                print $obj->pregunta."\n";
-                print "  a) ".$obj->a."\n";
-                print "  b) ".$obj->b."\n";
-                print "  c) ".$obj->c."\n";
-                print "  d) ".$obj->d."\n";
+                print $obj->pregunta . "\n";
+                print "  a) " . $obj->a . "\n";
+                print "  b) " . $obj->b . "\n";
+                print "  c) " . $obj->c . "\n";
+            
                 print "\n";
             }
-  
         }
         //
     }

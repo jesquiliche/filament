@@ -15,12 +15,11 @@ return new class extends Migration
     {
         Schema::create('preguntas', function (Blueprint $table) {
             $table->id();
-            
+
             $table->text('pregunta');
             $table->string('a');
             $table->string('b');
             $table->string('c');
-            $table->string('d');
             $table->string('respuesta');
             $table->unsignedBigInteger('categoria_id');
             $table->text('Explicacion')->nullable();
@@ -28,8 +27,8 @@ return new class extends Migration
             $table->timestamps();
 
             $table->foreign('categoria_id')
-                  ->references('id')->on('categorias')
-                  ->onDelete('cascade');
+                ->references('id')->on('categorias')
+                ->onDelete('cascade');
         });
     }
 

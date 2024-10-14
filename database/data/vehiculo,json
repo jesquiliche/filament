@@ -1,0 +1,506 @@
+[
+    {
+        "pregunta": "¿Qué tipo de aceite se recomienda usar en un vehículo diésel?",
+        "a": "Aceite sintético",
+        "b": "Aceite mineral",
+        "c": "Aceite para gasolina",
+        "respuesta": "a",
+        "explicacion": "Se recomienda usar aceite sintético en vehículos diésel por su mejor rendimiento y protección del motor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función del alternador en un vehículo?",
+        "a": "Producir energía eléctrica",
+        "b": "Enfriar el motor",
+        "c": "Aumentar la velocidad",
+        "respuesta": "a",
+        "explicacion": "El alternador se encarga de producir energía eléctrica para cargar la batería y alimentar los sistemas eléctricos del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un sistema de inyección electrónica?",
+        "a": "Un sistema que mejora la eficiencia del combustible",
+        "b": "Un sistema para aumentar la potencia del motor",
+        "c": "Un sistema que elimina el aire del motor",
+        "respuesta": "a",
+        "explicacion": "La inyección electrónica mejora la eficiencia del combustible al controlar con precisión la mezcla de aire y gasolina.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué debe hacerse si la luz de advertencia del aceite se enciende en el tablero?",
+        "a": "Ignorar la luz",
+        "b": "Detener el vehículo y revisar el nivel de aceite",
+        "c": "Acelerar para que se apague",
+        "respuesta": "b",
+        "explicacion": "Si se enciende la luz de advertencia del aceite, es fundamental detener el vehículo y revisar el nivel de aceite inmediatamente.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función de los frenos antibloqueo (ABS)?",
+        "a": "Aumentar la velocidad",
+        "b": "Evitar que las ruedas se bloqueen durante una frenada",
+        "c": "Mejorar el rendimiento del motor",
+        "respuesta": "b",
+        "explicacion": "Los frenos antibloqueo (ABS) evitan que las ruedas se bloqueen durante una frenada, mejorando el control del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el sistema de dirección asistida?",
+        "a": "Un sistema que aumenta la velocidad del vehículo",
+        "b": "Un sistema que facilita el giro del volante",
+        "c": "Un sistema que mejora la suspensión",
+        "respuesta": "b",
+        "explicacion": "El sistema de dirección asistida facilita el giro del volante, especialmente a bajas velocidades.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Con qué frecuencia se recomienda cambiar el filtro de aire del motor?",
+        "a": "Cada 3.000 km",
+        "b": "Cada 10.000 km",
+        "c": "Cada 15.000 km",
+        "respuesta": "b",
+        "explicacion": "Se recomienda cambiar el filtro de aire del motor aproximadamente cada 10.000 km para asegurar un rendimiento óptimo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué tipo de combustible se utiliza en un vehículo de gasolina?",
+        "a": "Diésel",
+        "b": "Gasolina sin plomo",
+        "c": "Etanol",
+        "respuesta": "b",
+        "explicacion": "Los vehículos de gasolina utilizan gasolina sin plomo como combustible.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es la amortiguación en un vehículo?",
+        "a": "Un sistema de refrigeración",
+        "b": "Un sistema que controla el rebote de las ruedas",
+        "c": "Un componente del motor",
+        "respuesta": "b",
+        "explicacion": "La amortiguación es un sistema que controla el rebote de las ruedas, mejorando la estabilidad y el confort del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué significa la luz de advertencia del freno encendida?",
+        "a": "El sistema de frenos está funcionando correctamente",
+        "b": "Hay un problema en el sistema de frenos o el nivel de líquido es bajo",
+        "c": "El vehículo está en neutral",
+        "respuesta": "b",
+        "explicacion": "La luz de advertencia del freno indica un problema en el sistema de frenos o que el nivel de líquido de frenos es bajo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función de los faros antiniebla?",
+        "a": "Iluminar el camino a larga distancia",
+        "b": "Mejorar la visibilidad en condiciones de niebla",
+        "c": "Servir como luces de freno",
+        "respuesta": "b",
+        "explicacion": "Los faros antiniebla están diseñados para mejorar la visibilidad en condiciones de niebla o lluvia intensa.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué componente del vehículo se encarga de la refrigeración del motor?",
+        "a": "Radiador",
+        "b": "Alternador",
+        "c": "Filtro de aire",
+        "respuesta": "a",
+        "explicacion": "El radiador se encarga de la refrigeración del motor, evitando el sobrecalentamiento.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un diagnóstico a bordo (OBD)?",
+        "a": "Un sistema que mide la presión de los neumáticos",
+        "b": "Un sistema que monitorea el rendimiento del motor",
+        "c": "Un sistema que controla la dirección",
+        "respuesta": "b",
+        "explicacion": "El diagnóstico a bordo (OBD) es un sistema que monitorea el rendimiento del motor y puede detectar fallos.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué debe hacer al notar un ruido inusual en el motor?",
+        "a": "Ignorarlo",
+        "b": "Detenerse y revisar el motor",
+        "c": "Acelerar para ver si se detiene",
+        "respuesta": "b",
+        "explicacion": "Es importante detenerse y revisar el motor si se nota un ruido inusual, ya que podría indicar un problema serio.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe verificar regularmente en los neumáticos?",
+        "a": "La presión y el desgaste",
+        "b": "El color",
+        "c": "La marca",
+        "respuesta": "a",
+        "explicacion": "Es fundamental verificar regularmente la presión y el desgaste de los neumáticos para garantizar la seguridad.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué función tiene la batería en un vehículo?",
+        "a": "Producir energía para el motor",
+        "b": "Almacenar energía eléctrica para arrancar el motor",
+        "c": "Controlar la velocidad",
+        "respuesta": "b",
+        "explicacion": "La batería almacena energía eléctrica que se utiliza para arrancar el motor y alimentar los sistemas eléctricos.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es la sobrepresión en los neumáticos?",
+        "a": "Una presión normal",
+        "b": "Una presión excesiva que puede causar daños",
+        "c": "Una presión baja",
+        "respuesta": "b",
+        "explicacion": "La sobrepresión es una presión excesiva en los neumáticos que puede causar daños y afectar la estabilidad del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué tipo de transmisión tiene un vehículo manual?",
+        "a": "Transmisión automática",
+        "b": "Transmisión manual",
+        "c": "Transmisión semiautomática",
+        "respuesta": "b",
+        "explicacion": "Un vehículo manual tiene una transmisión manual que requiere que el conductor cambie las marchas.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el par motor?",
+        "a": "La fuerza que hace girar el motor",
+        "b": "La cantidad de combustible en el motor",
+        "c": "La velocidad máxima del vehículo",
+        "respuesta": "a",
+        "explicacion": "El par motor es la fuerza que hace girar el motor y se mide en Newton-metros (Nm).",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué efecto tiene el exceso de peso en un vehículo?",
+        "a": "Aumenta la eficiencia de combustible",
+        "b": "Disminuye la eficiencia de combustible",
+        "c": "No tiene efecto",
+        "respuesta": "b",
+        "explicacion": "El exceso de peso en un vehículo disminuye la eficiencia de combustible debido a la mayor resistencia que debe superar el motor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función del sistema de escape?",
+        "a": "Aumentar la velocidad",
+        "b": "Eliminar los gases de combustión",
+        "c": "Refrigerar el motor",
+        "respuesta": "b",
+        "explicacion": "El sistema de escape se encarga de eliminar los gases de combustión generados durante la operación del motor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué tipo de suspensión utilizan la mayoría de los vehículos modernos?",
+        "a": "Suspensión rígida",
+        "b": "Suspensión independiente",
+        "c": "Suspensión de muelle",
+        "respuesta": "b",
+        "explicacion": "La mayoría de los vehículos modernos utilizan suspensión independiente, que mejora la estabilidad y confort al conducir.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el sistema de frenado regenerativo?",
+        "a": "Un sistema que recarga la batería del vehículo",
+        "b": "Un sistema que aumenta la velocidad",
+        "c": "Un sistema que mejora el rendimiento del motor",
+        "respuesta": "a",
+        "explicacion": "El sistema de frenado regenerativo recarga la batería del vehículo al convertir la energía cinética en energía eléctrica durante el frenado.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un neumático se desinfla mientras se conduce?",
+        "a": "Acelerar para llegar a un taller",
+        "b": "Detenerse y cambiar el neumático",
+        "c": "Continuar conduciendo",
+        "respuesta": "b",
+        "explicacion": "Si un neumático se desinfla mientras se conduce, es importante detenerse de inmediato y cambiar el neumático para evitar accidentes.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de los frenos de disco?",
+        "a": "Mejorar la aceleración",
+        "b": "Aumentar la capacidad de frenado",
+        "c": "Disminuir el peso del vehículo",
+        "respuesta": "b",
+        "explicacion": "Los frenos de disco aumentan la capacidad de frenado, proporcionando un mejor rendimiento en comparación con los frenos de tambor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un vehículo híbrido?",
+        "a": "Un vehículo que solo utiliza gasolina",
+        "b": "Un vehículo que combina motor de combustión y eléctrico",
+        "c": "Un vehículo que no necesita combustible",
+        "respuesta": "b",
+        "explicacion": "Un vehículo híbrido combina un motor de combustión interna y un motor eléctrico para mejorar la eficiencia de combustible.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué puede causar un sobrecalentamiento del motor?",
+        "a": "Falta de aceite",
+        "b": "Uso del aire acondicionado",
+        "c": "Conducción a alta velocidad",
+        "respuesta": "a",
+        "explicacion": "La falta de aceite puede causar un sobrecalentamiento del motor, ya que el aceite es esencial para la lubricación y refrigeración.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función de la caja de cambios?",
+        "a": "Controlar la dirección del vehículo",
+        "b": "Ajustar la velocidad y el par del motor",
+        "c": "Mejorar la suspensión",
+        "respuesta": "b",
+        "explicacion": "La caja de cambios ajusta la velocidad y el par del motor para adaptarse a las condiciones de conducción.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el torque?",
+        "a": "La potencia máxima del motor",
+        "b": "La fuerza de giro que produce el motor",
+        "c": "La velocidad máxima del vehículo",
+        "respuesta": "b",
+        "explicacion": "El torque es la fuerza de giro que produce el motor y se mide en Newton-metros (Nm).",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe hacer antes de un viaje largo?",
+        "a": "Revisar el nivel de combustible",
+        "b": "Revisar el sistema de frenos y la presión de los neumáticos",
+        "c": "Acelerar al máximo",
+        "respuesta": "b",
+        "explicacion": "Antes de un viaje largo, es fundamental revisar el sistema de frenos y la presión de los neumáticos para garantizar la seguridad.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el sistema de suspensión?",
+        "a": "Un sistema que mejora la aerodinámica",
+        "b": "Un sistema que absorbe los impactos de la carretera",
+        "c": "Un sistema que controla la velocidad del motor",
+        "respuesta": "b",
+        "explicacion": "El sistema de suspensión absorbe los impactos de la carretera, proporcionando una conducción más suave y controlada.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe verificar en el líquido de frenos?",
+        "a": "Su nivel y calidad",
+        "b": "Su color",
+        "c": "Su temperatura",
+        "respuesta": "a",
+        "explicacion": "Es fundamental verificar el nivel y la calidad del líquido de frenos para asegurar un funcionamiento óptimo del sistema de frenos.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del líquido refrigerante?",
+        "a": "Limitar la cantidad de aceite",
+        "b": "Evitar el sobrecalentamiento del motor",
+        "c": "Aumentar la presión de los neumáticos",
+        "respuesta": "b",
+        "explicacion": "El líquido refrigerante evita el sobrecalentamiento del motor al regular su temperatura.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué tipo de neumáticos se utilizan en condiciones invernales?",
+        "a": "Neumáticos de verano",
+        "b": "Neumáticos para todo tipo de clima",
+        "c": "Neumáticos de invierno",
+        "respuesta": "c",
+        "explicacion": "Los neumáticos de invierno están diseñados para ofrecer un mejor agarre y rendimiento en condiciones frías y nevadas.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el consumo de combustible?",
+        "a": "La cantidad de combustible que consume un vehículo por distancia recorrida",
+        "b": "La velocidad máxima del vehículo",
+        "c": "El peso del vehículo",
+        "respuesta": "a",
+        "explicacion": "El consumo de combustible es la cantidad de combustible que un vehículo consume por cada kilómetro recorrido.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función del climatizador en un vehículo?",
+        "a": "Controlar la temperatura interior",
+        "b": "Aumentar la velocidad del motor",
+        "c": "Disminuir la presión de los neumáticos",
+        "respuesta": "a",
+        "explicacion": "El climatizador controla la temperatura interior del vehículo, proporcionando confort al conductor y pasajeros.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si la luz de advertencia del motor se enciende?",
+        "a": "Ignorar la luz",
+        "b": "Revisar el manual del propietario",
+        "c": "Detenerse y llamar a un mecánico",
+        "respuesta": "c",
+        "explicacion": "Si la luz de advertencia del motor se enciende, es recomendable detenerse y llamar a un mecánico para evitar daños mayores.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un vehículo eléctrico?",
+        "a": "Un vehículo que usa gasolina",
+        "b": "Un vehículo que funciona con energía eléctrica",
+        "c": "Un vehículo que funciona con diésel",
+        "respuesta": "b",
+        "explicacion": "Un vehículo eléctrico funciona con energía eléctrica almacenada en baterías, eliminando la necesidad de combustibles fósiles.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de los faros de un vehículo?",
+        "a": "Aumentar la velocidad",
+        "b": "Iluminar el camino por la noche",
+        "c": "Controlar la temperatura del motor",
+        "respuesta": "b",
+        "explicacion": "Los faros iluminan el camino por la noche y en condiciones de poca visibilidad para garantizar la seguridad del conductor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el ABS en un vehículo?",
+        "a": "Un tipo de motor",
+        "b": "Sistema de frenos antibloqueo",
+        "c": "Un sistema de navegación",
+        "respuesta": "b",
+        "explicacion": "El ABS (sistema de frenos antibloqueo) evita que las ruedas se bloqueen durante una frenada brusca, mejorando la seguridad.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué efecto tiene una alineación incorrecta de las ruedas?",
+        "a": "Mejora el consumo de combustible",
+        "b": "Desgaste irregular de los neumáticos",
+        "c": "Aumenta la velocidad del vehículo",
+        "respuesta": "b",
+        "explicacion": "Una alineación incorrecta de las ruedas provoca un desgaste irregular de los neumáticos, lo que puede llevar a su fallo prematuro.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el combustible diésel?",
+        "a": "Un tipo de combustible para vehículos eléctricos",
+        "b": "Un tipo de combustible que se utiliza en motores diésel",
+        "c": "Un tipo de aceite para motores",
+        "respuesta": "b",
+        "explicacion": "El combustible diésel se utiliza en motores diésel y se caracteriza por su mayor eficiencia y menor consumo en comparación con la gasolina.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué función tienen los espejos retrovisores?",
+        "a": "Aumentar la aerodinámica",
+        "b": "Permitir ver el tráfico detrás del vehículo",
+        "c": "Reducir el ruido del motor",
+        "respuesta": "b",
+        "explicacion": "Los espejos retrovisores permiten al conductor ver el tráfico que se encuentra detrás del vehículo, mejorando la seguridad.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un SUV?",
+        "a": "Un tipo de vehículo deportivo",
+        "b": "Un vehículo utilitario deportivo",
+        "c": "Un tipo de camión",
+        "respuesta": "b",
+        "explicacion": "Un SUV (Sport Utility Vehicle) es un vehículo utilitario deportivo diseñado para ofrecer espacio y capacidad tanto en carretera como fuera de ella.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué causa el deslizamiento de un vehículo en carretera?",
+        "a": "La aceleración excesiva",
+        "b": "Las condiciones climáticas adversas",
+        "c": "Todas las anteriores",
+        "respuesta": "c",
+        "explicacion": "El deslizamiento de un vehículo puede ser causado por la aceleración excesiva, condiciones climáticas adversas y otros factores.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el desgaste de los frenos?",
+        "a": "El proceso de deterioro de las pastillas de freno",
+        "b": "La disminución de la velocidad máxima",
+        "c": "El aumento de la eficiencia del motor",
+        "respuesta": "a",
+        "explicacion": "El desgaste de los frenos es el proceso de deterioro de las pastillas de freno, lo que puede afectar su capacidad de frenado.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué son los airbags?",
+        "a": "Sistemas que mejoran la aerodinámica",
+        "b": "Dispositivos de seguridad que se inflan en caso de colisión",
+        "c": "Sistemas de navegación",
+        "respuesta": "b",
+        "explicacion": "Los airbags son dispositivos de seguridad que se inflan en caso de colisión para proteger a los ocupantes del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un coche empieza a sobrecalentarse?",
+        "a": "Acelerar para enfriarlo",
+        "b": "Detenerse y revisar el sistema de refrigeración",
+        "c": "Continuar conduciendo",
+        "respuesta": "b",
+        "explicacion": "Si un coche empieza a sobrecalentarse, es importante detenerse y revisar el sistema de refrigeración para evitar daños al motor.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un motor de combustión interna?",
+        "a": "Un motor que funciona con energía solar",
+        "b": "Un motor que quema combustible para generar energía",
+        "c": "Un motor que utiliza energía eléctrica",
+        "respuesta": "b",
+        "explicacion": "Un motor de combustión interna quema combustible (gasolina o diésel) para generar energía y propulsar el vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es la función de un alternador en un vehículo?",
+        "a": "Recargar la batería",
+        "b": "Aumentar la velocidad del motor",
+        "c": "Disminuir la resistencia del aire",
+        "respuesta": "a",
+        "explicacion": "El alternador recarga la batería del vehículo mientras el motor está en funcionamiento, proporcionando energía a los sistemas eléctricos.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué se debe revisar periódicamente en un vehículo?",
+        "a": "Solo el sistema de frenos",
+        "b": "Todos los sistemas importantes, incluidos frenos, aceite y neumáticos",
+        "c": "Solo el sistema de escape",
+        "respuesta": "b",
+        "explicacion": "Es esencial revisar periódicamente todos los sistemas importantes del vehículo, incluidos frenos, aceite y neumáticos, para garantizar la seguridad y el buen funcionamiento.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un vehículo deportivo?",
+        "a": "Un vehículo diseñado para un rendimiento alto",
+        "b": "Un vehículo utilitario",
+        "c": "Un vehículo de pasajeros",
+        "respuesta": "a",
+        "explicacion": "Un vehículo deportivo está diseñado para ofrecer un alto rendimiento, velocidad y maniobrabilidad en comparación con los vehículos estándar.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué puede indicar un ruido inusual en el motor?",
+        "a": "Un buen funcionamiento",
+        "b": "Un problema mecánico potencial",
+        "c": "Un aumento de la velocidad",
+        "respuesta": "b",
+        "explicacion": "Un ruido inusual en el motor puede ser un signo de un problema mecánico potencial que debe ser revisado por un técnico.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo del mantenimiento preventivo?",
+        "a": "Aumentar el peso del vehículo",
+        "b": "Evitar fallos y alargar la vida útil del vehículo",
+        "c": "Mejorar el rendimiento de la pintura",
+        "respuesta": "b",
+        "explicacion": "El mantenimiento preventivo tiene como objetivo evitar fallos mecánicos y alargar la vida útil del vehículo mediante revisiones regulares.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es el control de tracción?",
+        "a": "Un sistema que mejora la aceleración",
+        "b": "Un sistema que previene el deslizamiento de las ruedas",
+        "c": "Un sistema de suspensión",
+        "respuesta": "b",
+        "explicacion": "El control de tracción es un sistema que previene el deslizamiento de las ruedas motrices, mejorando la estabilidad del vehículo.",
+        "categoria_id": 3
+    },
+    {
+        "pregunta": "¿Qué es un motor turboalimentado?",
+        "a": "Un motor que funciona con electricidad",
+        "b": "Un motor que utiliza un turbocompresor para aumentar la potencia",
+        "c": "Un motor que consume más combustible",
+        "respuesta": "b",
+        "explicacion": "Un motor turboalimentado utiliza un turbocompresor para aumentar la cantidad de aire y combustible que ingresa al motor, mejorando su potencia.",
+        "categoria_id": 3
+    }
+]

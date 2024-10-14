@@ -1,0 +1,335 @@
+[
+    {
+        "pregunta": "¿Quién tiene la prioridad de paso en una intersección sin señales de tráfico?",
+        "a": "El vehículo que llega primero",
+        "b": "El vehículo que circula por la derecha",
+        "c": "El vehículo más grande",
+        "respuesta": "b",
+        "explicacion": "En una intersección sin señales de tráfico, la regla general es que se debe ceder el paso al vehículo que circula por la derecha.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué vehículo tiene la prioridad de paso en una rotonda?",
+        "a": "El vehículo que entra en la rotonda",
+        "b": "El vehículo que ya está en la rotonda",
+        "c": "El vehículo de emergencia",
+        "respuesta": "b",
+        "explicacion": "Los vehículos que ya están en la rotonda tienen la prioridad de paso sobre los que están intentando entrar.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso en un cruce ferroviario sin barreras?",
+        "a": "Los vehículos que se acercan",
+        "b": "Los vehículos que circulan por la vía",
+        "c": "Ninguno, los trenes siempre tienen prioridad",
+        "respuesta": "c",
+        "explicacion": "En un cruce ferroviario, los trenes siempre tienen prioridad y los vehículos deben ceder el paso.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad de paso en un paso peatonal?",
+        "a": "Los vehículos",
+        "b": "Los peatones",
+        "c": "Ambos pueden pasar a la vez",
+        "respuesta": "b",
+        "explicacion": "Los peatones tienen la prioridad de paso en un paso peatonal, y los vehículos deben cederles el paso.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad en una vía de acceso a una carretera principal?",
+        "a": "Los vehículos que entran",
+        "b": "Los vehículos que ya circulan por la carretera principal",
+        "c": "Los vehículos de emergencia",
+        "respuesta": "b",
+        "explicacion": "Los vehículos que ya circulan por la carretera principal tienen la prioridad de paso sobre aquellos que entran desde una vía de acceso.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué vehículo tiene la prioridad en una intersección con señal de stop?",
+        "a": "El vehículo con la señal de stop",
+        "b": "Los vehículos que no tienen señal",
+        "c": "El vehículo más grande",
+        "respuesta": "b",
+        "explicacion": "Los vehículos que no tienen señal de stop tienen prioridad sobre aquellos que deben detenerse.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso en una intersección con semáforo en rojo?",
+        "a": "Los vehículos en rojo",
+        "b": "Los vehículos en verde",
+        "c": "Ninguno, todos deben parar",
+        "respuesta": "a",
+        "explicacion": "Los vehículos en un semáforo en rojo deben ceder el paso y detenerse.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad en una salida de una autopista?",
+        "a": "Los vehículos que están en la autopista",
+        "b": "Los vehículos que están saliendo",
+        "c": "Los vehículos que se incorporan",
+        "respuesta": "a",
+        "explicacion": "Los vehículos que están en la autopista tienen la prioridad sobre los que están saliendo.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué vehículo tiene la prioridad en un paso a nivel con barrera?",
+        "a": "Los vehículos en la vía",
+        "b": "Los trenes",
+        "c": "Los vehículos que esperan",
+        "respuesta": "b",
+        "explicacion": "Los trenes siempre tienen prioridad en un paso a nivel con barrera.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso en una intersección donde hay vehículos circulando en ambas direcciones?",
+        "a": "Los vehículos que giran",
+        "b": "Los vehículos que van recto",
+        "c": "Los vehículos de emergencia",
+        "respuesta": "a",
+        "explicacion": "Los vehículos que giran deben ceder el paso a los que circulan recto.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad en una carretera con un límite de velocidad más alto?",
+        "a": "Los vehículos que van más rápido",
+        "b": "Los vehículos que cumplen el límite",
+        "c": "Los vehículos que tienen luces intermitentes",
+        "respuesta": "b",
+        "explicacion": "Los vehículos que cumplen el límite de velocidad tienen la prioridad, independientemente de la velocidad de otros vehículos.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué vehículo tiene la prioridad en un paso de peatones con semáforo?",
+        "a": "Los vehículos en rojo",
+        "b": "Los peatones",
+        "c": "Los vehículos en verde",
+        "respuesta": "b",
+        "explicacion": "Los peatones tienen prioridad de paso en un paso de peatones con semáforo en verde para ellos.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso al incorporarse a una vía con tráfico?",
+        "a": "El vehículo que se incorpora",
+        "b": "Los vehículos en la vía",
+        "c": "Ambos tienen la misma prioridad",
+        "respuesta": "a",
+        "explicacion": "El vehículo que se incorpora debe ceder el paso a los que ya están en la vía.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene prioridad en una intersección regulada por semáforos?",
+        "a": "Los vehículos en rojo",
+        "b": "Los vehículos en verde",
+        "c": "Los peatones",
+        "respuesta": "b",
+        "explicacion": "Los vehículos en un semáforo en verde tienen la prioridad de paso sobre los que están en rojo.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué vehículo tiene prioridad al girar a la izquierda en una intersección?",
+        "a": "Los vehículos que vienen de frente",
+        "b": "Los vehículos que giran a la derecha",
+        "c": "Los vehículos que están en el carril de giro",
+        "respuesta": "a",
+        "explicacion": "Los vehículos que giran a la izquierda deben ceder el paso a los vehículos que vienen de frente en la mayoría de los casos.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso en un cruce donde no hay señales de tráfico?",
+        "a": "Los vehículos que circulan por la derecha",
+        "b": "Los vehículos que circulan por la izquierda",
+        "c": "Los vehículos que están en el cruce",
+        "respuesta": "a",
+        "explicacion": "En un cruce sin señales de tráfico, se debe ceder el paso a los vehículos que circulan por la derecha.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene prioridad en un cruce con señal de prioridad?",
+        "a": "Los vehículos con señal de prioridad",
+        "b": "Los vehículos sin señal",
+        "c": "Ninguno, todos tienen la misma prioridad",
+        "respuesta": "b",
+        "explicacion": "Los vehículos sin señal de prioridad tienen la prioridad de paso sobre aquellos que tienen señal de prioridad.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién debe ceder el paso en una carretera secundaria?",
+        "a": "Los vehículos en la carretera principal",
+        "b": "Los vehículos en la carretera secundaria",
+        "c": "Ambos tienen la misma prioridad",
+        "respuesta": "b",
+        "explicacion": "Los vehículos en la carretera secundaria deben ceder el paso a los que están en la carretera principal.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad en una calle sin salida?",
+        "a": "Los vehículos que entran",
+        "b": "Los vehículos que salen",
+        "c": "Ambos tienen la misma prioridad",
+        "respuesta": "b",
+        "explicacion": "Los vehículos que salen de una calle sin salida tienen prioridad sobre los que entran.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Quién tiene la prioridad en una intersección sin señalización?",
+        "a": "El vehículo que llega primero",
+        "b": "El vehículo que circula por la derecha",
+        "c": "El vehículo más grande",
+        "respuesta": "b",
+        "explicacion": "En una intersección sin señalización, el vehículo que circula por la derecha tiene prioridad.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al acercarse a un paso peatonal?",
+        "a": "Acelerar para pasar antes",
+        "b": "Detenerse si hay peatones cruzando",
+        "c": "Mantener la velocidad",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse si hay peatones cruzando un paso peatonal.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "En una rotonda, ¿quién tiene prioridad?",
+        "a": "Los vehículos que están dentro de la rotonda",
+        "b": "Los vehículos que entran a la rotonda",
+        "c": "Los vehículos que se detienen",
+        "respuesta": "a",
+        "explicacion": "Los vehículos que están dentro de la rotonda tienen prioridad sobre los que están por entrar.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Ceda el paso'?",
+        "a": "Detenerse completamente",
+        "b": "Reducir la velocidad y ceder el paso",
+        "c": "Continuar sin detenerse",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceda el paso' indica que el conductor debe reducir la velocidad y ceder el paso a otros vehículos.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al ver un vehículo de emergencia con luces intermitentes?",
+        "a": "Acelerar",
+        "b": "Detenerse y ceder el paso",
+        "c": "Continuar conduciendo sin cambios",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse y ceder el paso a los vehículos de emergencia.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "En una intersección controlada por un semáforo en rojo, ¿qué deben hacer los conductores?",
+        "a": "Detenerse completamente",
+        "b": "Acelerar para pasar antes de que cambie",
+        "c": "Continuar si no hay otros vehículos",
+        "respuesta": "a",
+        "explicacion": "Los conductores deben detenerse completamente en un semáforo en rojo.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "Si dos vehículos llegan a una intersección al mismo tiempo, ¿quién tiene prioridad?",
+        "a": "El vehículo que está a la izquierda",
+        "b": "El vehículo que está a la derecha",
+        "c": "El vehículo más rápido",
+        "respuesta": "b",
+        "explicacion": "El vehículo que está a la derecha tiene prioridad en caso de que ambos lleguen a la intersección al mismo tiempo.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al acercarse a una señal de 'Stop'?",
+        "a": "Detenerse completamente antes de la línea de detención",
+        "b": "Solo reducir la velocidad",
+        "c": "Ignorar la señal si no hay tráfico",
+        "respuesta": "a",
+        "explicacion": "El conductor debe detenerse completamente antes de la línea de detención al ver una señal de 'Stop'.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué indica un semáforo en verde?",
+        "a": "Detenerse y esperar",
+        "b": "Pasar con precaución",
+        "c": "Acelerar",
+        "respuesta": "b",
+        "explicacion": "Un semáforo en verde indica que el conductor puede pasar, pero debe hacerlo con precaución.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores cuando un autobús escolar se detiene con luces intermitentes?",
+        "a": "Acelerar para pasar",
+        "b": "Detenerse y ceder el paso a los niños",
+        "c": "Continuar sin detenerse",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse y ceder el paso a los niños cuando un autobús escolar se detiene con luces intermitentes.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "En una vía con señal de 'Ceda el paso', ¿qué deben hacer los conductores?",
+        "a": "Detenerse completamente",
+        "b": "Reducir la velocidad y ceder el paso",
+        "c": "Acelerar",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben reducir la velocidad y ceder el paso a los vehículos en la vía principal.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "Al girar a la izquierda en una intersección, ¿qué debe hacer un conductor respecto a los vehículos que vienen de frente?",
+        "a": "Ignorar los vehículos que vienen de frente",
+        "b": "Ceder el paso a los vehículos que vienen de frente",
+        "c": "Girar rápidamente para no hacer esperar",
+        "respuesta": "b",
+        "explicacion": "Un conductor debe ceder el paso a los vehículos que vienen de frente al girar a la izquierda.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "Si un conductor se aproxima a un cruce de ferrocarril con señales luminosas, ¿qué debe hacer?",
+        "a": "Acelerar para cruzar",
+        "b": "Detenerse y esperar a que el paso esté despejado",
+        "c": "Continuar si no hay tren a la vista",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse y esperar a que el paso esté despejado cuando hay señales luminosas en un cruce de ferrocarril.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Ceder el paso'?",
+        "a": "Detenerse completamente",
+        "b": "Reducir la velocidad y ceder el paso a otros vehículos",
+        "c": "Acelerar si no hay tráfico",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceder el paso' indica que el conductor debe reducir la velocidad y ceder el paso a otros vehículos.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si ven un semáforo intermitente amarillo?",
+        "a": "Detenerse completamente",
+        "b": "Acelerar para pasar",
+        "c": "Reducir la velocidad y estar preparados para detenerse",
+        "respuesta": "c",
+        "explicacion": "Un semáforo intermitente amarillo indica que los conductores deben reducir la velocidad y estar preparados para detenerse.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con una señal de 'Detenerse'?",
+        "a": "Continuar si no hay tráfico",
+        "b": "Detenerse completamente",
+        "c": "Reducir la velocidad",
+        "respuesta": "b",
+        "explicacion": "El conductor debe detenerse completamente en la señal de 'Detenerse'.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "Si un conductor está girando a la derecha en una intersección, ¿qué debe hacer respecto a los ciclistas?",
+        "a": "Acelerar para pasar antes",
+        "b": "Ceder el paso a los ciclistas que cruzan",
+        "c": "Ignorar a los ciclistas",
+        "respuesta": "b",
+        "explicacion": "Un conductor debe ceder el paso a los ciclistas que cruzan al girar a la derecha.",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "Al entrar en una vía con señal de 'Ceda el paso', ¿qué deben hacer los conductores?",
+        "a": "Girar a la derecha",
+        "b": "Reducir la velocidad y ceder el paso",
+        "c": "Acelerar",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben reducir la velocidad y ceder el paso al entrar en una vía con señal de 'Ceda el paso'.",
+        "categoria_id": 5
+    }
+]

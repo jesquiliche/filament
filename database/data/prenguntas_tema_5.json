@@ -1,0 +1,236 @@
+[
+    {
+        "pregunta": "¿Cuál es la velocidad máxima permitida en una vía urbana para vehículos ligeros?",
+        "a": "30 km/h",
+        "b": "50 km/h",
+        "c": "70 km/h",
+        "respuesta": "b",
+        "explicacion": "La velocidad máxima permitida en vías urbanas es de 50 km/h, salvo que se indique lo contrario.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué documento es necesario llevar siempre en el vehículo al conducir?",
+        "a": "Permiso de circulación",
+        "b": "Seguro del vehículo",
+        "c": "Todos los anteriores",
+        "respuesta": "c",
+        "explicacion": "Es obligatorio llevar el permiso de circulación, la tarjeta de inspección técnica y el justificante del seguro del vehículo.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué significa una luz roja en un semáforo?",
+        "a": "Detenerse",
+        "b": "Ceder el paso",
+        "c": "Continuar",
+        "respuesta": "a",
+        "explicacion": "La luz roja en un semáforo indica que los vehículos deben detenerse.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima que debe haber entre un vehículo y un ciclista al adelantarlo?",
+        "a": "1,5 metros",
+        "b": "2 metros",
+        "c": "0,5 metros",
+        "respuesta": "a",
+        "explicacion": "Al adelantar a un ciclista, se debe dejar una distancia mínima de 1,5 metros para garantizar su seguridad.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué tipo de señal indica una restricción de velocidad?",
+        "a": "Señal de obligación",
+        "b": "Señal informativa",
+        "c": "Señal de prioridad",
+        "respuesta": "a",
+        "explicacion": "Las señales de obligación indican las normas que deben cumplirse, incluyendo las restricciones de velocidad.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al acercarse a un paso de peatones con personas esperando?",
+        "a": "Detenerse y ceder el paso",
+        "b": "Acelerar para pasar rápido",
+        "c": "Aumentar la velocidad",
+        "respuesta": "a",
+        "explicacion": "El conductor debe detenerse y ceder el paso a los peatones que esperan en un paso de peatones.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el alcohol máximo permitido en sangre para un conductor novel?",
+        "a": "0,0 g/l",
+        "b": "0,5 g/l",
+        "c": "0,8 g/l",
+        "respuesta": "a",
+        "explicacion": "Los conductores noveles deben tener un nivel de alcohol en sangre de 0,0 g/l.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué situación se permite utilizar el móvil mientras se conduce?",
+        "a": "Con un manos libres",
+        "b": "Nunca",
+        "c": "Si el vehículo está parado",
+        "respuesta": "a",
+        "explicacion": "Se permite el uso de dispositivos móviles siempre que se utilice un sistema de manos libres.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué significa una señal triangular con un borde rojo?",
+        "a": "Advertencia",
+        "b": "Obligación",
+        "c": "Información",
+        "respuesta": "a",
+        "explicacion": "Las señales triangulares con borde rojo son señales de advertencia que indican un peligro potencial.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al encontrar un semáforo en ámbar?",
+        "a": "Acelerar",
+        "b": "Detenerse si es seguro",
+        "c": "Pasar sin parar",
+        "respuesta": "b",
+        "explicacion": "El ámbar indica que el semáforo va a cambiar a rojo, por lo que se debe detener si es seguro hacerlo.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la obligación del conductor al ver una señal de stop?",
+        "a": "Reducir la velocidad",
+        "b": "Detenerse completamente",
+        "c": "Ceder el paso",
+        "respuesta": "b",
+        "explicacion": "Ante una señal de stop, el conductor debe detenerse completamente antes de continuar.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un ciclista se incorpora a la vía desde un carril bici?",
+        "a": "Ceder el paso",
+        "b": "Tocar el claxon",
+        "c": "Ignorarlo",
+        "respuesta": "a",
+        "explicacion": "Se debe ceder el paso a los ciclistas que se incorporan a la vía desde un carril bici.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima en una autovía para turismos?",
+        "a": "100 km/h",
+        "b": "120 km/h",
+        "c": "130 km/h",
+        "respuesta": "b",
+        "explicacion": "La velocidad máxima permitida en autovías para turismos es de 120 km/h, salvo señalización contraria.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se encuentra un accidente en la carretera?",
+        "a": "Detenerse y ayudar si es seguro",
+        "b": "Continuar sin mirar",
+        "c": "Llamar a la policía desde el lugar",
+        "respuesta": "a",
+        "explicacion": "Si es seguro hacerlo, el conductor debe detenerse y ayudar a los involucrados en el accidente.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué tipo de vehículo no debe utilizar el carril bus?",
+        "a": "Coches particulares",
+        "b": "Autobuses",
+        "c": "Bicicletas",
+        "respuesta": "a",
+        "explicacion": "Los coches particulares no deben utilizar el carril bus, que está reservado para el transporte público.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué acción se debe tomar al entrar en una rotonda?",
+        "a": "Ceder el paso a los vehículos que ya están en la rotonda",
+        "b": "Acelerar para entrar rápidamente",
+        "c": "Detenerse antes de entrar",
+        "respuesta": "a",
+        "explicacion": "Al entrar en una rotonda, se debe ceder el paso a los vehículos que ya están circulando en ella.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué indica una línea continua en el centro de la carretera?",
+        "a": "No se puede adelantar",
+        "b": "Se puede cambiar de carril",
+        "c": "Es una zona de parada",
+        "respuesta": "a",
+        "explicacion": "Una línea continua indica que está prohibido adelantar.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por conducir bajo los efectos del alcohol?",
+        "a": "Multa económica",
+        "b": "Pérdida de puntos del carné",
+        "c": "Detención del vehículo",
+        "respuesta": "a",
+        "explicacion": "Conducir bajo los efectos del alcohol puede acarrear multas económicas, pérdida de puntos y, en ocasiones, la detención del vehículo.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Prohibido estacionar'?",
+        "a": "No se puede estacionar en esa área",
+        "b": "Estacionamiento permitido solo para residentes",
+        "c": "Estacionamiento permitido solo en ciertas horas",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido estacionar' indica que no se puede estacionar en esa área.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el semáforo se apaga?",
+        "a": "Detenerse y ceder el paso",
+        "b": "Acelerar para pasar rápidamente",
+        "c": "Continuar sin detenerse",
+        "respuesta": "a",
+        "explicacion": "Si el semáforo se apaga, el conductor debe detenerse y ceder el paso como si fuera un cruce con señal de stop.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la distancia de seguridad recomendada entre vehículos?",
+        "a": "1 segundo",
+        "b": "2 segundos",
+        "c": "3 segundos",
+        "respuesta": "b",
+        "explicacion": "La distancia de seguridad recomendada entre vehículos es de al menos 2 segundos para poder reaccionar a tiempo.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué documento no es necesario para conducir?",
+        "a": "Permiso de circulación",
+        "b": "DNI",
+        "c": "Registro de vehículo",
+        "respuesta": "c",
+        "explicacion": "El registro del vehículo no es necesario tenerlo en el momento de conducir, aunque debe estar en regla.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay un vehículo de emergencia con luces encendidas detrás?",
+        "a": "Acelerar y alejarse",
+        "b": "Detenerse y ceder el paso",
+        "c": "Ignorarlo",
+        "respuesta": "b",
+        "explicacion": "Se debe detener y ceder el paso a los vehículos de emergencia.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué acción se debe realizar en caso de que un vehículo se detenga en la carretera?",
+        "a": "Acelerar para evitarlo",
+        "b": "Reducir la velocidad y estar alerta",
+        "c": "Detenerse detrás del vehículo",
+        "respuesta": "b",
+        "explicacion": "Al ver un vehículo detenido en la carretera, se debe reducir la velocidad y estar alerta para evitar accidentes.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si escucha una sirena de un vehículo de emergencia?",
+        "a": "Seguir conduciendo",
+        "b": "Detenerse y ceder el paso",
+        "c": "Acelerar",
+        "respuesta": "b",
+        "explicacion": "El conductor debe detenerse y ceder el paso a los vehículos de emergencia que solicitan pasar.",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la sanción por no llevar el cinturón de seguridad?",
+        "a": "Multa económica",
+        "b": "Pérdida de puntos",
+        "c": "Ambas anteriores",
+        "respuesta": "c",
+        "explicacion": "No llevar el cinturón de seguridad puede resultar en una multa económica y pérdida de puntos del carné de conducir.",
+        "categoria_id": 1
+    }
+]

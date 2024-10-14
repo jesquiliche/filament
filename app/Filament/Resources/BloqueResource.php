@@ -29,7 +29,7 @@ class BloqueResource extends Resource
                 Forms\Components\Textarea::make('descripcion')
                     ->required()
                     ->maxLength(255)
-                    
+
             ]);
     }
 
@@ -38,7 +38,12 @@ class BloqueResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('nombre')
+                    ->label('Carné de conducir')
                     ->searchable(),
+                Tables\Columns\TextColumn::make('descripcion')
+                    ->label('Descripción')
+                    ->searchable(),
+
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()

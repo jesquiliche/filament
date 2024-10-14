@@ -14,9 +14,9 @@ class Pregunta extends Model
         'a', 
         'b', 
         'c', 
-        'd', 
+        
         'respuesta', 
-        'explicacion',
+        'Explicacion',
         'image',
         'categoria_id'
     ];

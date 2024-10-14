@@ -1,0 +1,497 @@
+[
+    {
+        "pregunta": "¿Qué tipo de vehículo se puede conducir con el carnet de conducir B?",
+        "a": "Turismos y furgonetas de hasta 3.500 kg",
+        "b": "Camiones y autobuses",
+        "c": "Motos de más de 125 cc",
+        "respuesta": "a",
+        "explicacion": "Con el carnet de conducir B se pueden conducir turismos y furgonetas cuyo peso no exceda los 3.500 kg.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué edad mínima se requiere para obtener el carnet de conducir B?",
+        "a": "16 años",
+        "b": "18 años",
+        "c": "21 años",
+        "respuesta": "b",
+        "explicacion": "La edad mínima para obtener el carnet de conducir B es de 18 años.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos puntos se asignan al carnet de conducir B al obtenerlo?",
+        "a": "8 puntos",
+        "b": "12 puntos",
+        "c": "15 puntos",
+        "respuesta": "b",
+        "explicacion": "Al obtener el carnet de conducir B, se asignan 12 puntos.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es lo primero que debe hacer un nuevo conductor al obtener su carnet?",
+        "a": "Conducir sin restricciones",
+        "b": "Realizar un curso de conducción segura",
+        "c": "Conducir con un acompañante durante un periodo de tiempo",
+        "respuesta": "c",
+        "explicacion": "Los nuevos conductores deben conducir con un acompañante durante un periodo de tiempo como parte de su formación.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos pasajeros se pueden transportar en un vehículo con carnet B?",
+        "a": "Hasta 5 pasajeros",
+        "b": "Hasta 8 pasajeros",
+        "c": "Sin límite, siempre que no exceda el peso",
+        "respuesta": "b",
+        "explicacion": "Con el carnet B se pueden transportar hasta 8 pasajeros, sin contar al conductor.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué se requiere para conducir una furgoneta con un peso superior a 3.500 kg?",
+        "a": "Carnet B",
+        "b": "Carnet C",
+        "c": "Carnet B+E",
+        "respuesta": "b",
+        "explicacion": "Para conducir una furgoneta que exceda los 3.500 kg se necesita el carnet de conducir C.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la duración del periodo de prueba para los nuevos conductores?",
+        "a": "1 año",
+        "b": "2 años",
+        "c": "3 años",
+        "respuesta": "b",
+        "explicacion": "El periodo de prueba para los nuevos conductores es de 2 años.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué significa perder puntos en el carnet de conducir B?",
+        "a": "Que el carnet se anula inmediatamente",
+        "b": "Que se acumulan puntos y se puede perder el carnet",
+        "c": "Que se debe pagar una multa",
+        "respuesta": "b",
+        "explicacion": "Perder puntos en el carnet de conducir B significa que se acumulan y, si se llega a 0, se puede perder el carnet.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de conducción se prohíbe con el carnet de conducir B?",
+        "a": "Conducir con más de 8 pasajeros",
+        "b": "Conducir vehículos de motor de más de 125 cc",
+        "c": "Conducir sin seguro",
+        "respuesta": "a",
+        "explicacion": "Con el carnet de conducir B, está prohibido conducir vehículos que transporten más de 8 pasajeros.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué requisitos se necesitan para llevar un remolque con el carnet B?",
+        "a": "Ninguno, se puede llevar cualquier remolque",
+        "b": "Que el remolque no exceda los 750 kg",
+        "c": "Que el remolque tenga frenos",
+        "respuesta": "b",
+        "explicacion": "Con el carnet de conducir B, se puede llevar un remolque siempre que no exceda los 750 kg.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor que acumula 8 puntos de penalización?",
+        "a": "Recuperar los puntos en un curso",
+        "b": "Pedir la renovación del carnet",
+        "c": "Dejar de conducir",
+        "respuesta": "a",
+        "explicacion": "Un conductor que acumula 8 puntos de penalización debe realizar un curso para recuperar puntos.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es un curso de reeducación vial?",
+        "a": "Un curso para obtener un nuevo carnet",
+        "b": "Un curso para recuperar puntos",
+        "c": "Un curso para enseñar a conducir",
+        "respuesta": "b",
+        "explicacion": "Un curso de reeducación vial es un curso para recuperar puntos perdidos en el carnet de conducir.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué se puede hacer con el carnet B+E?",
+        "a": "Conducir turismos",
+        "b": "Conducir vehículos y remolques de más de 750 kg",
+        "c": "Conducir autobuses",
+        "respuesta": "b",
+        "explicacion": "El carnet B+E permite conducir vehículos de motor y remolques cuya combinación no exceda los 3.500 kg.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué acción es obligatoria al circular con un vehículo con remolque?",
+        "a": "Aumentar la velocidad",
+        "b": "Mantener una mayor distancia de seguridad",
+        "c": "Reducir el peso del remolque",
+        "respuesta": "b",
+        "explicacion": "Es obligatorio mantener una mayor distancia de seguridad al circular con un vehículo que lleva un remolque.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué multa se puede recibir por no llevar el cinturón de seguridad?",
+        "a": "200 euros",
+        "b": "100 euros",
+        "c": "300 euros",
+        "respuesta": "b",
+        "explicacion": "La multa por no llevar el cinturón de seguridad es de 100 euros.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es el permiso de conducción por puntos?",
+        "a": "Un tipo de licencia sin restricciones",
+        "b": "Un sistema que penaliza infracciones con puntos",
+        "c": "Un carnet especial para conductores profesionales",
+        "respuesta": "b",
+        "explicacion": "El permiso de conducción por puntos es un sistema que asigna puntos a los conductores, que se pueden perder por infracciones.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué documentación debe llevar un conductor en su vehículo?",
+        "a": "Solo el DNI",
+        "b": "Permiso de circulación y seguro",
+        "c": "Solo el permiso de circulación",
+        "respuesta": "b",
+        "explicacion": "Es obligatorio llevar el permiso de circulación y el justificante del seguro en el vehículo.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es lo primero que debe verificar un conductor antes de iniciar la marcha?",
+        "a": "La cantidad de combustible",
+        "b": "La presión de los neumáticos",
+        "c": "Que el GPS esté funcionando",
+        "respuesta": "b",
+        "explicacion": "Antes de iniciar la marcha, es importante verificar la presión de los neumáticos para garantizar la seguridad.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si va a estacionar en un lugar no permitido?",
+        "a": "Estacionar de todas formas",
+        "b": "Buscar un lugar permitido",
+        "c": "Esperar a que no haya policías cerca",
+        "respuesta": "b",
+        "explicacion": "Un conductor debe buscar un lugar permitido para estacionar y no estacionar en lugares no autorizados.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de documentos debe presentar al realizar el examen práctico del carnet B?",
+        "a": "Solo el DNI",
+        "b": "DNI, informe médico y justificante de pago",
+        "c": "DNI y un formulario de solicitud",
+        "respuesta": "b",
+        "explicacion": "Al realizar el examen práctico, es necesario presentar el DNI, un informe médico y el justificante de pago de las tasas.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es el seguro de responsabilidad civil?",
+        "a": "Un seguro que cubre daños a terceros",
+        "b": "Un seguro que cubre daños propios",
+        "c": "Un seguro opcional",
+        "respuesta": "a",
+        "explicacion": "El seguro de responsabilidad civil es obligatorio y cubre daños a terceros en caso de accidente.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima permitida en carreteras convencionales para vehículos con carnet B?",
+        "a": "90 km/h",
+        "b": "100 km/h",
+        "c": "120 km/h",
+        "respuesta": "a",
+        "explicacion": "La velocidad máxima permitida en carreteras convencionales es de 90 km/h para vehículos con carnet B.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con un semáforo en rojo?",
+        "a": "Acelerar para pasar antes de que cambie",
+        "b": "Detenerse y esperar a que cambie a verde",
+        "c": "Sigue adelante si no hay tráfico",
+        "respuesta": "b",
+        "explicacion": "Un conductor debe detenerse en un semáforo en rojo y esperar a que cambie a verde.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de vehículo no se puede conducir con el carnet B?",
+        "a": "Turismos",
+        "b": "Autobuses",
+        "c": "Furgonetas",
+        "respuesta": "b",
+        "explicacion": "Con el carnet B no se pueden conducir autobuses, ya que requieren un carnet diferente.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la tasa de alcohol permitida para conductores con carnet B en la mayoría de los países?",
+        "a": "0.5 g/l",
+        "b": "0.8 g/l",
+        "c": "0.2 g/l",
+        "respuesta": "a",
+        "explicacion": "La tasa de alcohol permitida para conductores con carnet B en la mayoría de los países es de 0.5 g/l.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué acción es obligatoria al ver un vehículo de emergencia con sirenas encendidas?",
+        "a": "Acelerar y alejarse rápidamente",
+        "b": "Detenerse y ceder el paso",
+        "c": "Continuar con precaución",
+        "respuesta": "b",
+        "explicacion": "Al ver un vehículo de emergencia, es obligatorio detenerse y ceder el paso.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de luces se deben usar en condiciones de baja visibilidad?",
+        "a": "Luces de posición",
+        "b": "Luces largas",
+        "c": "Luces de cruce",
+        "respuesta": "c",
+        "explicacion": "En condiciones de baja visibilidad, se deben usar las luces de cruce.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es una señal de stop?",
+        "a": "Una señal que indica que se debe reducir la velocidad",
+        "b": "Una señal que indica que se debe detener completamente",
+        "c": "Una señal que indica un giro permitido",
+        "respuesta": "b",
+        "explicacion": "La señal de stop indica que se debe detener completamente antes de continuar.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el vehículo se queda sin combustible en la carretera?",
+        "a": "Estacionar y esperar a que alguien lo ayude",
+        "b": "Abandonar el vehículo y buscar ayuda",
+        "c": "Estacionar en un lugar seguro y avisar a la grúa",
+        "respuesta": "c",
+        "explicacion": "Si el vehículo se queda sin combustible, se debe estacionar en un lugar seguro y avisar a la grúa.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es el reciclaje de puntos?",
+        "a": "Un sistema para recuperar puntos perdidos",
+        "b": "Un sistema para asignar puntos a nuevos conductores",
+        "c": "Un programa de educación vial",
+        "respuesta": "a",
+        "explicacion": "El reciclaje de puntos es un programa para recuperar puntos perdidos en el carnet de conducir.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de vehículos se pueden conducir con el carnet B en una categoría especial?",
+        "a": "Vehículos eléctricos",
+        "b": "Coches de competición",
+        "c": "Vehículos de hasta 4.250 kg de peso",
+        "respuesta": "c",
+        "explicacion": "Con el carnet B se pueden conducir vehículos de hasta 4.250 kg de peso en una categoría especial.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuánto tiempo tiene un conductor para renovar su carnet B antes de que expire?",
+        "a": "6 meses",
+        "b": "3 meses",
+        "c": "1 mes",
+        "respuesta": "b",
+        "explicacion": "Un conductor tiene 3 meses para renovar su carnet B antes de que expire.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué equipo de seguridad es obligatorio llevar en el vehículo?",
+        "a": "Extintor y triángulos de emergencia",
+        "b": "Solo un botiquín",
+        "c": "No se necesita llevar nada",
+        "respuesta": "a",
+        "explicacion": "Es obligatorio llevar un extintor y triángulos de emergencia en el vehículo.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la multa por usar el teléfono móvil mientras se conduce?",
+        "a": "100 euros",
+        "b": "300 euros",
+        "c": "200 euros",
+        "respuesta": "c",
+        "explicacion": "La multa por usar el teléfono móvil mientras se conduce puede ser de 200 euros.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué hacer si se tiene un accidente de tráfico?",
+        "a": "Abandonar el lugar",
+        "b": "Intercambiar datos con el otro conductor y avisar a la policía",
+        "c": "Pedir ayuda a un amigo",
+        "respuesta": "b",
+        "explicacion": "Si se tiene un accidente, se deben intercambiar datos con el otro conductor y avisar a la policía.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es un curso de sensibilización y reeducación vial?",
+        "a": "Un curso para obtener el carnet",
+        "b": "Un curso para conductores que han perdido puntos",
+        "c": "Un curso opcional",
+        "respuesta": "b",
+        "explicacion": "Es un curso que deben realizar los conductores que han perdido puntos por infracciones.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué implica tener un saldo de 0 puntos en el carnet?",
+        "a": "Que el carnet es válido por un año más",
+        "b": "La pérdida del carnet de conducir",
+        "c": "Ninguna consecuencia",
+        "respuesta": "b",
+        "explicacion": "Tener un saldo de 0 puntos implica la pérdida del carnet de conducir hasta que se recupere.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de documentos debe presentar al realizar el examen práctico del carnet B?",
+        "a": "Solo el DNI",
+        "b": "DNI, informe médico y justificante de pago",
+        "c": "DNI y un formulario de solicitud",
+        "respuesta": "b",
+        "explicacion": "Al realizar el examen práctico, es necesario presentar el DNI, un informe médico y el justificante de pago de las tasas.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es el seguro de responsabilidad civil?",
+        "a": "Un seguro que cubre daños a terceros",
+        "b": "Un seguro que cubre daños propios",
+        "c": "Un seguro opcional",
+        "respuesta": "a",
+        "explicacion": "El seguro de responsabilidad civil es obligatorio y cubre daños a terceros en caso de accidente.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad máxima permitida en carreteras convencionales para vehículos con carnet B?",
+        "a": "90 km/h",
+        "b": "100 km/h",
+        "c": "120 km/h",
+        "respuesta": "a",
+        "explicacion": "La velocidad máxima permitida en carreteras convencionales es de 90 km/h para vehículos con carnet B.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con un semáforo en rojo?",
+        "a": "Acelerar para pasar antes de que cambie",
+        "b": "Detenerse y esperar a que cambie a verde",
+        "c": "Sigue adelante si no hay tráfico",
+        "respuesta": "b",
+        "explicacion": "Un conductor debe detenerse en un semáforo en rojo y esperar a que cambie a verde.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de vehículo no se puede conducir con el carnet B?",
+        "a": "Turismos",
+        "b": "Autobuses",
+        "c": "Furgonetas",
+        "respuesta": "b",
+        "explicacion": "Con el carnet B no se pueden conducir autobuses, ya que requieren un carnet diferente.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la tasa de alcohol permitida para conductores con carnet B en la mayoría de los países?",
+        "a": "0.5 g/l",
+        "b": "0.8 g/l",
+        "c": "0.2 g/l",
+        "respuesta": "a",
+        "explicacion": "La tasa de alcohol permitida para conductores con carnet B en la mayoría de los países es de 0.5 g/l.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué acción es obligatoria al ver un vehículo de emergencia con sirenas encendidas?",
+        "a": "Acelerar y alejarse rápidamente",
+        "b": "Detenerse y ceder el paso",
+        "c": "Continuar con precaución",
+        "respuesta": "b",
+        "explicacion": "Al ver un vehículo de emergencia, es obligatorio detenerse y ceder el paso.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de luces se deben usar en condiciones de baja visibilidad?",
+        "a": "Luces de posición",
+        "b": "Luces largas",
+        "c": "Luces de cruce",
+        "respuesta": "c",
+        "explicacion": "En condiciones de baja visibilidad, se deben usar las luces de cruce.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es una señal de stop?",
+        "a": "Una señal que indica que se debe reducir la velocidad",
+        "b": "Una señal que indica que se debe detener completamente",
+        "c": "Una señal que indica un giro permitido",
+        "respuesta": "b",
+        "explicacion": "La señal de stop indica que se debe detener completamente antes de continuar.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el vehículo se queda sin combustible en la carretera?",
+        "a": "Estacionar y esperar a que alguien lo ayude",
+        "b": "Abandonar el vehículo y buscar ayuda",
+        "c": "Estacionar en un lugar seguro y avisar a la grúa",
+        "respuesta": "c",
+        "explicacion": "Si el vehículo se queda sin combustible, se debe estacionar en un lugar seguro y avisar a la grúa.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es el reciclaje de puntos?",
+        "a": "Un sistema para recuperar puntos perdidos",
+        "b": "Un sistema para asignar puntos a nuevos conductores",
+        "c": "Un programa de educación vial",
+        "respuesta": "a",
+        "explicacion": "El reciclaje de puntos es un programa para recuperar puntos perdidos en el carnet de conducir.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de vehículos se pueden conducir con el carnet B en una categoría especial?",
+        "a": "Vehículos eléctricos",
+        "b": "Coches de competición",
+        "c": "Vehículos de hasta 4.250 kg de peso",
+        "respuesta": "c",
+        "explicacion": "Con el carnet B se pueden conducir vehículos de hasta 4.250 kg de peso en una categoría especial.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuánto tiempo tiene un conductor para renovar su carnet B antes de que expire?",
+        "a": "6 meses",
+        "b": "3 meses",
+        "c": "1 mes",
+        "respuesta": "b",
+        "explicacion": "Un conductor tiene 3 meses para renovar su carnet B antes de que expire.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué equipo de seguridad es obligatorio llevar en el vehículo?",
+        "a": "Extintor y triángulos de emergencia",
+        "b": "Solo un botiquín",
+        "c": "No se necesita llevar nada",
+        "respuesta": "a",
+        "explicacion": "Es obligatorio llevar un extintor y triángulos de emergencia en el vehículo.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la multa por usar el teléfono móvil mientras se conduce?",
+        "a": "100 euros",
+        "b": "300 euros",
+        "c": "200 euros",
+        "respuesta": "c",
+        "explicacion": "La multa por usar el teléfono móvil mientras se conduce puede ser de 200 euros.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué hacer si se tiene un accidente de tráfico?",
+        "a": "Abandonar el lugar",
+        "b": "Intercambiar datos con el otro conductor y avisar a la policía",
+        "c": "Pedir ayuda a un amigo",
+        "respuesta": "b",
+        "explicacion": "Si se tiene un accidente, se deben intercambiar datos con el otro conductor y avisar a la policía.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué es un curso de sensibilización y reeducación vial?",
+        "a": "Un curso para obtener el carnet",
+        "b": "Un curso para conductores que han perdido puntos",
+        "c": "Un curso opcional",
+        "respuesta": "b",
+        "explicacion": "Es un curso que deben realizar los conductores que han perdido puntos por infracciones.",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué implica tener un saldo de 0 puntos en el carnet?",
+        "a": "Que el carnet es válido por un año más",
+        "b": "La pérdida del carnet de conducir",
+        "c": "Ninguna consecuencia",
+        "respuesta": "b",
+        "explicacion": "Tener un saldo de 0 puntos implica la pérdida del carnet de conducir hasta que se recupere.",
+        "categoria_id": 2
+    }
+]
