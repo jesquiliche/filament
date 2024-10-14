@@ -17,7 +17,10 @@ class BloqueResource extends Resource
 {
     protected static ?string $model = Bloque::class;
 
+    protected static ?string $navigationLabel = 'Carnés'; // Etiqueta en la navegación
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $label = 'Carné'; // Título singular
+    protected static ?string $pluralLabel = 'Carnés'; // Título plural
 
     public static function form(Form $form): Form
     {

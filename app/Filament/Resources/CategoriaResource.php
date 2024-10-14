@@ -24,11 +24,13 @@ class CategoriaResource extends Resource
     protected static ?string $model = Categoria::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationLabel = 'Temario'; // Etiqueta en la navegación
+
+    protected static ?string $label = 'Tema'; // Título singular
+    protected static ?string $pluralLabel = 'Temas'; // Título plural
 
 
 
-  
-    
     public static function form(Form $form): Form
     {
         return $form
@@ -39,6 +41,7 @@ class CategoriaResource extends Resource
                     ->searchable()  // habilita la búsqueda en el combo
                     ->required(),
                 Forms\Components\TextInput::make('nombre')
+                    ->label('Tema')
                     ->required()
                     ->maxLength(255),
                 Forms\Components\Textarea::make('descripcion')
@@ -47,46 +50,47 @@ class CategoriaResource extends Resource
                     ->columnSpanFull(),
             ]);
     }
-    
 
 
-public static function table(Table $table): Table
-{
-    return $table
-        ->columns([
-            Tables\Columns\TextColumn::make('bloque.nombre')  // Muestra el nombre del bloque
-                ->label('Carné de conducir')
-                ->sortable()
-                ->searchable(),
-            Tables\Columns\TextColumn::make('nombre')
-                ->label('Categoría')
-                ->searchable(),
-            Tables\Columns\TextColumn::make('created_at')
-                ->dateTime()
-                ->sortable()
-                ->toggleable(isToggledHiddenByDefault: true),
-            Tables\Columns\TextColumn::make('updated_at')
-                ->dateTime()
-                ->sortable()
-                ->toggleable(isToggledHiddenByDefault: true),
-        ])
-        ->filters([
-            SelectFilter::make('bloque_id')  // El filtro se hace sobre el bloque_id
-                ->label('Filtrar por Bloque')
-                ->relationship('bloque', 'nombre')  // Usamos la relación con bloque y mostramos el nombre
-                ->options(
-                    Bloque::all()->pluck('nombre', 'id')->toArray()  // Obtenemos los bloques para el filtro
-                ),
-        ])
-        ->actions([
-            Tables\Actions\EditAction::make(),
-        ])
-        ->bulkActions([
-            Tables\Actions\BulkActionGroup::make([
-                Tables\Actions\DeleteBulkAction::make(),
-            ]),
-        ]);
-}
+
+    public static function table(Table $table): Table
+    {
+
+        return $table
+            ->columns([
+                Tables\Columns\TextColumn::make('bloque.nombre')  // Muestra el nombre del bloque
+                    ->label('Carné de conducir')
+                    ->sortable()
+                    ->searchable(),
+                Tables\Columns\TextColumn::make('nombre')
+                    ->label('Tema')
+                    ->searchable(),
+                Tables\Columns\TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                Tables\Columns\TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+            ])
+            ->filters([
+                SelectFilter::make('bloque_id')  // El filtro se hace sobre el bloque_id
+                    ->label('Filtrar por Bloque')
+                    ->relationship('bloque', 'nombre')  // Usamos la relación con bloque y mostramos el nombre
+                    ->options(
+                        Bloque::all()->pluck('nombre', 'id')->toArray()  // Obtenemos los bloques para el filtro
+                    ),
+            ])
+            ->actions([
+                Tables\Actions\EditAction::make(),
+            ])
+            ->bulkActions([
+                Tables\Actions\BulkActionGroup::make([
+                    Tables\Actions\DeleteBulkAction::make(),
+                ]),
+            ]);
+    }
 
 
 

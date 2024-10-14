@@ -97,6 +97,9 @@ class PreguntaResource extends Resource
 
             ])
             ->filters([
+                Tables\Filters\SelectFilter::make('bloque_id') // Filtro para categorías
+                ->label('Carné')
+                ->relationship('categoria.bloque', 'nombre'),
                 Tables\Filters\SelectFilter::make('categoria_id') // Filtro para categorías
                     ->label('Categoría')
                     ->relationship('categoria', 'nombre'), // Usar la relación y el nombre para el filtro
