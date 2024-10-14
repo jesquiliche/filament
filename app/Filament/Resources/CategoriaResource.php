@@ -80,21 +80,8 @@ class CategoriaResource extends Resource
                     ->options(
                         Bloque::all()->pluck('nombre', 'id')->toArray()  // Obtenemos los bloques para el filtro
                     ),
+                 
                 
-                    SelectFilter::make('categoria_id')  // Filtro para la categoría
-                    ->label('Filtrar por Tema')
-                    ->options(function (callable $get) {  // Lógica dinámica basada en el bloque_id seleccionado
-                        $bloqueId = $get('bloque_id');  // Obtener el bloque seleccionado
-            
-                        if ($bloqueId) {
-                            
-                            // Filtrar las categorías basadas en el bloque seleccionado
-                            return Categoria::where('bloque_id', $bloqueId)->pluck('nombre', 'id')->toArray();
-                        }
-            
-                        // Si no hay bloque seleccionado, devolver todas las categorías
-                        return Categoria::all()->pluck('nombre', 'id')->toArray();
-                    }),
             ])
             
             ->actions([
