@@ -27,9 +27,11 @@ class BloqueResource extends Resource
         return $form
             ->schema([
                 Forms\Components\TextInput::make('nombre')
+                    ->Label('Nombre')
                     ->required()
                     ->maxLength(255),
                 Forms\Components\Textarea::make('descripcion')
+                    ->label('Descripción')
                     ->required()
                     ->maxLength(255)
 

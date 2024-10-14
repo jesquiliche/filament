@@ -75,7 +75,7 @@ class CategoriaResource extends Resource
             ])
             ->filters([
                 SelectFilter::make('bloque_id')  // El filtro se hace sobre el bloque_id
-                    ->label('Filtrar por Bloque')
+                    ->label('Filtrar por Carné')
                     ->relationship('bloque', 'nombre')  // Usamos la relación con bloque y mostramos el nombre
                     ->options(
                         Bloque::all()->pluck('nombre', 'id')->toArray()  // Obtenemos los bloques para el filtro

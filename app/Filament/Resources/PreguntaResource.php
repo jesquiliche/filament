@@ -37,7 +37,7 @@ class PreguntaResource extends Resource
                 }),
 
             Select::make('categoria_id')
-                ->label('Categoría')
+                ->label('Tema')
                 ->options(function (callable $get) {
                     $bloqueId = $get('bloque_id');
                     if ($bloqueId) {
@@ -107,7 +107,7 @@ class PreguntaResource extends Resource
                     ->sortable()
                     ->searchable(),
                 Tables\Columns\TextColumn::make('categoria.nombre') // Mostrar el nombre de la categoría
-                    ->label('Categoría') // Etiqueta para la columna
+                    ->label('Tema') // Etiqueta para la columna
                     ->sortable()
                     ->searchable(), // Hacerla searchable
                 Tables\Columns\TextColumn::make('pregunta')
