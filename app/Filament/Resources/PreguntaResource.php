@@ -27,10 +27,29 @@ class PreguntaResource extends Resource
     {
         return $form
             ->schema([
-                Forms\Components\Select::make('categoria_id') // Cambia a Select para mostrar las categorías
-                    ->label('Categoria')
-                    ->relationship('categoria', 'nombre') // Usa la relación y el campo 'nombre' para mostrar
-                    ->required(),
+                Select::make('bloque_id')
+                ->label('Carné de conducir')
+                ->relationship('categoria.bloque', 'nombre')
+                ->reactive() // Hacer el select reactivo
+                ->afterStateUpdated(function (callable $set) {
+                    // Limpiar la categoría cuando se cambia el bloque
+                    $set('categoria_id', null);
+                }),
+
+            Select::make('categoria_id')
+                ->label('Categoría')
+                ->options(function (callable $get) {
+                    $bloqueId = $get('bloque_id');
+                    if ($bloqueId) {
+                        return \App\Models\Categoria::where('bloque_id', $bloqueId)
+                            ->pluck('nombre', 'id');
+                    }
+                    return \App\Models\Categoria::pluck('nombre', 'id');
+                })
+                ->reactive()  // Reactivo para actualizar cuando cambie bloque_id
+                ->disabled(fn (callable $get) => !$get('bloque_id')) // Desactivar si no hay bloque seleccionado
+                ->required(),
+
                 FileUpload::make('image')
                     ->label('Imagen')
                     ->image()
