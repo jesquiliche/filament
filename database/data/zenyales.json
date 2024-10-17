@@ -1,0 +1,515 @@
+[
+    {
+        "pregunta": "¿Qué indica una señal de 'Ceda el paso'?",
+        "a": "Los vehículos deben reducir la velocidad y ceder el paso.",
+        "b": "Los vehículos pueden continuar sin detenerse.",
+        "c": "Es una señal de advertencia de peligro.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Ceda el paso' indica que los conductores deben reducir la velocidad y permitir que otros vehículos pasen.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Stop'?",
+        "a": "Detenerse completamente antes de continuar.",
+        "b": "Disminuir la velocidad.",
+        "c": "Seguir sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Stop' requiere que los conductores se detengan completamente antes de continuar su camino.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Límite de velocidad'?",
+        "a": "La velocidad máxima permitida en esa área.",
+        "b": "Una recomendación de velocidad.",
+        "c": "La velocidad mínima que se debe mantener.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Límite de velocidad' establece la velocidad máxima que los vehículos pueden circular en esa área.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido adelantar'?",
+        "a": "No se permite adelantar a otros vehículos.",
+        "b": "Se puede adelantar si hay espacio.",
+        "c": "Se debe reducir la velocidad al adelantar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido adelantar' indica que los conductores no pueden realizar la maniobra de adelantar.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Curva peligrosa'?",
+        "a": "La carretera tiene una curva peligrosa más adelante.",
+        "b": "Está prohibido girar.",
+        "c": "Es una señal de advertencia de un cruce.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Curva peligrosa' advierte a los conductores que hay una curva cerrada más adelante.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Paso de peatones'?",
+        "a": "Se debe ceder el paso a los peatones.",
+        "b": "Está prohibido detenerse en esa área.",
+        "c": "Los vehículos deben reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Paso de peatones' indica que los conductores deben ceder el paso a los peatones que cruzan la vía.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Semáforo en rojo'?",
+        "a": "Los vehículos deben detenerse.",
+        "b": "Los vehículos pueden continuar.",
+        "c": "Los vehículos deben reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "El semáforo en rojo indica que los conductores deben detenerse completamente.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Salida de vehículos'?",
+        "a": "Se debe prestar atención a vehículos que salen.",
+        "b": "Está prohibido salir.",
+        "c": "Se puede estacionar en esa área.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Salida de vehículos' advierte a los conductores que deben estar atentos a los vehículos que salen de un lugar.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Carriles para bicicletas'?",
+        "a": "Se permite el paso de bicicletas en ese carril.",
+        "b": "Está prohibido el uso de bicicletas.",
+        "c": "Los vehículos deben ceder el paso a bicicletas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el carril está destinado para el uso de bicicletas.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de zona escolar'?",
+        "a": "Se ha terminado la zona donde se deben tener precauciones por escolares.",
+        "b": "Los vehículos deben reducir la velocidad.",
+        "c": "Los conductores deben detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de zona escolar' indica que ha terminado el área donde hay mayor riesgo por la presencia de escolares.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido girar a la izquierda'?",
+        "a": "No se permite girar a la izquierda en esa intersección.",
+        "b": "Se puede girar a la izquierda si hay espacio.",
+        "c": "Se debe girar a la derecha.",
+        "respuesta": "a",
+        "explicacion": "La señal prohíbe la maniobra de girar a la izquierda en la intersección.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Riesgo de hielo'?",
+        "a": "La carretera puede estar resbaladiza debido a hielo.",
+        "b": "Se puede circular normalmente.",
+        "c": "No hay riesgos en la carretera.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte a los conductores que deben tener precaución debido a la posibilidad de hielo en la carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido estacionar'?",
+        "a": "Está prohibido estacionar en esa área.",
+        "b": "Se puede aparcar en cualquier momento.",
+        "c": "Se debe estacionar solo durante la noche.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido estacionar' indica que no se puede aparcar en esa zona en cualquier momento.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Peligro de deslizamiento'?",
+        "a": "Se debe tener cuidado al conducir debido a posibles deslizamientos.",
+        "b": "No hay peligros en la carretera.",
+        "c": "Se puede acelerar.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte sobre el riesgo de deslizamiento en la carretera, especialmente en condiciones meteorológicas adversas.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Camino cerrado'?",
+        "a": "La carretera está cerrada al tráfico.",
+        "b": "Se puede seguir adelante.",
+        "c": "Se debe reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Camino cerrado' indica que no se puede acceder a esa carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Advertencia de cruce de ferrocarril'?",
+        "a": "Hay un cruce de ferrocarril más adelante.",
+        "b": "Se puede cruzar sin precauciones.",
+        "c": "Está prohibido cruzar.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte que hay un cruce de ferrocarril y los conductores deben estar atentos.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Salida de emergencia'?",
+        "a": "Indica la ubicación de una salida de emergencia.",
+        "b": "Prohibido utilizar la salida.",
+        "c": "No hay salidas disponibles.",
+        "respuesta": "a",
+        "explicacion": "La señal señala el lugar donde se puede acceder a una salida de emergencia en caso de necesidad.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Peligro de animales sueltos'?",
+        "a": "Se deben tomar precauciones por animales que puedan cruzar la vía.",
+        "b": "Está prohibido adelantar.",
+        "c": "No hay riesgos en la carretera.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte sobre la posibilidad de que animales sueltos crucen la carretera, exigiendo precaución.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona de obras'?",
+        "a": "Se debe reducir la velocidad y tener precaución.",
+        "b": "Está prohibido detenerse.",
+        "c": "Se puede continuar normalmente.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona de obras' advierte a los conductores que deben tener cuidado y posiblemente reducir la velocidad debido a trabajos en la carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el paso'?",
+        "a": "No se permite la entrada de vehículos.",
+        "b": "Se puede continuar si no hay tráfico.",
+        "c": "Es una recomendación de precaución.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido el paso' indica que los vehículos no pueden entrar en esa área.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de autopista'?",
+        "a": "Se ha terminado la autopista y se debe tener precaución.",
+        "b": "Se puede acelerar.",
+        "c": "Es una advertencia de curva.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de autopista' informa a los conductores que la autopista ha terminado y deben tener cuidado al entrar a otra carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Semáforo en verde'?",
+        "a": "Los vehículos pueden continuar su marcha.",
+        "b": "Los vehículos deben detenerse.",
+        "c": "Es una advertencia de peligro.",
+        "respuesta": "a",
+        "explicacion": "El semáforo en verde indica que los conductores pueden avanzar con precaución.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona peatonal'?",
+        "a": "Los vehículos deben ceder el paso a los peatones.",
+        "b": "Está prohibido el acceso a vehículos.",
+        "c": "Se puede estacionar en esa área.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona peatonal' indica que los conductores deben ceder el paso a los peatones que se encuentran en la vía.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Advertencia de intersección'?",
+        "a": "Puede haber una intersección más adelante.",
+        "b": "Está prohibido girar.",
+        "c": "Se puede continuar sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Advertencia de intersección' advierte a los conductores que deben estar atentos a una intersección próxima.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido estacionar'?",
+        "a": "No se permite estacionar en esa área.",
+        "b": "Se permite estacionar solo durante la noche.",
+        "c": "Se puede estacionar en cualquier momento.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido estacionar' indica que no se puede aparcar en esa zona en ningún momento.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Riesgo de deslizamiento'?",
+        "a": "Se debe tener cuidado al conducir debido a un posible deslizamiento.",
+        "b": "No hay riesgos en la carretera.",
+        "c": "Se puede acelerar.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte sobre el riesgo de deslizamiento en la carretera, especialmente en condiciones de lluvia o hielo.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Paso a nivel'?",
+        "a": "Se debe estar atento a un cruce de ferrocarril.",
+        "b": "Está prohibido girar.",
+        "c": "Se puede continuar sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Paso a nivel' advierte que hay un cruce de ferrocarril y los conductores deben estar atentos.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Ceda el paso a los peatones'?",
+        "a": "Los vehículos deben detenerse para permitir el paso de peatones.",
+        "b": "Se debe continuar sin detenerse.",
+        "c": "Está prohibido girar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Ceda el paso a los peatones' indica que los conductores deben dar prioridad a los peatones que cruzan la calle.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de prohibición de adelantamiento'?",
+        "a": "Ya se puede adelantar a otros vehículos.",
+        "b": "Se debe seguir sin adelantar.",
+        "c": "Es una señal de advertencia.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de prohibición de adelantamiento' indica que los conductores pueden realizar la maniobra de adelantar.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Riesgo de niebla'?",
+        "a": "Se deben tomar precauciones debido a la niebla.",
+        "b": "No hay riesgos en la carretera.",
+        "c": "Está prohibido adelantar.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte sobre la posibilidad de niebla densa en la carretera, lo que puede dificultar la visibilidad.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Adelante, cruce de ciclistas'?",
+        "a": "Hay un cruce de ciclistas y se debe tener precaución.",
+        "b": "Está prohibido adelantar.",
+        "c": "Los vehículos pueden seguir sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que hay un cruce de ciclistas en el camino, y los conductores deben estar atentos y ceder el paso.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido girar a la derecha'?",
+        "a": "No se permite girar a la derecha en esa intersección.",
+        "b": "Se puede girar a la derecha si hay espacio.",
+        "c": "Se debe girar a la izquierda.",
+        "respuesta": "a",
+        "explicacion": "La señal prohíbe la maniobra de girar a la derecha en la intersección.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Advertencia de cruce de animales'?",
+        "a": "Se deben tener precauciones debido a la posible presencia de animales.",
+        "b": "Está prohibido adelantar.",
+        "c": "No hay riesgos en la carretera.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte a los conductores que pueden encontrar animales cruzando la vía, por lo que se debe tener precaución.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el uso de móviles'?",
+        "a": "Está prohibido utilizar teléfonos móviles mientras se conduce.",
+        "b": "Se puede utilizar el móvil si se tiene un dispositivo de manos libres.",
+        "c": "No hay restricciones en el uso de dispositivos.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el uso de teléfonos móviles está prohibido para evitar distracciones al conducir.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona de tráfico restringido'?",
+        "a": "El acceso está limitado a ciertos vehículos o durante ciertas horas.",
+        "b": "Todos los vehículos pueden acceder sin restricciones.",
+        "c": "Es una zona de estacionamiento.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona de tráfico restringido' indica que el acceso a esa área está limitado, generalmente para residentes o vehículos autorizados.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido aparcar'?",
+        "a": "No se permite aparcar en esa área.",
+        "b": "Se puede aparcar durante la noche.",
+        "c": "Se permite aparcar solo con autorización.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido aparcar' indica que no se puede estacionar en esa zona en ningún momento.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Ceda el paso'?",
+        "a": "Los vehículos deben detenerse y ceder el paso a los que circulan por la vía principal.",
+        "b": "Se puede continuar sin detenerse.",
+        "c": "Está prohibido girar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Ceda el paso' indica que los conductores deben dar prioridad a otros vehículos en la intersección.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Curva peligrosa'?",
+        "a": "Se debe reducir la velocidad debido a una curva peligrosa.",
+        "b": "Se puede acelerar.",
+        "c": "Está prohibido girar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Curva peligrosa' advierte sobre la proximidad de una curva que puede ser peligrosa.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de velocidad máxima'?",
+        "a": "Ya no hay límite de velocidad.",
+        "b": "Se debe seguir respetando el límite anterior.",
+        "c": "Se puede acelerar sin restricciones.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de velocidad máxima' indica que ya no hay un límite de velocidad establecido en la carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Cruce de vías de ferrocarril'?",
+        "a": "Hay un cruce de ferrocarril y se debe tener precaución.",
+        "b": "Está prohibido adelantar.",
+        "c": "Se puede continuar sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal advierte a los conductores sobre la proximidad de un cruce de ferrocarril y la necesidad de estar atentos.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Límite de velocidad en autopista'?",
+        "a": "Indica la velocidad máxima permitida en la autopista.",
+        "b": "Es la velocidad mínima permitida en la autopista.",
+        "c": "Es solo una recomendación de velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Límite de velocidad en autopista' establece el límite máximo de velocidad que los conductores deben respetar.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Desvío' en la autopista?",
+        "a": "Indica que hay un cambio en la ruta habitual.",
+        "b": "Es una advertencia de curva peligrosa.",
+        "c": "Indica que la autopista está cerrada.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Desvío' alerta a los conductores que deben tomar una ruta alternativa.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Carriles de aceleración'?",
+        "a": "Permite a los vehículos aumentar la velocidad para integrarse a la autopista.",
+        "b": "Indica que los vehículos deben detenerse.",
+        "c": "Es una señal de advertencia de peligros en la autopista.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Carriles de aceleración' permite a los conductores ganar velocidad antes de incorporarse a la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de autopista'?",
+        "a": "Indica que la autopista ha terminado y los vehículos deben estar atentos a la señalización.",
+        "b": "Es una advertencia de peligro en la autopista.",
+        "c": "Se puede continuar sin restricciones.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de autopista' informa a los conductores que deben prepararse para salir de la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Tráfico en ambas direcciones' en la autopista?",
+        "a": "Indica que la autopista tiene tráfico en ambas direcciones.",
+        "b": "Está prohibido adelantar.",
+        "c": "Es una advertencia de condiciones climáticas adversas.",
+        "respuesta": "a",
+        "explicacion": "La señal alerta a los conductores que hay tráfico en sentido contrario en la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Zona de obras' en la autopista?",
+        "a": "Indica que hay trabajos en la carretera y se debe tener precaución.",
+        "b": "Está prohibido adelantar.",
+        "c": "Se puede continuar sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona de obras' advierte a los conductores sobre la presencia de trabajadores y maquinaria en la carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Salida de autopista'?",
+        "a": "Indica que se puede salir de la autopista en la próxima salida.",
+        "b": "Indica que no se puede salir de la autopista.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Salida de autopista' muestra a los conductores que tienen la opción de abandonar la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido parar' en la autopista?",
+        "a": "Está prohibido detenerse en esa sección de la autopista.",
+        "b": "Se puede parar solo en emergencia.",
+        "c": "Es una recomendación de velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Prohibido parar' indica que no se permite detenerse en esa parte de la autopista por seguridad.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Peligro de animales' en la autopista?",
+        "a": "Advierte sobre la posible presencia de animales cruzando la autopista.",
+        "b": "Indica que no se permite adelantar.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Peligro de animales' alerta a los conductores que pueden encontrar animales en la carretera.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Adelantamiento permitido' en la autopista?",
+        "a": "Se permite la maniobra de adelantamiento en esa zona.",
+        "b": "Está prohibido adelantar.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que los conductores pueden realizar maniobras de adelantamiento en esa área de la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Limite de velocidad mínima' en la autopista?",
+        "a": "Indica la velocidad mínima que los vehículos deben mantener.",
+        "b": "Es una recomendación de velocidad.",
+        "c": "Es el límite de velocidad máxima.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Límite de velocidad mínima' establece la velocidad más baja que los conductores pueden circular en la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Carriles de desaceleración'?",
+        "a": "Permite a los vehículos reducir la velocidad para salir de la autopista.",
+        "b": "Está prohibido adelantar.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Carriles de desaceleración' ayuda a los conductores a disminuir la velocidad antes de abandonar la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Tráfico lento' en la autopista?",
+        "a": "Advierte que hay un tráfico más lento de lo habitual en la autopista.",
+        "b": "Indica que se puede acelerar.",
+        "c": "Está prohibido adelantar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Tráfico lento' informa a los conductores que deben estar preparados para reducir la velocidad.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cambio de sentido'?",
+        "a": "Indica que se debe cambiar de sentido en esa zona.",
+        "b": "Indica que la autopista no tiene salida.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Cambio de sentido' alerta a los conductores que deben preparar para girar.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona de peaje'?",
+        "a": "Indica que hay un peaje próximo y se debe detener.",
+        "b": "Es una advertencia de curva peligrosa.",
+        "c": "Indica que no se permite adelantar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona de peaje' informa a los conductores que deben prepararse para pagar el peaje en el próximo punto.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Vía de emergencia'?",
+        "a": "Indica que hay una vía de emergencia disponible.",
+        "b": "Está prohibido usar la vía de emergencia.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Vía de emergencia' señala que hay un área designada para emergencias en la autopista.",
+        "categoria_id": 8
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Reducción de carriles'?",
+        "a": "Advierte que el número de carriles en la autopista se reducirá.",
+        "b": "Está prohibido adelantar.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Reducción de carriles' informa a los conductores sobre la disminución del número de carriles, lo que requiere precaución.",
+        "categoria_id": 8
+    }
+]

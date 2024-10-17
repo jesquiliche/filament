@@ -1,0 +1,498 @@
+[
+{
+    "pregunta": "¿Qué información debe contener un informe de accidente?",
+    "a": "Descripción del accidente, lesiones y testigos.",
+    "b": "Solo el nombre de los involucrados.",
+    "c": "Una foto del lugar del accidente.",
+    "respuesta": "a",
+    "explicacion": "Un informe de accidente debe contener detalles como la descripción del accidente, las lesiones y la información de testigos.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es la finalidad de un parte de accidente?",
+    "a": "Documentar las circunstancias de un accidente.",
+    "b": "Reclamar una indemnización.",
+    "c": "Obtener un certificado médico.",
+    "respuesta": "a",
+    "explicacion": "La finalidad de un parte de accidente es documentar las circunstancias en las que ocurrió el accidente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documentos son necesarios para la obtención del carnet de conducir?",
+    "a": "DNI, certificado médico y solicitud.",
+    "b": "Solo el DNI.",
+    "c": "DNI y recibo de la última multa.",
+    "respuesta": "a",
+    "explicacion": "Para obtener el carnet de conducir se requieren el DNI, un certificado médico y la solicitud correspondiente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se debe hacer con el documento de identificación en caso de un accidente?",
+    "a": "Entregarlo a la policía.",
+    "b": "Destruirlo.",
+    "c": "Dejarlo en el coche.",
+    "respuesta": "a",
+    "explicacion": "Es importante entregar el documento de identificación a la policía en caso de un accidente para verificar la identidad.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es la importancia del seguro de automóvil en la documentación?",
+    "a": "Proteger legalmente al conductor y cubrir daños.",
+    "b": "No tiene importancia.",
+    "c": "Es solo un requisito administrativo.",
+    "respuesta": "a",
+    "explicacion": "El seguro de automóvil es crucial ya que protege legalmente al conductor y cubre los daños a terceros y a su propio vehículo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se incluye en un historial de conducción?",
+    "a": "Multas, accidentes y puntos en el carnet.",
+    "b": "Solo los accidentes.",
+    "c": "Nombre del conductor y fecha de nacimiento.",
+    "respuesta": "a",
+    "explicacion": "Un historial de conducción incluye multas, accidentes y el estado de los puntos en el carnet.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un informe pericial?",
+    "a": "Un documento que evalúa las circunstancias de un accidente.",
+    "b": "Un parte de accidente estándar.",
+    "c": "Un resumen de la legislación de tráfico.",
+    "respuesta": "a",
+    "explicacion": "Un informe pericial es un documento que evalúa y analiza las circunstancias y causas de un accidente de tráfico.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documentos se requieren para presentar una reclamación por accidente?",
+    "a": "Parte de accidente, informes médicos y fotografías.",
+    "b": "Solo el parte de accidente.",
+    "c": "Recibos de gasolina.",
+    "respuesta": "a",
+    "explicacion": "Para presentar una reclamación por accidente se requieren el parte de accidente, informes médicos y fotografías del incidente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se debe incluir en un consentimiento informado para un tratamiento médico?",
+    "a": "Descripción del tratamiento y riesgos asociados.",
+    "b": "Solo el nombre del médico.",
+    "c": "Una foto del paciente.",
+    "respuesta": "a",
+    "explicacion": "Un consentimiento informado debe incluir una descripción del tratamiento, sus beneficios y riesgos asociados.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es una autorización de conducción?",
+    "a": "Permiso que permite a una persona conducir un vehículo.",
+    "b": "Un documento que describe un accidente.",
+    "c": "Una multa por exceso de velocidad.",
+    "respuesta": "a",
+    "explicacion": "Una autorización de conducción es un permiso legal que permite a una persona conducir un vehículo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Para qué se utiliza el registro de daños en un vehículo?",
+    "a": "Para documentar las reparaciones y daños anteriores.",
+    "b": "Para registrar las multas del vehículo.",
+    "c": "Para realizar un seguimiento de la gasolina consumida.",
+    "respuesta": "a",
+    "explicacion": "El registro de daños se utiliza para documentar las reparaciones y daños que ha tenido un vehículo a lo largo del tiempo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un contrato de seguro de automóvil?",
+    "a": "Un acuerdo entre el asegurado y la aseguradora.",
+    "b": "Un documento que muestra las multas recibidas.",
+    "c": "Un permiso temporal para conducir.",
+    "respuesta": "a",
+    "explicacion": "Un contrato de seguro de automóvil es un acuerdo entre el asegurado y la aseguradora que establece la cobertura del seguro.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información contiene un parte de lesiones?",
+    "a": "Detalles sobre las lesiones sufridas.",
+    "b": "El nombre del médico que atendió al herido.",
+    "c": "Un listado de medicamentos prescritos.",
+    "respuesta": "a",
+    "explicacion": "Un parte de lesiones contiene detalles sobre las lesiones sufridas por un individuo en un accidente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es la función de un informe médico en un accidente?",
+    "a": "Proveer detalles sobre las lesiones y el tratamiento recibido.",
+    "b": "Listar los nombres de los testigos.",
+    "c": "Detallar el estado del tráfico.",
+    "respuesta": "a",
+    "explicacion": "Un informe médico proporciona detalles sobre las lesiones sufridas y el tratamiento recibido tras un accidente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un formulario de declaración de accidente?",
+    "a": "Un documento donde se registran los hechos del accidente.",
+    "b": "Un documento para solicitar una licencia.",
+    "c": "Un parte de lesiones.",
+    "respuesta": "a",
+    "explicacion": "Un formulario de declaración de accidente es un documento que se utiliza para registrar los hechos y circunstancias de un accidente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documento es necesario para solicitar una indemnización tras un accidente?",
+    "a": "Parte de accidente y documentación médica.",
+    "b": "Solo el parte de accidente.",
+    "c": "El DNI del reclamante.",
+    "respuesta": "a",
+    "explicacion": "Para solicitar una indemnización tras un accidente, se requiere el parte de accidente junto con la documentación médica que acredite las lesiones.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es el propósito de un registro de accidentes?",
+    "a": "Mantener un historial de todos los accidentes ocurridos.",
+    "b": "Registrar solo accidentes graves.",
+    "c": "Listar las multas de tráfico.",
+    "respuesta": "a",
+    "explicacion": "El propósito de un registro de accidentes es mantener un historial de todos los accidentes ocurridos para su análisis y seguimiento.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un documento de transporte?",
+    "a": "Un documento que acompaña a una mercancía durante su traslado.",
+    "b": "Un contrato de seguro.",
+    "c": "Un permiso de conducir.",
+    "respuesta": "a",
+    "explicacion": "Un documento de transporte es un documento que acompaña a una mercancía durante su traslado y contiene información sobre la misma.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué debe incluir la documentación de un vehículo para ser considerado legalmente en circulación?",
+    "a": "Permiso de circulación, ITV y seguro obligatorio.",
+    "b": "Solo el permiso de circulación.",
+    "c": "Recibo de la última revisión de gas.",
+    "respuesta": "a",
+    "explicacion": "Para que un vehículo sea considerado legalmente en circulación, debe incluir el permiso de circulación, la ITV y el seguro obligatorio.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es la ITV y por qué es importante?",
+    "a": "Inspección Técnica de Vehículos, garantiza que el vehículo cumple las normas de seguridad.",
+    "b": "Impuesto sobre Transmisiones Patrimoniales, necesario para vender el coche.",
+    "c": "Inscripción del vehículo en el registro de propiedad.",
+    "respuesta": "a",
+    "explicacion": "La ITV es la Inspección Técnica de Vehículos y es importante porque asegura que el vehículo cumple con las normas de seguridad y emisiones.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documento acredita que un vehículo tiene el seguro obligatorio?",
+    "a": "El recibo del pago del seguro.",
+    "b": "El permiso de circulación.",
+    "c": "La matrícula del vehículo.",
+    "respuesta": "a",
+    "explicacion": "El recibo del pago del seguro acredita que un vehículo tiene el seguro obligatorio requerido por la ley.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es el permiso de circulación?",
+    "a": "Documento que autoriza a un vehículo a circular por la vía pública.",
+    "b": "Un recibo de compra del vehículo.",
+    "c": "Un informe de accidentes.",
+    "respuesta": "a",
+    "explicacion": "El permiso de circulación es el documento que autoriza a un vehículo a circular por la vía pública.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se entiende por documentación técnica de un vehículo?",
+    "a": "Documentos que describen las características y especificaciones del vehículo.",
+    "b": "Recibos de compra y venta.",
+    "c": "Partes de accidente.",
+    "respuesta": "a",
+    "explicacion": "La documentación técnica de un vehículo incluye los documentos que describen sus características y especificaciones técnicas.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un certificado de antecedentes penales y cómo se relaciona con la obtención del carnet de conducir?",
+    "a": "Documento que verifica que no hay antecedentes penales, necesario para ciertos tipos de licencia.",
+    "b": "Documento que acredita la experiencia como conductor.",
+    "c": "Un parte de accidentes.",
+    "respuesta": "a",
+    "explicacion": "El certificado de antecedentes penales es un documento que verifica que el solicitante no tiene antecedentes penales, necesario para obtener ciertas licencias.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un contrato de compra-venta de un vehículo?",
+    "a": "Documento que establece los términos de la transacción entre comprador y vendedor.",
+    "b": "Una multa que se debe pagar al estado.",
+    "c": "Un recibo de servicio técnico.",
+    "respuesta": "a",
+    "explicacion": "Un contrato de compra-venta de un vehículo es un documento que establece los términos y condiciones de la transacción entre el comprador y el vendedor.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información se debe aportar al cambiar de titularidad de un vehículo?",
+    "a": "DNI, contrato de compra-venta y documentación del vehículo.",
+    "b": "Solo el DNI del nuevo propietario.",
+    "c": "Una foto del vehículo.",
+    "respuesta": "a",
+    "explicacion": "Para cambiar de titularidad de un vehículo se debe aportar el DNI del nuevo propietario, el contrato de compra-venta y la documentación del vehículo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un informe de daños y cuándo se utiliza?",
+    "a": "Documento que detalla los daños de un vehículo tras un accidente.",
+    "b": "Un recibo de reparación.",
+    "c": "Una multa por daños a la propiedad.",
+    "respuesta": "a",
+    "explicacion": "Un informe de daños es un documento que detalla los daños sufridos por un vehículo tras un accidente, utilizado para reclamaciones de seguro.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se necesita para renovar el carnet de conducir?",
+    "a": "Documentación personal y un reconocimiento médico.",
+    "b": "Solo el DNI.",
+    "c": "Una foto del vehículo.",
+    "respuesta": "a",
+    "explicacion": "Para renovar el carnet de conducir se necesita presentar la documentación personal y pasar un reconocimiento médico.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documento debe presentarse al comprar un vehículo usado?",
+    "a": "La ficha técnica y el permiso de circulación.",
+    "b": "Solo el permiso de circulación.",
+    "c": "El contrato de alquiler.",
+    "respuesta": "a",
+    "explicacion": "Al comprar un vehículo usado, es necesario presentar la ficha técnica y el permiso de circulación para verificar que está en regla.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información debe contener el documento de autorización de un menor para conducir?",
+    "a": "Identificación del menor y del tutor legal, y firma del tutor.",
+    "b": "Solo el nombre del menor.",
+    "c": "Una foto del menor.",
+    "respuesta": "a",
+    "explicacion": "El documento de autorización de un menor para conducir debe contener la identificación del menor y del tutor legal, así como la firma del tutor.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se entiende por documentación básica de un vehículo?",
+    "a": "Permiso de circulación, ITV y seguro.",
+    "b": "Solo el permiso de circulación.",
+    "c": "Documentos de mantenimiento.",
+    "respuesta": "a",
+    "explicacion": "La documentación básica de un vehículo incluye el permiso de circulación, la ITV y el seguro, necesarios para su legalidad.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información contiene un contrato de seguro de automóvil?",
+    "a": "Detalles de la póliza, cobertura y datos del asegurado.",
+    "b": "Solo el nombre del asegurado.",
+    "c": "Una lista de multas recibidas.",
+    "respuesta": "a",
+    "explicacion": "Un contrato de seguro de automóvil contiene detalles sobre la póliza, la cobertura y los datos del asegurado.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se debe hacer con la documentación de un vehículo en caso de un accidente?",
+    "a": "Presentarla a la autoridad competente.",
+    "b": "Desecharla.",
+    "c": "Guardar una copia.",
+    "respuesta": "a",
+    "explicacion": "En caso de un accidente, es importante presentar la documentación del vehículo a la autoridad competente para los trámites necesarios.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un recibo de pago de impuesto de circulación?",
+    "a": "Documento que acredita el pago del impuesto por la circulación del vehículo.",
+    "b": "Una multa por estacionamiento.",
+    "c": "Un contrato de seguro.",
+    "respuesta": "a",
+    "explicacion": "Un recibo de pago de impuesto de circulación es el documento que acredita que se ha pagado el impuesto correspondiente por la circulación del vehículo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué tipo de documento se necesita para circular con un vehículo extranjero en España?",
+    "a": "Permiso de conducir válido y seguro del vehículo.",
+    "b": "Solo el permiso de circulación.",
+    "c": "Una autorización del embajador.",
+    "respuesta": "a",
+    "explicacion": "Para circular con un vehículo extranjero en España se necesita un permiso de conducir válido y un seguro del vehículo que cubra la responsabilidad civil.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un parte amistoso?",
+    "a": "Documento que se utiliza para acordar las circunstancias de un accidente entre dos conductores.",
+    "b": "Un contrato de seguro.",
+    "c": "Un recibo de gasolina.",
+    "respuesta": "a",
+    "explicacion": "Un parte amistoso es un documento que se utiliza para que dos conductores acuerden las circunstancias de un accidente de manera mutua.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se requiere para realizar un cambio de domicilio del titular de un vehículo?",
+    "a": "Actualizar la dirección en el permiso de circulación.",
+    "b": "Solo el DNI.",
+    "c": "Un informe médico.",
+    "respuesta": "a",
+    "explicacion": "Para realizar un cambio de domicilio del titular de un vehículo, se debe actualizar la dirección en el permiso de circulación.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se necesita para solicitar la baja de un vehículo?",
+    "a": "Documentación del vehículo, DNI del titular y el impreso de solicitud.",
+    "b": "Solo el DNI del titular.",
+    "c": "Una carta de renuncia.",
+    "respuesta": "a",
+    "explicacion": "Para solicitar la baja de un vehículo se necesita la documentación del vehículo, el DNI del titular y el impreso de solicitud correspondiente.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es la duración de la validez del permiso de circulación?",
+    "a": "Indefinida, mientras se cumplan los requisitos legales.",
+    "b": "Un año.",
+    "c": "Cinco años.",
+    "respuesta": "a",
+    "explicacion": "El permiso de circulación es indefinido mientras el vehículo cumpla con los requisitos legales y esté al día con sus documentos.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es la documentación de un vehículo histórico?",
+    "a": "Documentación que acredita su antigüedad y cumplimiento de requisitos especiales.",
+    "b": "Un contrato de compra.",
+    "c": "Un informe técnico de su funcionamiento.",
+    "respuesta": "a",
+    "explicacion": "La documentación de un vehículo histórico incluye certificados que acreditan su antigüedad y su cumplimiento de requisitos especiales para poder circular.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué tipo de documentación es necesaria para matricular un vehículo nuevo?",
+    "a": "Factura de compra, DNI y justificante del pago de impuestos.",
+    "b": "Solo el DNI.",
+    "c": "Una autorización del fabricante.",
+    "respuesta": "a",
+    "explicacion": "Para matricular un vehículo nuevo se necesita la factura de compra, el DNI del titular y el justificante del pago de impuestos correspondientes.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es un seguro a terceros y qué cubre?",
+    "a": "Seguro que cubre daños a terceros en caso de accidente.",
+    "b": "Seguro que cubre daños propios del vehículo.",
+    "c": "Un seguro de responsabilidad civil para empresas.",
+    "respuesta": "a",
+    "explicacion": "El seguro a terceros es un tipo de seguro que cubre los daños causados a terceros en caso de accidente, pero no cubre los daños propios del vehículo asegurado.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es el procedimiento para recuperar un vehículo embargado?",
+    "a": "Presentar la documentación y saldar la deuda correspondiente.",
+    "b": "Esperar un mes.",
+    "c": "Solicitar un informe policial.",
+    "respuesta": "a",
+    "explicacion": "Para recuperar un vehículo embargado es necesario presentar la documentación y saldar la deuda correspondiente para levantar el embargo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es el documento único administrativo (DUA)?",
+    "a": "Documento que sirve para la importación y exportación de vehículos.",
+    "b": "Un contrato de compra-venta.",
+    "c": "Una autorización de circulación.",
+    "respuesta": "a",
+    "explicacion": "El documento único administrativo (DUA) es un documento que sirve para la importación y exportación de vehículos, facilitando su gestión aduanera.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información se incluye en el libro de mantenimiento del vehículo?",
+    "a": "Historial de revisiones y reparaciones realizadas.",
+    "b": "Solo la fecha de compra.",
+    "c": "Un listado de propietarios anteriores.",
+    "respuesta": "a",
+    "explicacion": "El libro de mantenimiento incluye el historial de revisiones y reparaciones realizadas en el vehículo, importante para demostrar su buen estado.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documentación se necesita para realizar un cambio de domicilio en el registro de vehículos?",
+    "a": "DNI, permiso de circulación y solicitud del cambio.",
+    "b": "Solo el DNI.",
+    "c": "Una foto del nuevo domicilio.",
+    "respuesta": "a",
+    "explicacion": "Para realizar un cambio de domicilio en el registro de vehículos se necesita el DNI, el permiso de circulación y la solicitud del cambio de domicilio.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se necesita para conducir un vehículo de alquiler?",
+    "a": "DNI, tarjeta de crédito y contrato de alquiler.",
+    "b": "Solo el DNI.",
+    "c": "Una autorización del propietario.",
+    "respuesta": "a",
+    "explicacion": "Para conducir un vehículo de alquiler se necesita presentar el DNI, una tarjeta de crédito y el contrato de alquiler del vehículo.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué es el informe de conformidad y cuándo se utiliza?",
+    "a": "Documento que asegura que un vehículo cumple con las normativas de homologación.",
+    "b": "Un recibo de compra.",
+    "c": "Un informe de accidentes.",
+    "respuesta": "a",
+    "explicacion": "El informe de conformidad es un documento que asegura que un vehículo cumple con las normativas de homologación y se utiliza en el proceso de matriculación.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué datos debe contener un contrato de seguro de responsabilidad civil?",
+    "a": "Datos del asegurado, objeto asegurado y condiciones de la póliza.",
+    "b": "Solo los datos del asegurado.",
+    "c": "Un listado de vehículos asegurados.",
+    "respuesta": "a",
+    "explicacion": "Un contrato de seguro de responsabilidad civil debe contener los datos del asegurado, el objeto asegurado y las condiciones de la póliza.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se necesita para matricular un vehículo importado?",
+    "a": "Certificado de conformidad, documentación del vehículo y pago de impuestos.",
+    "b": "Solo el permiso de circulación.",
+    "c": "Una carta del fabricante.",
+    "respuesta": "a",
+    "explicacion": "Para matricular un vehículo importado se necesita un certificado de conformidad, la documentación del vehículo y el pago de impuestos correspondientes.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se necesita para dar de baja temporal un vehículo?",
+    "a": "Documentación del vehículo y solicitud de baja temporal.",
+    "b": "Solo el DNI.",
+    "c": "Una carta de renuncia.",
+    "respuesta": "a",
+    "explicacion": "Para dar de baja temporal un vehículo se necesita presentar la documentación del vehículo y la solicitud de baja temporal ante la administración.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Cuál es la función del registro de vehículos?",
+    "a": "Mantener un censo actualizado de los vehículos en circulación.",
+    "b": "Recaudar impuestos.",
+    "c": "Proporcionar seguros.",
+    "respuesta": "a",
+    "explicacion": "La función del registro de vehículos es mantener un censo actualizado de todos los vehículos en circulación, asegurando su legalidad.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué información se encuentra en el permiso de circulación?",
+    "a": "Datos del vehículo, del titular y fecha de validez.",
+    "b": "Solo el nombre del propietario.",
+    "c": "El historial de accidentes.",
+    "respuesta": "a",
+    "explicacion": "El permiso de circulación contiene datos del vehículo, del titular y la fecha de validez, siendo esencial para circular.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué se entiende por documentación complementaria de un vehículo?",
+    "a": "Documentos adicionales que pueden ser solicitados en determinadas circunstancias.",
+    "b": "Solo la ficha técnica.",
+    "c": "Un contrato de alquiler.",
+    "respuesta": "a",
+    "explicacion": "La documentación complementaria de un vehículo se refiere a documentos adicionales que pueden ser solicitados en circunstancias específicas, como inspecciones o tramitaciones especiales.",
+    "categoria_id": 12
+},
+{
+    "pregunta": "¿Qué documento se necesita para acreditar la propiedad de un vehículo?",
+    "a": "El contrato de compra-venta o factura.",
+    "b": "Solo el DNI del propietario.",
+    "c": "Una foto del vehículo.",
+    "respuesta": "a",
+    "explicacion": "Para acreditar la propiedad de un vehículo se necesita el contrato de compra-venta o la factura que demuestre la adquisición del mismo.",
+    "categoria_id": 12
+}
+]
+

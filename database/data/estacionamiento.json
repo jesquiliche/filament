@@ -1,0 +1,1091 @@
+[
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido estacionar'?",
+        "a": "Está prohibido estacionar en la zona señalizada.",
+        "b": "Se puede estacionar con limitación de tiempo.",
+        "c": "Se permite el estacionamiento.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento limitado'?",
+        "a": "Se permite estacionar, pero solo por un tiempo determinado.",
+        "b": "Se prohíbe el estacionamiento en todo momento.",
+        "c": "Se puede estacionar sin limitaciones.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento limitado' permite estacionar solo por un tiempo específico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido parar'?",
+        "a": "No se puede detener el vehículo en la zona señalizada.",
+        "b": "Se permite detenerse por un breve período.",
+        "c": "Se permite parar solo en caso de emergencia.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido parar en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona de carga y descarga'?",
+        "a": "Se permite la carga y descarga de mercancías en horarios específicos.",
+        "b": "Está prohibido estacionar en todo momento.",
+        "c": "Se puede estacionar durante todo el día.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona de carga y descarga' indica que se permite la carga y descarga de mercancías en horarios específicos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento prohibido en días impares'?",
+        "a": "No se puede estacionar en la zona señalizada en días impares.",
+        "b": "Se permite estacionar solo en días impares.",
+        "c": "No hay restricciones para estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar en la zona señalizada en días impares.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento permitido'?",
+        "a": "Se permite estacionar en la zona señalizada.",
+        "b": "Se prohíbe el estacionamiento.",
+        "c": "Se permite estacionar solo por tiempo limitado.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se permite estacionar en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Parada de autobús'?",
+        "a": "Zona destinada para la parada de autobuses.",
+        "b": "Zona prohibida para detenerse.",
+        "c": "Zona de carga y descarga.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que es una zona destinada para la parada de autobuses.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido estacionar en la acera'?",
+        "a": "Está prohibido estacionar sobre la acera.",
+        "b": "Se puede estacionar solo en la acera.",
+        "c": "Se permite estacionar en la acera solo durante la noche.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar sobre la acera.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento de motos'?",
+        "a": "Zona destinada para el estacionamiento de motocicletas.",
+        "b": "Se prohíbe el estacionamiento de motocicletas.",
+        "c": "Se permite el estacionamiento de vehículos de motor.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que es una zona destinada para el estacionamiento de motocicletas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Zona de paradas'?",
+        "a": "Área donde se permite parar brevemente.",
+        "b": "Prohibido parar en toda la zona.",
+        "c": "Zona de estacionamiento permanente.",
+        "respuesta": "a",
+        "explicacion": "La señal indica un área donde se permite parar brevemente, generalmente para dejar o recoger pasajeros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento exclusivo para residentes'?",
+        "a": "Solo los residentes pueden estacionar en esta zona.",
+        "b": "Cualquiera puede estacionar sin restricciones.",
+        "c": "Estacionamiento limitado a ciertas horas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que solo los residentes pueden estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento por pago'?",
+        "a": "Se debe pagar para estacionar en la zona señalizada.",
+        "b": "El estacionamiento es gratuito.",
+        "c": "Prohibido el estacionamiento.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se debe pagar para estacionar en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de zona de estacionamiento'?",
+        "a": "Se termina la restricción de estacionamiento.",
+        "b": "Prohibido estacionar en toda la zona.",
+        "c": "Se inicia una nueva zona de estacionamiento.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se ha terminado la restricción de estacionamiento en esa área.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Estacionamiento reservado para personas con discapacidad'?",
+        "a": "Zona destinada para el estacionamiento de personas con discapacidad.",
+        "b": "Cualquiera puede estacionar en esta zona.",
+        "c": "Prohibido el estacionamiento en todo momento.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que es una zona reservada para el estacionamiento de personas con discapacidad.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido el paso a vehículos de motor'?",
+        "a": "Está prohibido el paso a todos los vehículos de motor.",
+        "b": "Se permite el paso a vehículos de motor.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido el paso a todos los vehículos de motor en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Parada permitida'?",
+        "a": "Se permite parar el vehículo en la zona señalizada.",
+        "b": "Prohibido parar en todo momento.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se permite parar el vehículo en la zona señalizada.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es una parada en el contexto de la circulación?",
+        "a": "Detener el vehículo por un tiempo breve para dejar o recoger pasajeros.",
+        "b": "Dejar el vehículo estacionado durante un tiempo prolongado.",
+        "c": "Parar en cualquier lugar sin restricciones.",
+        "respuesta": "a",
+        "explicacion": "Una parada implica detener el vehículo por un breve período para dejar o recoger pasajeros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué diferencia hay entre parar y estacionar?",
+        "a": "Parar es por tiempo breve; estacionar es dejar el vehículo por un tiempo más largo.",
+        "b": "No hay diferencia; son lo mismo.",
+        "c": "Estacionar es siempre ilegal.",
+        "respuesta": "a",
+        "explicacion": "Parar es detenerse por un tiempo breve, mientras que estacionar implica dejar el vehículo por un período prolongado.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Dónde está prohibido estacionar?",
+        "a": "En lugares señalizados como prohibidos y en intersecciones.",
+        "b": "En cualquier lugar de la calle.",
+        "c": "En áreas comerciales.",
+        "respuesta": "a",
+        "explicacion": "Está prohibido estacionar en lugares señalizados como tales y en intersecciones.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla en el suelo?",
+        "a": "Prohibido estacionar.",
+        "b": "Estacionamiento permitido.",
+        "c": "Zona de carga y descarga.",
+        "respuesta": "a",
+        "explicacion": "Una línea amarilla en el suelo indica que está prohibido estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver una señal de 'Estacionamiento prohibido'?",
+        "a": "Buscar otro lugar para estacionar.",
+        "b": "Estacionar de todos modos.",
+        "c": "Detenerse y esperar.",
+        "respuesta": "a",
+        "explicacion": "Al ver una señal de 'Estacionamiento prohibido', se debe buscar otro lugar para estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es un parquímetro?",
+        "a": "Un dispositivo que regula el tiempo y costo del estacionamiento.",
+        "b": "Un tipo de señal de tráfico.",
+        "c": "Un lugar para reparar vehículos.",
+        "respuesta": "a",
+        "explicacion": "Un parquímetro es un dispositivo que regula el tiempo y costo del estacionamiento en áreas específicas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa estacionar en doble fila?",
+        "a": "Estacionar un vehículo bloqueando el paso de otros vehículos.",
+        "b": "Estacionar correctamente entre dos vehículos.",
+        "c": "Estacionar en un área designada.",
+        "respuesta": "a",
+        "explicacion": "Estacionar en doble fila significa bloquear el paso de otros vehículos, lo cual es ilegal.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debes hacer si no hay señales de estacionamiento en una calle?",
+        "a": "Estacionar si no hay otras restricciones visibles.",
+        "b": "Estacionar en cualquier lugar.",
+        "c": "Estacionar en medio de la calle.",
+        "respuesta": "a",
+        "explicacion": "Si no hay señales de estacionamiento, se puede estacionar si no hay otras restricciones visibles.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento exclusivo para carga'?",
+        "a": "Solo se puede estacionar para carga y descarga de mercancías.",
+        "b": "Se permite estacionar en cualquier momento.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que solo se permite estacionar para carga y descarga de mercancías en horarios específicos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es un estacionamiento subterráneo?",
+        "a": "Un estacionamiento ubicado debajo del nivel del suelo.",
+        "b": "Un estacionamiento al aire libre.",
+        "c": "Un tipo de señal de tráfico.",
+        "respuesta": "a",
+        "explicacion": "Un estacionamiento subterráneo es un espacio de estacionamiento ubicado debajo del nivel del suelo.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debes hacer si el vehículo está en un lugar no permitido?",
+        "a": "Retirarlo inmediatamente.",
+        "b": "Dejarlo allí.",
+        "c": "Esperar a que no haya nadie.",
+        "respuesta": "a",
+        "explicacion": "Si el vehículo está en un lugar no permitido, se debe retirar inmediatamente para evitar multas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa estacionar en un lugar marcado con una señal de 'Prohibido estacionar'?",
+        "a": "Es ilegal estacionar en ese lugar.",
+        "b": "Está permitido estacionar por tiempo limitado.",
+        "c": "Es un lugar seguro para estacionar.",
+        "respuesta": "a",
+        "explicacion": "Estacionar en un lugar marcado con una señal de 'Prohibido estacionar' es ilegal.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento para bicicletas'?",
+        "a": "Zona destinada para el estacionamiento de bicicletas.",
+        "b": "Prohibido estacionar bicicletas.",
+        "c": "Se permite estacionar cualquier vehículo.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que es una zona destinada para el estacionamiento de bicicletas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el estacionamiento está lleno?",
+        "a": "Buscar otro lugar para estacionar.",
+        "b": "Estacionar en cualquier lugar disponible.",
+        "c": "Esperar a que alguien se vaya.",
+        "respuesta": "a",
+        "explicacion": "Si el estacionamiento está lleno, se debe buscar otro lugar para estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Zona de espera'?",
+        "a": "Se permite esperar brevemente sin estacionar.",
+        "b": "Prohibido esperar en esa zona.",
+        "c": "Zona de estacionamiento a largo plazo.",
+        "respuesta": "a",
+        "explicacion": "Una señal de 'Zona de espera' indica que se permite esperar brevemente sin estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa una línea blanca en el suelo en una zona de estacionamiento?",
+        "a": "Indica que es un espacio de estacionamiento.",
+        "b": "Prohibido estacionar.",
+        "c": "Zona de carga y descarga.",
+        "respuesta": "a",
+        "explicacion": "Una línea blanca en el suelo indica que es un espacio designado para estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es un lugar de estacionamiento reservado?",
+        "a": "Un espacio designado para un uso específico, como residentes o personas con discapacidad.",
+        "b": "Cualquier lugar donde se puede estacionar.",
+        "c": "Un lugar donde no se permite estacionar.",
+        "respuesta": "a",
+        "explicacion": "Un lugar de estacionamiento reservado es un espacio designado para un uso específico, como residentes o personas con discapacidad.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver un cartel de 'Parada de taxi'?",
+        "a": "Detenerse y recoger o dejar pasajeros.",
+        "b": "No se puede parar en esa zona.",
+        "c": "Se permite estacionar por un tiempo prolongado.",
+        "respuesta": "a",
+        "explicacion": "El cartel de 'Parada de taxi' indica que se puede detenerse para recoger o dejar pasajeros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido parar y estacionar'?",
+        "a": "No se puede detener el vehículo ni dejarlo estacionado.",
+        "b": "Se puede detener pero no estacionar.",
+        "c": "Se permite estacionar solo por un tiempo limitado.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido tanto parar como estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al ver una señal de 'Estacionamiento limitado'?",
+        "a": "Estacionar solo por el tiempo indicado.",
+        "b": "Estacionar sin restricciones.",
+        "c": "Estacionar por tiempo indefinido.",
+        "respuesta": "a",
+        "explicacion": "El conductor debe respetar el tiempo limitado indicado en la señal de 'Estacionamiento limitado'.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Dónde se permite estacionar en una calle sin señalización?",
+        "a": "En cualquier lugar que no bloquee el tráfico.",
+        "b": "En la acera.",
+        "c": "En medio de la calle.",
+        "respuesta": "a",
+        "explicacion": "En una calle sin señalización, se permite estacionar en cualquier lugar que no bloquee el tráfico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica el uso de un disco de estacionamiento?",
+        "a": "Estacionar solo durante el tiempo indicado en el disco.",
+        "b": "Estacionar sin límite de tiempo.",
+        "c": "No es necesario usarlo si hay un parquímetro.",
+        "respuesta": "a",
+        "explicacion": "El disco de estacionamiento indica que se puede estacionar solo durante el tiempo que el disco muestre.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Estacionamiento a la derecha' en una señal?",
+        "a": "Se permite estacionar solo en el lado derecho de la vía.",
+        "b": "Se permite estacionar en cualquier lado.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "'Estacionamiento a la derecha' indica que solo se puede estacionar en el lado derecho de la vía.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento para personas con discapacidad'?",
+        "a": "Estacionamiento reservado para personas con discapacidad.",
+        "b": "Prohibido estacionar.",
+        "c": "Estacionamiento para bicicletas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el espacio de estacionamiento está reservado para personas con discapacidad.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se considera estacionamiento en 'doble fila'?",
+        "a": "Cuando un vehículo se estaciona bloqueando otro vehículo.",
+        "b": "Estacionar correctamente entre dos vehículos.",
+        "c": "Estacionar en un lugar designado.",
+        "respuesta": "a",
+        "explicacion": "Estacionar en 'doble fila' significa bloquear el paso de otro vehículo, lo cual es ilegal.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Zona de carga y descarga'?",
+        "a": "Solo se permite estacionar para cargar o descargar mercancías.",
+        "b": "Se permite estacionar durante todo el día.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que solo se permite el estacionamiento para carga y descarga en horarios específicos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si un vehículo está obstruyendo su salida de estacionamiento?",
+        "a": "Esperar a que se retire el vehículo.",
+        "b": "Contactar a la autoridad local para que lo remuevan.",
+        "c": "Mover el vehículo obstructor.",
+        "respuesta": "b",
+        "explicacion": "Si un vehículo obstruye la salida de su estacionamiento, se debe contactar a la autoridad local para que lo remuevan.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al estacionar en una pendiente?",
+        "a": "Girar las ruedas hacia el borde de la carretera.",
+        "b": "Dejar las ruedas rectas.",
+        "c": "Estacionar sin ninguna precaución.",
+        "respuesta": "a",
+        "explicacion": "Al estacionar en una pendiente, se deben girar las ruedas hacia el borde de la carretera para evitar que el vehículo ruede.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Zona azul' en el contexto de estacionamiento?",
+        "a": "Estacionamiento regulado, generalmente mediante parquímetros.",
+        "b": "Prohibido estacionar.",
+        "c": "Estacionamiento gratuito.",
+        "respuesta": "a",
+        "explicacion": "'Zona azul' indica que el estacionamiento está regulado y normalmente requiere pago mediante parquímetros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es una 'parada técnica'?",
+        "a": "Una detención breve para revisión o mantenimiento del vehículo.",
+        "b": "Un lugar designado para estacionar vehículos.",
+        "c": "Un tipo de señal de tráfico.",
+        "respuesta": "a",
+        "explicacion": "Una 'parada técnica' se refiere a una detención breve para realizar una revisión o mantenimiento del vehículo.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se considera un estacionamiento 'infractor'?",
+        "a": "Estacionamiento en un lugar prohibido o sin respetar las normativas.",
+        "b": "Estacionamiento en un lugar designado.",
+        "c": "Estacionamiento en una zona de carga.",
+        "respuesta": "a",
+        "explicacion": "Un estacionamiento 'infractor' es aquel que se realiza en un lugar prohibido o sin respetar las normativas establecidas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Parada prohibida'?",
+        "a": "No se puede detener el vehículo en esa zona.",
+        "b": "Se permite detenerse brevemente.",
+        "c": "Zona de estacionamiento permitido.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Parada prohibida' indica que no se puede detener el vehículo en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Estacionamiento a 45 grados'?",
+        "a": "El vehículo debe estacionar en ángulo de 45 grados respecto a la acera.",
+        "b": "Estacionamiento en línea recta.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el vehículo debe estacionar en un ángulo de 45 grados respecto a la acera.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es una 'zona peatonal'?",
+        "a": "Un área donde los vehículos no pueden estacionar ni circular.",
+        "b": "Un lugar de estacionamiento para bicicletas.",
+        "c": "Un área designada para taxis.",
+        "respuesta": "a",
+        "explicacion": "Una 'zona peatonal' es un área donde está prohibido que los vehículos estacionen o circulen.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento para residentes'?",
+        "a": "El estacionamiento está reservado para los residentes del área.",
+        "b": "Estacionamiento abierto para todos.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el espacio de estacionamiento está reservado para los residentes de la zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si no hay señalización de estacionamiento?",
+        "a": "Estacionar solo en lugares que no bloqueen el tráfico.",
+        "b": "Estacionar en cualquier lugar.",
+        "c": "Estacionar en la acera.",
+        "respuesta": "a",
+        "explicacion": "El conductor debe estacionar solo en lugares que no bloqueen el tráfico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar a la izquierda'?",
+        "a": "Estacionar está prohibido solo en el lado izquierdo.",
+        "b": "Se puede estacionar a la izquierda.",
+        "c": "Prohibido estacionar en ambos lados.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar solo en el lado izquierdo de la vía.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre 'parada' y 'estacionamiento'?",
+        "a": "La parada es temporal y la estacionamiento es más prolongado.",
+        "b": "No hay diferencia.",
+        "c": "La parada se refiere a estacionar en doble fila.",
+        "respuesta": "a",
+        "explicacion": "La parada es temporal y se refiere a detenerse brevemente, mientras que el estacionamiento implica dejar el vehículo por un período más prolongado.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al estacionar en una calle con pendiente?",
+        "a": "Asegurarse de que las ruedas estén giradas hacia el borde de la acera.",
+        "b": "Dejar las ruedas rectas.",
+        "c": "No es necesario tomar precauciones.",
+        "respuesta": "a",
+        "explicacion": "Al estacionar en una pendiente, es importante girar las ruedas hacia el borde de la acera para evitar que el vehículo ruede.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica el uso de parquímetros?",
+        "a": "El conductor debe pagar por el tiempo de estacionamiento.",
+        "b": "Estacionamiento gratuito.",
+        "c": "No hay restricciones de tiempo.",
+        "respuesta": "a",
+        "explicacion": "Los parquímetros requieren que los conductores paguen por el tiempo de estacionamiento que deseen utilizar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si un vehículo está mal estacionado y obstruye su acceso?",
+        "a": "Contactar a la autoridad de tránsito para que lo remuevan.",
+        "b": "Intentar moverlo usted mismo.",
+        "c": "Esperar a que el propietario regrese.",
+        "respuesta": "a",
+        "explicacion": "Si un vehículo obstruye su acceso, lo mejor es contactar a la autoridad de tránsito para que lo remuevan.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento gratuito'?",
+        "a": "No se requiere pago para estacionar en esa zona.",
+        "b": "Se debe pagar una tarifa.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento gratuito' indica que no se requiere pago para estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Zona de carga y descarga' en una señal?",
+        "a": "El estacionamiento está permitido solo para carga y descarga en horarios específicos.",
+        "b": "Prohibido estacionar.",
+        "c": "Estacionamiento libre.",
+        "respuesta": "a",
+        "explicacion": "La 'Zona de carga y descarga' indica que el estacionamiento solo está permitido para actividades de carga y descarga en horarios específicos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica una señal de 'Parada prohibida'?",
+        "a": "Está prohibido detenerse en esa área.",
+        "b": "Se permite detenerse brevemente.",
+        "c": "Zona de estacionamiento permitido.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Parada prohibida' indica que no se puede detener el vehículo en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido parar y estacionar'?",
+        "a": "No se puede detener ni estacionar el vehículo.",
+        "b": "Se puede parar pero no estacionar.",
+        "c": "Estacionamiento permitido por tiempo limitado.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido tanto parar como estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Estacionamiento restringido'?",
+        "a": "Solo ciertos vehículos pueden estacionar.",
+        "b": "Estacionamiento gratuito.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento restringido' indica que solo ciertos vehículos, como los de residentes o comerciales, pueden estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si hay un vehículo estacionado en un lugar prohibido?",
+        "a": "Reportar el incidente a las autoridades.",
+        "b": "Esperar a que se retire.",
+        "c": "Intentar moverlo.",
+        "respuesta": "a",
+        "explicacion": "Si hay un vehículo estacionado en un lugar prohibido, lo correcto es reportar el incidente a las autoridades competentes.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica estacionar en una acera?",
+        "a": "Generalmente está prohibido a menos que se indique lo contrario.",
+        "b": "Es siempre permitido.",
+        "c": "Es solo para bicicletas.",
+        "respuesta": "a",
+        "explicacion": "Estacionar en una acera generalmente está prohibido a menos que se indique lo contrario mediante señales.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es un 'estacionamiento subterráneo'?",
+        "a": "Un área de estacionamiento que está bajo tierra.",
+        "b": "Un lugar al aire libre para estacionar.",
+        "c": "Un tipo de señal de tráfico.",
+        "respuesta": "a",
+        "explicacion": "Un 'estacionamiento subterráneo' es un área de estacionamiento que se encuentra bajo tierra, normalmente en edificios o centros comerciales.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento permitido'?",
+        "a": "Está permitido estacionar en esa área.",
+        "b": "Prohibido estacionar.",
+        "c": "Solo se permite el estacionamiento temporal.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento permitido' indica que los vehículos pueden estacionarse en esa área.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer antes de estacionar en paralelo?",
+        "a": "Verificar que haya suficiente espacio.",
+        "b": "Estacionar sin mirar.",
+        "c": "No es necesario verificar.",
+        "respuesta": "a",
+        "explicacion": "Antes de estacionar en paralelo, se debe verificar que haya suficiente espacio para realizar la maniobra de manera segura.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica una señal de 'Parada obligatoria'?",
+        "a": "El vehículo debe detenerse completamente antes de continuar.",
+        "b": "El vehículo puede seguir sin detenerse.",
+        "c": "Solo se puede reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Parada obligatoria' indica que el vehículo debe detenerse completamente antes de continuar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si no hay señalización de estacionamiento?",
+        "a": "Estacionar solo en lugares que no bloqueen el tráfico.",
+        "b": "Estacionar en cualquier lugar.",
+        "c": "Estacionar en la acera.",
+        "respuesta": "a",
+        "explicacion": "El conductor debe estacionar solo en lugares que no bloqueen el tráfico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar a la izquierda'?",
+        "a": "Estacionar está prohibido solo en el lado izquierdo.",
+        "b": "Se puede estacionar a la izquierda.",
+        "c": "Prohibido estacionar en ambos lados.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar solo en el lado izquierdo de la vía.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre 'parada' y 'estacionamiento'?",
+        "a": "La parada es temporal y la estacionamiento es más prolongado.",
+        "b": "No hay diferencia.",
+        "c": "La parada se refiere a estacionar en doble fila.",
+        "respuesta": "a",
+        "explicacion": "La parada es temporal y se refiere a detenerse brevemente, mientras que el estacionamiento implica dejar el vehículo por un período más prolongado.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al estacionar en una calle con pendiente?",
+        "a": "Asegurarse de que las ruedas estén giradas hacia el borde de la acera.",
+        "b": "Dejar las ruedas rectas.",
+        "c": "No es necesario tomar precauciones.",
+        "respuesta": "a",
+        "explicacion": "Al estacionar en una pendiente, es importante girar las ruedas hacia el borde de la acera para evitar que el vehículo ruede.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica el uso de parquímetros?",
+        "a": "El conductor debe pagar por el tiempo de estacionamiento.",
+        "b": "Estacionamiento gratuito.",
+        "c": "No hay restricciones de tiempo.",
+        "respuesta": "a",
+        "explicacion": "Los parquímetros requieren que los conductores paguen por el tiempo de estacionamiento que deseen utilizar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si un vehículo está mal estacionado y obstruye su acceso?",
+        "a": "Contactar a la autoridad de tránsito para que lo remuevan.",
+        "b": "Intentar moverlo usted mismo.",
+        "c": "Esperar a que el propietario regrese.",
+        "respuesta": "a",
+        "explicacion": "Si un vehículo obstruye su acceso, lo mejor es contactar a la autoridad de tránsito para que lo remuevan.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una señal de 'Estacionamiento gratuito'?",
+        "a": "No se requiere pago para estacionar en esa zona.",
+        "b": "Se debe pagar una tarifa.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento gratuito' indica que no se requiere pago para estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Zona de carga y descarga' en una señal?",
+        "a": "El estacionamiento está permitido solo para carga y descarga en horarios específicos.",
+        "b": "Prohibido estacionar.",
+        "c": "Estacionamiento libre.",
+        "respuesta": "a",
+        "explicacion": "La 'Zona de carga y descarga' indica que el estacionamiento solo está permitido para actividades de carga y descarga en horarios específicos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica una señal de 'Parada prohibida'?",
+        "a": "Está prohibido detenerse en esa área.",
+        "b": "Se permite detenerse brevemente.",
+        "c": "Zona de estacionamiento permitido.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Parada prohibida' indica que no se puede detener el vehículo en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido parar y estacionar'?",
+        "a": "No se puede detener ni estacionar el vehículo.",
+        "b": "Se puede parar pero no estacionar.",
+        "c": "Estacionamiento permitido por tiempo limitado.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido tanto parar como estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa 'Estacionamiento restringido'?",
+        "a": "Solo ciertos vehículos pueden estacionar.",
+        "b": "Estacionamiento gratuito.",
+        "c": "Prohibido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento restringido' indica que solo ciertos vehículos, como los de residentes o comerciales, pueden estacionar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si hay un vehículo estacionado en un lugar prohibido?",
+        "a": "Reportar el incidente a las autoridades.",
+        "b": "Esperar a que se retire.",
+        "c": "Intentar moverlo.",
+        "respuesta": "a",
+        "explicacion": "Si hay un vehículo estacionado en un lugar prohibido, lo correcto es reportar el incidente a las autoridades competentes.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica estacionar en una acera?",
+        "a": "Generalmente está prohibido a menos que se indique lo contrario.",
+        "b": "Es siempre permitido.",
+        "c": "Es solo para bicicletas.",
+        "respuesta": "a",
+        "explicacion": "Estacionar en una acera generalmente está prohibido a menos que se indique lo contrario mediante señales.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es un 'estacionamiento subterráneo'?",
+        "a": "Un área de estacionamiento que está bajo tierra.",
+        "b": "Un lugar al aire libre para estacionar.",
+        "c": "Un tipo de señal de tráfico.",
+        "respuesta": "a",
+        "explicacion": "Un 'estacionamiento subterráneo' es un área de estacionamiento que se encuentra bajo tierra, normalmente en edificios o centros comerciales.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento permitido'?",
+        "a": "Está permitido estacionar en esa área.",
+        "b": "Prohibido estacionar.",
+        "c": "Solo se permite el estacionamiento temporal.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Estacionamiento permitido' indica que los vehículos pueden estacionarse en esa área.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer antes de estacionar en paralelo?",
+        "a": "Verificar que haya suficiente espacio.",
+        "b": "Estacionar sin mirar.",
+        "c": "No es necesario verificar.",
+        "respuesta": "a",
+        "explicacion": "Antes de estacionar en paralelo, se debe verificar que haya suficiente espacio para realizar la maniobra de manera segura.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica una señal de 'Parada obligatoria'?",
+        "a": "El vehículo debe detenerse completamente antes de continuar.",
+        "b": "El vehículo puede seguir sin detenerse.",
+        "c": "Solo se puede reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Parada obligatoria' indica que el vehículo debe detenerse completamente antes de continuar.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al estacionar en una pendiente?",
+        "a": "Girar las ruedas hacia el borde de la carretera.",
+        "b": "Dejar las ruedas rectas.",
+        "c": "No es necesario hacer nada.",
+        "respuesta": "a",
+        "explicacion": "Al estacionar en una pendiente, se deben girar las ruedas hacia el borde de la carretera para evitar que el vehículo ruede.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Prohibido aparcar en doble fila'?",
+        "a": "No se puede estacionar en doble fila.",
+        "b": "Está permitido aparcar en doble fila.",
+        "c": "Se puede aparcar en doble fila solo en emergencias.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar en doble fila, lo que puede obstruir el tráfico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se recibe una multa por estacionamiento?",
+        "a": "Pagar la multa o impugnarla si se considera injusta.",
+        "b": "Ignorar la multa.",
+        "c": "Estacionar en el mismo lugar nuevamente.",
+        "respuesta": "a",
+        "explicacion": "Lo correcto es pagar la multa o impugnarla si se considera que ha habido un error.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento reservado para taxis'?",
+        "a": "Solo los taxis pueden estacionar en esa área.",
+        "b": "Cualquier vehículo puede estacionar.",
+        "c": "Solo se permite estacionar durante ciertas horas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que el estacionamiento está reservado exclusivamente para taxis.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Prohibido parar y estacionar'?",
+        "a": "No se puede ni parar ni estacionar en esa zona.",
+        "b": "Solo se permite parar.",
+        "c": "Se puede estacionar por un tiempo limitado.",
+        "respuesta": "a",
+        "explicacion": "La señal prohíbe tanto parar como estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacerse al estacionar en un lugar con señal de 'Prohibido estacionar'?",
+        "a": "No estacionar en esa zona.",
+        "b": "Estacionar brevemente.",
+        "c": "Buscar una excepción.",
+        "respuesta": "a",
+        "explicacion": "Es obligatorio no estacionar en zonas donde hay una señal de 'Prohibido estacionar'.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe evitar al aparcar un vehículo?",
+        "a": "Estacionar en lugares que obstruyan el tráfico.",
+        "b": "Estacionar en espacios marcados.",
+        "c": "Aparcar en zonas de carga y descarga.",
+        "respuesta": "a",
+        "explicacion": "Se debe evitar estacionar en lugares que obstruyan el tráfico para mantener la fluidez de la circulación.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento en batería'?",
+        "a": "Los vehículos deben estacionarse en ángulo.",
+        "b": "Los vehículos deben estacionarse en línea recta.",
+        "c": "Se debe estacionar en paralelo.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que los vehículos deben estacionarse en batería, es decir, en un ángulo respecto a la acera.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay una señal de 'Parada de autobús'?",
+        "a": "No estacionar en esa área.",
+        "b": "Se puede estacionar durante las horas de clase.",
+        "c": "Parar brevemente para dejar a alguien.",
+        "respuesta": "a",
+        "explicacion": "No se debe estacionar en una señal de 'Parada de autobús' para permitir el acceso y salida segura de los pasajeros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Zona azul'?",
+        "a": "Estacionamiento regulado con pago.",
+        "b": "Estacionamiento gratuito y sin límites.",
+        "c": "Prohibido aparcar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Zona azul' indica que el estacionamiento está regulado y requiere un pago por tiempo limitado.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si se encuentra un coche mal estacionado en su calle?",
+        "a": "Contactar a la autoridad competente.",
+        "b": "Dejarlo así.",
+        "c": "Intentar moverlo.",
+        "respuesta": "a",
+        "explicacion": "Lo correcto es contactar a la autoridad competente para que tomen las medidas necesarias.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se indica al encontrar una señal de 'Estacionamiento prohibido los domingos'?",
+        "a": "No se puede estacionar los domingos.",
+        "b": "Se puede estacionar los domingos.",
+        "c": "Solo se permite estacionar en días laborales.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar en esa área los domingos.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe considerar al estacionar cerca de un paso peatonal?",
+        "a": "Mantener una distancia mínima de 5 metros.",
+        "b": "No hay restricciones.",
+        "c": "Estacionar lo más cerca posible.",
+        "respuesta": "a",
+        "explicacion": "Es importante mantener una distancia mínima de 5 metros de un paso peatonal para garantizar la seguridad de los peatones.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Prohibido estacionar entre las 8:00 y las 18:00'?",
+        "a": "Está prohibido estacionar durante esas horas.",
+        "b": "Se permite estacionar durante esas horas.",
+        "c": "Se permite estacionar solo los fines de semana.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar entre las 8:00 y las 18:00.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se ve un vehículo estacionado en un lugar de emergencia?",
+        "a": "Informar a las autoridades competentes.",
+        "b": "Dejarlo pasar.",
+        "c": "Intentar mover el vehículo.",
+        "respuesta": "a",
+        "explicacion": "Es correcto informar a las autoridades competentes sobre un vehículo estacionado en un lugar de emergencia.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe evitar al aparcar en una zona comercial?",
+        "a": "Estacionar en espacios reservados para clientes.",
+        "b": "Aparcar en cualquier lugar.",
+        "c": "No respetar los horarios de pago.",
+        "respuesta": "c",
+        "explicacion": "Es importante no respetar los horarios de pago, ya que esto puede resultar en multas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento gratuito'?",
+        "a": "Se puede estacionar sin costo alguno.",
+        "b": "Es un área de estacionamiento restringido.",
+        "c": "Solo se permite aparcar en ciertas horas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está permitido estacionar sin costo alguno en esa área.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al aparcar un vehículo con remolque?",
+        "a": "Asegurarse de que está permitido en esa área.",
+        "b": "Estacionar en cualquier lugar.",
+        "c": "No es necesario hacer nada.",
+        "respuesta": "a",
+        "explicacion": "Al aparcar un vehículo con remolque, se debe verificar que esté permitido en esa área para evitar infracciones.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar'?",
+        "a": "No se puede estacionar en esa área.",
+        "b": "Se puede estacionar durante la noche.",
+        "c": "Solo se permite estacionar los fines de semana.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido estacionar en esa área en cualquier momento.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué indica una línea amarilla continua en el borde de la carretera?",
+        "a": "Prohibido estacionar.",
+        "b": "Se permite estacionar.",
+        "c": "Estacionamiento limitado.",
+        "respuesta": "a",
+        "explicacion": "Una línea amarilla continua indica que está prohibido estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo bloquea la entrada de un garaje?",
+        "a": "Informar a las autoridades competentes.",
+        "b": "Tratar de moverlo.",
+        "c": "Esperar a que se mueva.",
+        "respuesta": "a",
+        "explicacion": "Es correcto informar a las autoridades competentes para que tomen las medidas adecuadas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido parar'?",
+        "a": "No se puede detener el vehículo en esa área.",
+        "b": "Se puede detener brevemente.",
+        "c": "Está permitido parar solo para descargar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que no se puede detener el vehículo en esa área bajo ninguna circunstancia.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacerse al estacionar en un lugar marcado para discapacitados?",
+        "a": "Asegurarse de tener el permiso correspondiente.",
+        "b": "Estacionar sin restricciones.",
+        "c": "Solo se permite estacionar brevemente.",
+        "respuesta": "a",
+        "explicacion": "Es obligatorio tener el permiso correspondiente para estacionar en lugares reservados para discapacitados.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica estacionar en una zona de carga y descarga?",
+        "a": "Solo se puede aparcar durante un tiempo limitado.",
+        "b": "Se puede estacionar sin restricciones.",
+        "c": "Está prohibido estacionar en todo momento.",
+        "respuesta": "a",
+        "explicacion": "En una zona de carga y descarga, generalmente solo se permite estacionar por un tiempo limitado para facilitar la carga de mercancías.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe considerar al estacionar en un lugar público?",
+        "a": "Respetar las señales y restricciones de estacionamiento.",
+        "b": "Estacionar sin preocupaciones.",
+        "c": "Solo preocuparse por el tiempo.",
+        "respuesta": "a",
+        "explicacion": "Es importante respetar las señales y restricciones de estacionamiento para evitar multas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Estacionamiento limitado'?",
+        "a": "Solo se permite estacionar por un tiempo determinado.",
+        "b": "Se puede aparcar todo el día.",
+        "c": "Está prohibido aparcar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que solo se permite estacionar por un tiempo específico.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué hacer si se ve un vehículo estacionado en un lugar de emergencia?",
+        "a": "Contactar a las autoridades.",
+        "b": "Dejarlo así.",
+        "c": "Intentar moverlo.",
+        "respuesta": "a",
+        "explicacion": "Es correcto informar a las autoridades sobre un vehículo estacionado en un lugar de emergencia.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Estacionamiento permitido'?",
+        "a": "Está permitido aparcar en esa zona.",
+        "b": "Se puede aparcar solo en ciertas horas.",
+        "c": "Prohibido aparcar.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está permitido aparcar en esa área.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacerse al estacionar un camión?",
+        "a": "Buscar áreas designadas para camiones.",
+        "b": "Estacionar donde sea conveniente.",
+        "c": "No es necesario hacer nada especial.",
+        "respuesta": "a",
+        "explicacion": "Es recomendable buscar áreas designadas para camiones para evitar multas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe evitar al aparcar en la vía pública?",
+        "a": "Estacionar en lugares no autorizados.",
+        "b": "Seguir las señales.",
+        "c": "Aparcar en espacios libres.",
+        "respuesta": "a",
+        "explicacion": "Es importante evitar estacionar en lugares no autorizados para no recibir multas.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Parada de taxi'?",
+        "a": "Los taxis pueden detenerse en esa área.",
+        "b": "Está prohibido para todos los vehículos.",
+        "c": "Se puede parar solo para recoger pasajeros.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que es una zona donde los taxis pueden detenerse para recoger y dejar pasajeros.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al aparcar en una zona residencial?",
+        "a": "Respetar las normas de estacionamiento locales.",
+        "b": "Estacionar donde se desee.",
+        "c": "No es necesario hacer nada.",
+        "respuesta": "a",
+        "explicacion": "Es importante respetar las normas de estacionamiento establecidas en zonas residenciales.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa una línea blanca en el borde de la carretera?",
+        "a": "Permite estacionar.",
+        "b": "Prohibido estacionar.",
+        "c": "Estacionamiento limitado.",
+        "respuesta": "b",
+        "explicacion": "Una línea blanca indica que está prohibido estacionar en esa zona.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué debe hacerse al estacionar en un área comercial?",
+        "a": "Seguir las reglas de estacionamiento del establecimiento.",
+        "b": "Estacionar sin restricciones.",
+        "c": "Estacionar donde se quiera.",
+        "respuesta": "a",
+        "explicacion": "Es importante seguir las reglas de estacionamiento establecidas por el establecimiento comercial.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido aparcar en la acera'?",
+        "a": "Está prohibido aparcar sobre la acera.",
+        "b": "Se puede aparcar en la acera.",
+        "c": "Aparcar solo durante ciertas horas.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que está prohibido aparcar sobre la acera, para garantizar el paso de peatones.",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué implica la señal de 'Zona de estacionamiento'?",
+        "a": "Se permite estacionar en esa área.",
+        "b": "Está prohibido aparcar.",
+        "c": "Solo se permite aparcar durante la noche.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se permite estacionar en esa zona, aunque puede haber restricciones adicionales.",
+        "categoria_id": 7
+    }
+]

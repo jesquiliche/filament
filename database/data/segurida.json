@@ -1,0 +1,1469 @@
+[
+    {
+        "pregunta": "¿Cuál es la principal función de un cinturón de seguridad?",
+        "a": "Mantener al conductor y pasajeros en su lugar durante un accidente.",
+        "b": "Aumentar la velocidad del vehículo.",
+        "c": "Facilitar el acceso al vehículo.",
+        "respuesta": "a",
+        "explicacion": "El cinturón de seguridad ayuda a prevenir lesiones al mantener a los ocupantes del vehículo seguros en su asiento durante un choque.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante usar casco en una moto?",
+        "a": "Protege la cabeza en caso de accidente.",
+        "b": "Es un accesorio de moda.",
+        "c": "Aumenta la velocidad de la moto.",
+        "respuesta": "a",
+        "explicacion": "El casco es esencial para proteger la cabeza de lesiones graves durante un accidente de moto.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al acercarse a un paso de peatones?",
+        "a": "Aumentar la velocidad.",
+        "b": "Reducir la velocidad y estar preparado para detenerse.",
+        "c": "Tocar el claxon.",
+        "respuesta": "b",
+        "explicacion": "Al acercarse a un paso de peatones, es fundamental reducir la velocidad y detenerse si hay peatones cruzando.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un semáforo está en amarillo?",
+        "a": "Acelerar para cruzar.",
+        "b": "Detenerse si es seguro hacerlo.",
+        "c": "Continuar sin detenerse.",
+        "respuesta": "b",
+        "explicacion": "El amarillo indica que el semáforo va a cambiar a rojo, por lo que se debe detener si es seguro.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima que se debe mantener al seguir a otro vehículo?",
+        "a": "5 metros.",
+        "b": "Una distancia suficiente para reaccionar en caso de frenado.",
+        "c": "No hay que mantener distancia.",
+        "respuesta": "b",
+        "explicacion": "Es importante mantener una distancia suficiente para poder reaccionar ante cualquier imprevisto.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el paso'?",
+        "a": "Se permite continuar.",
+        "b": "Está prohibido avanzar más allá de esa señal.",
+        "c": "Es solo una recomendación.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Prohibido el paso' indica que los vehículos no pueden continuar más allá de ese punto.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el riesgo de conducir bajo los efectos del alcohol?",
+        "a": "No hay riesgo.",
+        "b": "Aumenta el riesgo de accidentes.",
+        "c": "Mejora la concentración.",
+        "respuesta": "b",
+        "explicacion": "Conducir bajo los efectos del alcohol disminuye las capacidades motoras y de juicio, aumentando el riesgo de accidentes.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al escuchar sirenas de emergencia?",
+        "a": "Acelerar para escapar.",
+        "b": "Detenerse o ceder el paso.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben ceder el paso a los vehículos de emergencia que utilizan sirenas.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante revisar los frenos del vehículo?",
+        "a": "No es importante.",
+        "b": "Asegura un funcionamiento adecuado y evita accidentes.",
+        "c": "Solo se revisan cuando fallan.",
+        "respuesta": "b",
+        "explicacion": "Revisar los frenos regularmente es esencial para garantizar la seguridad del vehículo y prevenir accidentes.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo se descompone en la autopista?",
+        "a": "Abandonar el vehículo inmediatamente.",
+        "b": "Encender las luces de emergencia y situarse fuera de la vía.",
+        "c": "Aguantar hasta que se solucione.",
+        "respuesta": "b",
+        "explicacion": "Al descomponerse en la autopista, es importante encender las luces de emergencia y ubicarse en un lugar seguro fuera de la vía.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado niños'?",
+        "a": "Indica que hay niños en la vía y se debe conducir con precaución.",
+        "b": "Se puede acelerar.",
+        "c": "Es una advertencia de curva peligrosa.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Cuidado niños' advierte a los conductores sobre la presencia de niños en áreas cercanas a la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los ciclistas al circular por la carretera?",
+        "a": "Conducir en la acera.",
+        "b": "Seguir las normas de tráfico y ser visibles.",
+        "c": "No tienen que seguir ninguna regla.",
+        "respuesta": "b",
+        "explicacion": "Los ciclistas deben respetar las normas de tráfico y ser visibles para garantizar su seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la función de las luces de freno?",
+        "a": "Indicar que el vehículo está detenido o reduciendo la velocidad.",
+        "b": "Aumentar la velocidad.",
+        "c": "No tienen función.",
+        "respuesta": "a",
+        "explicacion": "Las luces de freno avisan a los vehículos detrás que el coche está deteniéndose o reduciendo su velocidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de una lluvia intensa mientras se conduce?",
+        "a": "Acelerar para cruzar rápidamente.",
+        "b": "Reducir la velocidad y aumentar la distancia de seguridad.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Durante la lluvia intensa, es crucial reducir la velocidad y aumentar la distancia de seguridad para evitar accidentes.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa el término 'punto ciego'?",
+        "a": "Un área donde no se puede ver a otros vehículos.",
+        "b": "Es un lugar seguro para detenerse.",
+        "c": "Es donde se deben adelantar a otros vehículos.",
+        "respuesta": "a",
+        "explicacion": "El 'punto ciego' es un área alrededor del vehículo que no se puede ver a través de los espejos retrovisores.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al pasar una escuela?",
+        "a": "Acelerar.",
+        "b": "Conducir con precaución y reducir la velocidad.",
+        "c": "Ignorar las señales.",
+        "respuesta": "b",
+        "explicacion": "Al pasar cerca de una escuela, los conductores deben ser especialmente cautelosos y reducir la velocidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante el mantenimiento del vehículo?",
+        "a": "No es importante.",
+        "b": "Ayuda a garantizar la seguridad y el rendimiento del vehículo.",
+        "c": "Solo se hace cuando hay problemas.",
+        "respuesta": "b",
+        "explicacion": "El mantenimiento regular del vehículo asegura que funcione correctamente y reduce el riesgo de accidentes.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se siente somnoliento mientras conduce?",
+        "a": "Continuar conduciendo.",
+        "b": "Detenerse y descansar.",
+        "c": "Escuchar música para mantenerse despierto.",
+        "respuesta": "b",
+        "explicacion": "Si se siente somnoliento, es importante detenerse y descansar para evitar un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con un animal en la carretera?",
+        "a": "Acelerar para evitarlo.",
+        "b": "Frenar y tratar de evitarlo.",
+        "c": "Tocar el claxon para asustarlo.",
+        "respuesta": "b",
+        "explicacion": "Si un animal aparece en la carretera, el conductor debe frenar y tratar de evitarlo de forma segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado, curva peligrosa'?",
+        "a": "La carretera se vuelve peligrosa.",
+        "b": "No hay curvas en la vía.",
+        "c": "Aumenta la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que hay una curva peligrosa y que el conductor debe reducir la velocidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima recomendada para el uso de luces altas?",
+        "a": "A menos de 200 metros de otros vehículos.",
+        "b": "A más de 200 metros de otros vehículos.",
+        "c": "No hay distancia mínima.",
+        "respuesta": "b",
+        "explicacion": "Se recomienda usar luces altas solo cuando no hay vehículos a menos de 200 metros para evitar deslumbrar a otros conductores.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se produce un accidente de tráfico?",
+        "a": "Abandonar el lugar.",
+        "b": "Ayudar a los heridos y llamar a los servicios de emergencia.",
+        "c": "Discutir con la otra parte.",
+        "respuesta": "b",
+        "explicacion": "Es fundamental ayudar a los heridos y notificar a las autoridades en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa el término 'señalización horizontal'?",
+        "a": "Señales que están en el aire.",
+        "b": "Señales pintadas en el pavimento.",
+        "c": "Señales que indican velocidad.",
+        "respuesta": "b",
+        "explicacion": "La señalización horizontal se refiere a las marcas pintadas en la carretera, como líneas de carriles o pasos de peatones.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor al acercarse a una intersección sin señalización?",
+        "a": "Acelerar para pasar primero.",
+        "b": "Ceder el paso a los vehículos que vienen de la derecha.",
+        "c": "No ceder el paso a nadie.",
+        "respuesta": "b",
+        "explicacion": "En una intersección sin señalización, se debe ceder el paso a los vehículos que vienen desde la derecha.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la principal causa de accidentes de tráfico?",
+        "a": "Condiciones climáticas.",
+        "b": "Distracción del conductor.",
+        "c": "Mal estado de la carretera.",
+        "respuesta": "b",
+        "explicacion": "La distracción del conductor, como el uso del móvil, es una de las principales causas de accidentes de tráfico.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se necesita usar el teléfono móvil mientras se conduce?",
+        "a": "Usarlo sin problemas.",
+        "b": "Detenerse en un lugar seguro antes de usarlo.",
+        "c": "Sostenerlo con la mano.",
+        "respuesta": "b",
+        "explicacion": "Es peligroso usar el teléfono móvil mientras se conduce; se debe detener en un lugar seguro antes de usarlo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se encuentra un accidente en la carretera?",
+        "a": "Parar y ayudar.",
+        "b": "Seguir conduciendo sin mirar.",
+        "c": "Tomar fotos y subirlas a redes sociales.",
+        "respuesta": "a",
+        "explicacion": "Si es seguro hacerlo, parar y ayudar a los involucrados es lo correcto en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al cruzar un puente?",
+        "a": "Reducir la velocidad y estar alerta.",
+        "b": "Acelerar para cruzar rápidamente.",
+        "c": "No hay que hacer nada especial.",
+        "respuesta": "a",
+        "explicacion": "Al cruzar un puente, es recomendable reducir la velocidad y estar alerta, ya que pueden haber condiciones especiales.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de las señales de advertencia?",
+        "a": "No son importantes.",
+        "b": "Alertan sobre situaciones peligrosas o cambios en la vía.",
+        "c": "Indican velocidad máxima.",
+        "respuesta": "b",
+        "explicacion": "Las señales de advertencia son cruciales para informar a los conductores sobre peligros y cambios en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los peatones al cruzar una carretera?",
+        "a": "Cruzarse sin mirar.",
+        "b": "Mirar a ambos lados y cruzar por pasos de peatones.",
+        "c": "Esperar a que un vehículo se detenga.",
+        "respuesta": "b",
+        "explicacion": "Los peatones deben mirar a ambos lados y cruzar por pasos de peatones para garantizar su seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las zonas escolares?",
+        "a": "Aumentar la velocidad.",
+        "b": "Proteger a los niños al cruzar la calle.",
+        "c": "No tienen ningún propósito.",
+        "respuesta": "b",
+        "explicacion": "Las zonas escolares están diseñadas para aumentar la seguridad de los niños al cruzar la calle.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado, obras en la carretera'?",
+        "a": "No hay que hacer nada.",
+        "b": "Indica que hay trabajos en la vía y se debe conducir con precaución.",
+        "c": "Se puede acelerar.",
+        "respuesta": "b",
+        "explicacion": "La señal advierte sobre obras en la carretera y que los conductores deben ser cautelosos.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los pasajeros de un vehículo?",
+        "a": "No usar cinturón de seguridad.",
+        "b": "Usar siempre el cinturón de seguridad.",
+        "c": "No hay que hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Todos los pasajeros deben usar el cinturón de seguridad para su propia protección.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se está siendo seguido por otro vehículo de forma agresiva?",
+        "a": "Acelerar y escapar.",
+        "b": "Mantener la calma y cambiar de carril o detenerse en un lugar seguro.",
+        "c": "Frenar bruscamente.",
+        "respuesta": "b",
+        "explicacion": "Es importante mantener la calma y tratar de cambiar de carril o detenerse en un lugar seguro si se siente amenazado por otro conductor.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante respetar los límites de velocidad?",
+        "a": "No es importante.",
+        "b": "Para garantizar la seguridad de todos en la carretera.",
+        "c": "Para aumentar la velocidad del vehículo.",
+        "respuesta": "b",
+        "explicacion": "Respetar los límites de velocidad ayuda a prevenir accidentes y garantiza la seguridad en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al conducir en condiciones de niebla?",
+        "a": "Encender las luces altas.",
+        "b": "Reducir la velocidad y usar luces bajas.",
+        "c": "Acelerar para salir de la niebla.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de niebla, es importante reducir la velocidad y usar luces bajas para mejorar la visibilidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado, deslizamiento'?",
+        "a": "La carretera es segura.",
+        "b": "La carretera puede ser resbaladiza.",
+        "c": "Se puede aumentar la velocidad.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que la carretera puede ser resbaladiza y los conductores deben reducir la velocidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al acercarse a un paso de peatones?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y estar preparado para detenerse.",
+        "c": "No es necesario hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Al acercarse a un paso de peatones, los conductores deben reducir la velocidad y estar preparados para detenerse si hay peatones cruzando.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la función de las luces de emergencia en un vehículo?",
+        "a": "Indicar que el vehículo está aparcado.",
+        "b": "Advertir a otros conductores de un problema o emergencia.",
+        "c": "No tienen función.",
+        "respuesta": "b",
+        "explicacion": "Las luces de emergencia se utilizan para advertir a otros conductores que el vehículo tiene un problema o está detenido por alguna razón.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante mantener una distancia de seguridad?",
+        "a": "Para poder ver mejor la carretera.",
+        "b": "Para evitar colisiones en caso de que el vehículo delantero frene de repente.",
+        "c": "No es importante.",
+        "respuesta": "b",
+        "explicacion": "Mantener una distancia de seguridad es crucial para evitar accidentes si el vehículo que está delante frena repentinamente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se siente somnoliento al conducir?",
+        "a": "Permanecer despierto como sea.",
+        "b": "Detenerse en un lugar seguro y descansar o tomar un café.",
+        "c": "Acelerar para llegar más rápido.",
+        "respuesta": "b",
+        "explicacion": "Si se siente somnoliento, es fundamental detenerse en un lugar seguro y descansar o tomar una bebida con cafeína.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al salir de un estacionamiento?",
+        "a": "Reversa sin mirar.",
+        "b": "Asegurarse de que no haya tráfico y luego salir con precaución.",
+        "c": "Acelerar para salir rápido.",
+        "respuesta": "b",
+        "explicacion": "Al salir de un estacionamiento, los conductores deben asegurarse de que no haya tráfico y salir con precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la mejor manera de evitar accidentes por distracción?",
+        "a": "Usar el teléfono móvil mientras se conduce.",
+        "b": "No comer ni beber al conducir.",
+        "c": "Mantenerse alerta y evitar distracciones.",
+        "respuesta": "c",
+        "explicacion": "La mejor manera de evitar accidentes por distracción es mantenerse alerta y evitar cualquier cosa que pueda desviar la atención de la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los ciclistas al circular por la carretera?",
+        "a": "Circular por cualquier parte de la vía.",
+        "b": "Usar el carril bici si está disponible y seguir las normas de tráfico.",
+        "c": "No seguir ninguna regla.",
+        "respuesta": "b",
+        "explicacion": "Los ciclistas deben usar el carril bici si está disponible y seguir las normas de tráfico para su seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de zona de peligro'?",
+        "a": "La zona es segura.",
+        "b": "La zona sigue siendo peligrosa.",
+        "c": "Se puede aumentar la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se ha salido de una zona de peligro y la carretera es segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se encuentra con un semáforo en rojo?",
+        "a": "Acelerar y pasar.",
+        "b": "Detenerse y esperar a que el semáforo cambie a verde.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Un semáforo en rojo indica que el conductor debe detenerse y esperar a que cambie a verde.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la mejor manera de cruzar una carretera de manera segura?",
+        "a": "Cruzando donde sea.",
+        "b": "Usando los pasos de peatones y mirando a ambos lados.",
+        "c": "Corriendo.",
+        "respuesta": "b",
+        "explicacion": "Para cruzar de manera segura, los peatones deben usar los pasos de peatones y mirar a ambos lados antes de cruzar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al escuchar una sirena de emergencia?",
+        "a": "Acelerar para no ser alcanzados.",
+        "b": "Ceder el paso y moverse a un lado de la carretera.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben ceder el paso y moverse a un lado de la carretera al escuchar una sirena de emergencia.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de girar a la derecha en una intersección?",
+        "a": "Girar sin mirar.",
+        "b": "Asegurarse de que no haya peatones o vehículos en la intersección antes de girar.",
+        "c": "Girar rápidamente.",
+        "respuesta": "b",
+        "explicacion": "Es importante asegurarse de que no haya peatones o vehículos en la intersección antes de girar a la derecha.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al manejar en carreteras con lluvia?",
+        "a": "Aumentar la velocidad.",
+        "b": "Reducir la velocidad y aumentar la distancia de seguridad.",
+        "c": "No cambiar nada en la conducción.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de lluvia, es fundamental reducir la velocidad y aumentar la distancia de seguridad para evitar accidentes.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado, niños'?",
+        "a": "No es necesario prestar atención.",
+        "b": "Se deben tomar precauciones, ya que pueden haber niños en la vía.",
+        "c": "Es seguro conducir rápido.",
+        "respuesta": "b",
+        "explicacion": "La señal advierte que se deben tomar precauciones, ya que pueden haber niños en la vía.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se producen condiciones de baja visibilidad?",
+        "a": "Acelerar para salir de la zona.",
+        "b": "Encender las luces bajas y reducir la velocidad.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de baja visibilidad, es importante encender las luces bajas y reducir la velocidad para garantizar la seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si se encuentran en un atasco?",
+        "a": "Tocar el claxon continuamente.",
+        "b": "Mantener la calma y esperar.",
+        "c": "Acelerar para salir del atasco.",
+        "respuesta": "b",
+        "explicacion": "En un atasco, es crucial mantener la calma y esperar a que la situación se resuelva.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Por qué es importante usar el cinturón de seguridad?",
+        "a": "No es importante.",
+        "b": "Para protegerse en caso de un accidente.",
+        "c": "Para evitar multas.",
+        "respuesta": "b",
+        "explicacion": "El cinturón de seguridad es vital para proteger a los ocupantes del vehículo en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar'?",
+        "a": "Está permitido estacionar.",
+        "b": "Está prohibido estacionar.",
+        "c": "Solo se permite estacionar por la noche.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido estacionar en esa área.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las líneas de detención en los semáforos?",
+        "a": "Indicar el lugar donde deben detenerse los vehículos.",
+        "b": "Decorar la carretera.",
+        "c": "No tienen ningún propósito.",
+        "respuesta": "a",
+        "explicacion": "Las líneas de detención indican el lugar donde los vehículos deben detenerse en un semáforo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los peatones al cruzar la carretera?",
+        "a": "Cruzar donde sea.",
+        "b": "Mirar a ambos lados y usar pasos de peatones.",
+        "c": "Cruzarse sin mirar.",
+        "respuesta": "b",
+        "explicacion": "Los peatones deben mirar a ambos lados y usar pasos de peatones para cruzar de manera segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo de emergencia se acerca con las luces encendidas?",
+        "a": "Seguir conduciendo sin parar.",
+        "b": "Ceder el paso y moverse al lado de la carretera.",
+        "c": "Acelerar para evitarlo.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben ceder el paso y moverse al lado de la carretera para permitir el paso del vehículo de emergencia.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el límite de alcohol en sangre permitido para conducir?",
+        "a": "0.5 g/L en la mayoría de los países.",
+        "b": "1.0 g/L.",
+        "c": "No hay límite.",
+        "respuesta": "a",
+        "explicacion": "En la mayoría de los países, el límite de alcohol en sangre permitido para conducir es de 0.5 g/L.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una luz amarilla en un semáforo?",
+        "a": "Detenerse inmediatamente.",
+        "b": "Prepararse para detenerse.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Una luz amarilla indica que el semáforo va a cambiar a rojo, por lo que se debe preparar para detenerse.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se enfrenta a una señal de 'Ceda el paso'?",
+        "a": "Acelerar.",
+        "b": "Ceder el paso a los vehículos que se acercan.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceda el paso' indica que se debe ceder el paso a los vehículos que se acercan.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se pincha una rueda mientras se conduce?",
+        "a": "Conducir más rápido.",
+        "b": "Mantener la calma y detenerse en un lugar seguro.",
+        "c": "Seguir conduciendo hasta que se detenga el coche.",
+        "respuesta": "b",
+        "explicacion": "Si se pincha una rueda, es importante mantener la calma y detenerse en un lugar seguro.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores cuando hay niebla?",
+        "a": "Usar luces altas.",
+        "b": "Usar luces bajas y reducir la velocidad.",
+        "c": "No cambiar nada.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de niebla, se deben usar luces bajas y reducir la velocidad para mejorar la visibilidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la razón principal para usar el cinturón de seguridad?",
+        "a": "Para evitar multas.",
+        "b": "Para protegerse en caso de accidente.",
+        "c": "No tiene importancia.",
+        "respuesta": "b",
+        "explicacion": "El cinturón de seguridad es fundamental para proteger a los ocupantes en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Bajada peligrosa'?",
+        "a": "La carretera es plana.",
+        "b": "La carretera desciende de forma pronunciada.",
+        "c": "Es seguro conducir rápido.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que la carretera desciende de forma pronunciada, por lo que se debe tener precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con un gato o perro en la carretera?",
+        "a": "Acelerar para no atropellarlo.",
+        "b": "Detenerse y asegurarse de que el animal esté a salvo.",
+        "c": "Ignorarlo.",
+        "respuesta": "b",
+        "explicacion": "El conductor debe detenerse y asegurarse de que el animal esté a salvo, evitando así un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al entrar en una rotonda?",
+        "a": "Acelerar y entrar sin mirar.",
+        "b": "Ceder el paso a los vehículos que ya están en la rotonda.",
+        "c": "No hay reglas en la rotonda.",
+        "respuesta": "b",
+        "explicacion": "Al entrar en una rotonda, los conductores deben ceder el paso a los vehículos que ya están en la rotonda.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al conducir de noche?",
+        "a": "Conducir con las luces apagadas.",
+        "b": "Usar las luces de cruce y reducir la velocidad.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Al conducir de noche, se deben usar las luces de cruce y reducir la velocidad para mejorar la visibilidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la consecuencia de no usar el cinturón de seguridad?",
+        "a": "No hay consecuencias.",
+        "b": "Mayor riesgo de lesiones graves en un accidente.",
+        "c": "Se puede conducir más rápido.",
+        "respuesta": "b",
+        "explicacion": "No usar el cinturón de seguridad aumenta el riesgo de lesiones graves en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al escuchar un pitido de advertencia en el vehículo?",
+        "a": "Ignorarlo.",
+        "b": "Revisar si hay algún problema mecánico.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Un pitido de advertencia puede indicar un problema mecánico, por lo que es importante revisarlo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al estacionar en una pendiente?",
+        "a": "No hacer nada.",
+        "b": "Girar las ruedas hacia la acera y usar el freno de mano.",
+        "c": "Dejar el vehículo en neutral.",
+        "respuesta": "b",
+        "explicacion": "Al estacionar en una pendiente, se deben girar las ruedas hacia la acera y usar el freno de mano para evitar que el vehículo ruede.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Desvío'? ",
+        "a": "La carretera está cerrada.",
+        "b": "Se debe tomar un desvío.",
+        "c": "No hay desvío disponible.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe tomar un desvío debido a trabajos en la carretera o cierre.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar'?",
+        "a": "Está permitido estacionar.",
+        "b": "Está prohibido estacionar.",
+        "c": "Solo se permite estacionar por la noche.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido estacionar en esa área.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las líneas de detención en los semáforos?",
+        "a": "Indicar el lugar donde deben detenerse los vehículos.",
+        "b": "Decorar la carretera.",
+        "c": "No tienen ningún propósito.",
+        "respuesta": "a",
+        "explicacion": "Las líneas de detención indican el lugar donde los vehículos deben detenerse en un semáforo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los peatones al cruzar la carretera?",
+        "a": "Cruzar donde sea.",
+        "b": "Mirar a ambos lados y usar pasos de peatones.",
+        "c": "Cruzarse sin mirar.",
+        "respuesta": "b",
+        "explicacion": "Los peatones deben mirar a ambos lados y usar pasos de peatones para cruzar de manera segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo de emergencia se acerca con las luces encendidas?",
+        "a": "Seguir conduciendo sin parar.",
+        "b": "Ceder el paso y moverse al lado de la carretera.",
+        "c": "Acelerar para evitarlo.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben ceder el paso y moverse al lado de la carretera para permitir el paso del vehículo de emergencia.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el límite de alcohol en sangre permitido para conducir?",
+        "a": "0.5 g/L en la mayoría de los países.",
+        "b": "1.0 g/L.",
+        "c": "No hay límite.",
+        "respuesta": "a",
+        "explicacion": "En la mayoría de los países, el límite de alcohol en sangre permitido para conducir es de 0.5 g/L.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una luz amarilla en un semáforo?",
+        "a": "Detenerse inmediatamente.",
+        "b": "Prepararse para detenerse.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Una luz amarilla indica que el semáforo va a cambiar a rojo, por lo que se debe preparar para detenerse.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se enfrenta a una señal de 'Ceda el paso'?",
+        "a": "Acelerar.",
+        "b": "Ceder el paso a los vehículos que se acercan.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceda el paso' indica que se debe ceder el paso a los vehículos que se acercan.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se pincha una rueda mientras se conduce?",
+        "a": "Conducir más rápido.",
+        "b": "Mantener la calma y detenerse en un lugar seguro.",
+        "c": "Seguir conduciendo hasta que se detenga el coche.",
+        "respuesta": "b",
+        "explicacion": "Si se pincha una rueda, es importante mantener la calma y detenerse en un lugar seguro.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores cuando hay niebla?",
+        "a": "Usar luces altas.",
+        "b": "Usar luces bajas y reducir la velocidad.",
+        "c": "No cambiar nada.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de niebla, se deben usar luces bajas y reducir la velocidad para mejorar la visibilidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la razón principal para usar el cinturón de seguridad?",
+        "a": "Para evitar multas.",
+        "b": "Para protegerse en caso de accidente.",
+        "c": "No tiene importancia.",
+        "respuesta": "b",
+        "explicacion": "El cinturón de seguridad es fundamental para proteger a los ocupantes en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Bajada peligrosa'?",
+        "a": "La carretera es plana.",
+        "b": "La carretera desciende de forma pronunciada.",
+        "c": "Es seguro conducir rápido.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que la carretera desciende de forma pronunciada, por lo que se debe tener precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se encuentra con un gato o perro en la carretera?",
+        "a": "Acelerar para no atropellarlo.",
+        "b": "Detenerse y asegurarse de que el animal esté a salvo.",
+        "c": "Ignorarlo.",
+        "respuesta": "b",
+        "explicacion": "El conductor debe detenerse y asegurarse de que el animal esté a salvo, evitando así un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al entrar en una rotonda?",
+        "a": "Acelerar y entrar sin mirar.",
+        "b": "Ceder el paso a los vehículos que ya están en la rotonda.",
+        "c": "No hay reglas en la rotonda.",
+        "respuesta": "b",
+        "explicacion": "Al entrar en una rotonda, los conductores deben ceder el paso a los vehículos que ya están en la rotonda.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al conducir de noche?",
+        "a": "Conducir con las luces apagadas.",
+        "b": "Usar las luces de cruce y reducir la velocidad.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Al conducir de noche, se deben usar las luces de cruce y reducir la velocidad para mejorar la visibilidad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la consecuencia de no usar el cinturón de seguridad?",
+        "a": "No hay consecuencias.",
+        "b": "Mayor riesgo de lesiones graves en un accidente.",
+        "c": "Se puede conducir más rápido.",
+        "respuesta": "b",
+        "explicacion": "No usar el cinturón de seguridad aumenta el riesgo de lesiones graves en caso de un accidente.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al escuchar un pitido de advertencia en el vehículo?",
+        "a": "Ignorarlo.",
+        "b": "Revisar si hay algún problema mecánico.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Un pitido de advertencia puede indicar un problema mecánico, por lo que es importante revisarlo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al estacionar en una pendiente?",
+        "a": "No hacer nada.",
+        "b": "Girar las ruedas hacia la acera y usar el freno de mano.",
+        "c": "Dejar el vehículo en neutral.",
+        "respuesta": "b",
+        "explicacion": "Al estacionar en una pendiente, se deben girar las ruedas hacia la acera y usar el freno de mano para evitar que el vehículo ruede.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Desvío'? ",
+        "a": "La carretera está cerrada.",
+        "b": "Se debe tomar un desvío.",
+        "c": "No hay desvío disponible.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe tomar un desvío debido a trabajos en la carretera o cierre.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Zona escolar'?",
+        "a": "Se puede acelerar.",
+        "b": "Es una zona donde hay niños y se debe tener precaución.",
+        "c": "No hay escuelas en la zona.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Zona escolar' indica que hay una escuela cercana y se debe tener precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en una intersección sin señales de tráfico?",
+        "a": "Priorizar el paso a los vehículos de la derecha.",
+        "b": "Acelerar para pasar rápidamente.",
+        "c": "No hay reglas en esta intersección.",
+        "respuesta": "a",
+        "explicacion": "En una intersección sin señales de tráfico, se debe dar prioridad a los vehículos que vienen por la derecha.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los ciclistas en la carretera?",
+        "a": "Circular por el medio de la carretera.",
+        "b": "Utilizar los carriles designados y respetar las señales.",
+        "c": "Ignorar las señales de tráfico.",
+        "respuesta": "b",
+        "explicacion": "Los ciclistas deben utilizar los carriles designados y respetar las señales de tráfico.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al ver un semáforo en rojo?",
+        "a": "Detenerse antes de la línea de detención.",
+        "b": "Acelerar para pasar.",
+        "c": "Ignorar el semáforo.",
+        "respuesta": "a",
+        "explicacion": "Al ver un semáforo en rojo, los conductores deben detenerse antes de la línea de detención.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Prohibido girar a la izquierda'?",
+        "a": "Está permitido girar a la izquierda.",
+        "b": "Está prohibido girar a la izquierda en esa intersección.",
+        "c": "Se debe girar a la izquierda.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido realizar un giro a la izquierda en esa intersección.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las señales de advertencia?",
+        "a": "Informar sobre peligros o condiciones especiales en la carretera.",
+        "b": "Indicar el límite de velocidad.",
+        "c": "Dar instrucciones sobre el estacionamiento.",
+        "respuesta": "a",
+        "explicacion": "Las señales de advertencia están diseñadas para informar a los conductores sobre peligros o condiciones especiales en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se ve una señal de 'Peligro de deslizamiento'?",
+        "a": "Conducir más rápido.",
+        "b": "Reducir la velocidad y tener cuidado al conducir.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Peligro de deslizamiento' indica que se debe reducir la velocidad y tener cuidado al conducir en esa área.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores en condiciones de lluvia?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y aumentar la distancia de seguridad.",
+        "c": "No cambiar nada.",
+        "respuesta": "b",
+        "explicacion": "En condiciones de lluvia, los conductores deben reducir la velocidad y aumentar la distancia de seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un semáforo se apaga?",
+        "a": "Ignorarlo.",
+        "b": "Tratarlo como una intersección sin señales y ceder el paso.",
+        "c": "Acelerar para pasar.",
+        "respuesta": "b",
+        "explicacion": "Si un semáforo se apaga, se debe tratar la intersección como si no tuviera señales y ceder el paso.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si ven una señal de 'Tráfico en ambas direcciones'?",
+        "a": "Acelerar.",
+        "b": "Prepararse para compartir la carretera con tráfico que viene en sentido contrario.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe preparar para compartir la carretera con tráfico que viene en sentido contrario.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Cuál es la principal función de un paso peatonal?",
+        "a": "Permitir el paso de vehículos.",
+        "b": "Permitir que los peatones crucen la carretera de forma segura.",
+        "c": "No tiene ninguna función.",
+        "respuesta": "b",
+        "explicacion": "El paso peatonal está diseñado para permitir que los peatones crucen la carretera de forma segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los vehículos al escuchar una sirena de emergencia?",
+        "a": "Acelerar para evitar el vehículo.",
+        "b": "Detenerse y ceder el paso al vehículo de emergencia.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Los vehículos deben detenerse y ceder el paso al vehículo de emergencia cuando escuchan una sirena.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el vehículo comienza a derrapar?",
+        "a": "Girar bruscamente.",
+        "b": "Suelta el acelerador y gira en la dirección de la curva.",
+        "c": "Acelerar más.",
+        "respuesta": "b",
+        "explicacion": "Si el vehículo comienza a derrapar, se debe soltar el acelerador y girar en la dirección de la curva.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Calle sin salida'?",
+        "a": "La calle termina sin salida.",
+        "b": "Es un camino en dirección contraria.",
+        "c": "Se puede continuar por la calle.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que la calle termina y no tiene salida.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al salir de un estacionamiento?",
+        "a": "Salga sin mirar.",
+        "b": "Mirar a ambos lados y ceder el paso.",
+        "c": "Acelerar para salir rápido.",
+        "respuesta": "b",
+        "explicacion": "Al salir de un estacionamiento, se debe mirar a ambos lados y ceder el paso a los vehículos que circulan por la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores cuando hay un accidente en la carretera?",
+        "a": "Acelerar para evitar el tráfico.",
+        "b": "Detenerse y ayudar si es seguro hacerlo.",
+        "c": "Ignorar el accidente.",
+        "respuesta": "b",
+        "explicacion": "Si hay un accidente en la carretera, los conductores deben detenerse y ayudar si es seguro hacerlo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Tráfico lento'?",
+        "a": "Los vehículos pueden ir rápido.",
+        "b": "Los vehículos deben reducir la velocidad debido a tráfico lento.",
+        "c": "No hay tráfico.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que los vehículos deben reducir la velocidad debido a tráfico lento.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al pasar un ciclista?",
+        "a": "Reducir la velocidad y mantener una distancia segura.",
+        "b": "Acelerar y pasar lo más cerca posible.",
+        "c": "No hacer nada.",
+        "respuesta": "a",
+        "explicacion": "Al pasar un ciclista, se debe reducir la velocidad y mantener una distancia segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Cuidado animales en la carretera'?",
+        "a": "No hay animales en la carretera.",
+        "b": "Se debe tener precaución ya que pueden aparecer animales en la carretera.",
+        "c": "Los animales pueden cruzar libremente.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe tener precaución ya que pueden aparecer animales en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al acercarse a un cruce de ferrocarril?",
+        "a": "Acelerar si no hay tren.",
+        "b": "Detenerse y mirar antes de cruzar.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse y mirar antes de cruzar un cruce de ferrocarril.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay una señal de 'Desvío'?",
+        "a": "Continuar por el camino habitual.",
+        "b": "Seguir la ruta alternativa indicada.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Desvío' indica que se debe seguir la ruta alternativa indicada.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un niño está a punto de cruzar la calle?",
+        "a": "Acelerar.",
+        "b": "Detenerse y permitir que cruce.",
+        "c": "Tocar la bocina.",
+        "respuesta": "b",
+        "explicacion": "Se debe detener y permitir que el niño cruce la calle de forma segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar'?",
+        "a": "Se puede estacionar en cualquier momento.",
+        "b": "Está prohibido estacionar en esa zona.",
+        "c": "Solo se puede estacionar por la noche.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido estacionar en esa zona.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al ver una señal de 'Cuidado: niños'?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y estar atentos.",
+        "c": "No hay que hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe reducir la velocidad y estar atentos, ya que hay niños en la zona.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver una señal de 'Ceda el paso'?",
+        "a": "Seguir sin detenerse.",
+        "b": "Detenerse y ceder el paso a los vehículos que se aproximan.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceda el paso' indica que se debe detener y ceder el paso a los vehículos que se aproximan.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Peligro'?",
+        "a": "Indica una condición peligrosa en la carretera.",
+        "b": "Indica que se puede acelerar.",
+        "c": "No tiene ninguna importancia.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Peligro' indica que hay una condición peligrosa en la carretera que requiere precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al acercarse a una señal de 'Frenado'?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y estar preparados para detenerse.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Al acercarse a una señal de 'Frenado', los conductores deben reducir la velocidad y estar preparados para detenerse.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo está detenido en un paso peatonal?",
+        "a": "Acelerar y pasar.",
+        "b": "Detenerse y esperar a que el vehículo se mueva.",
+        "c": "Tocar la bocina.",
+        "respuesta": "b",
+        "explicacion": "Se debe detener y esperar a que el vehículo se mueva para permitir el paso seguro de los peatones.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Desviación de tráfico'?",
+        "a": "El tráfico se puede desviar por otras rutas.",
+        "b": "No hay tráfico.",
+        "c": "Está permitido estacionar.",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Desviación de tráfico' indica que el tráfico se puede desviar por otras rutas debido a trabajos u obstrucciones.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un semáforo intermitente está en amarillo?",
+        "a": "Detenerse inmediatamente.",
+        "b": "Proceder con precaución.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Un semáforo intermitente en amarillo indica que se debe proceder con precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver un animal en la carretera?",
+        "a": "Acelerar.",
+        "b": "Detenerse y permitir que el animal cruce.",
+        "c": "Ignorar al animal.",
+        "respuesta": "b",
+        "explicacion": "Se debe detener y permitir que el animal cruce la carretera de forma segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay un charco grande en la carretera?",
+        "a": "Acelerar para pasar rápidamente.",
+        "b": "Reducir la velocidad y pasar con cuidado.",
+        "c": "Ignorar el charco.",
+        "respuesta": "b",
+        "explicacion": "Se debe reducir la velocidad y pasar con cuidado al acercarse a un charco grande.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de la zona de velocidad limitada'?",
+        "a": "La velocidad máxima ya no está restringida.",
+        "b": "Se debe continuar conduciendo a la misma velocidad.",
+        "c": "La velocidad se debe reducir.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que la velocidad máxima ya no está restringida y los conductores pueden acelerar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay una señal de 'Prohibido el paso'?",
+        "a": "Continuar avanzando.",
+        "b": "Detenerse y dar la vuelta.",
+        "c": "Estacionar en la zona.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Prohibido el paso' indica que se debe detener y dar la vuelta, ya que no se puede avanzar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa una señal de 'Cruce de peatones'?",
+        "a": "Se permite el paso a los vehículos.",
+        "b": "Los peatones pueden cruzar la calle.",
+        "c": "No se permite cruzar.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que los peatones pueden cruzar la calle, y los vehículos deben ceder el paso.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al ver una señal de 'Atención: curva peligrosa'?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y prepararse para la curva.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe reducir la velocidad y prepararse para la curva peligrosa.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo está estacionado en doble fila?",
+        "a": "Acelerar y pasar rápidamente.",
+        "b": "Detenerse y esperar a que el vehículo se mueva.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Si hay un vehículo estacionado en doble fila, se debe detener y esperar a que el vehículo se mueva para poder pasar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al acercarse a un semáforo en rojo?",
+        "a": "Detenerse completamente.",
+        "b": "Acelerar para pasar antes de que cambie a rojo.",
+        "c": "Continuar sin detenerse.",
+        "respuesta": "a",
+        "explicacion": "Los conductores deben detenerse completamente al acercarse a un semáforo en rojo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver una señal de 'Cuidado: obras'?",
+        "a": "Acelerar para pasar rápidamente.",
+        "b": "Reducir la velocidad y estar atentos.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Cuidado: obras' indica que se debe reducir la velocidad y estar atentos a las obras en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Stop'?",
+        "a": "Se puede continuar sin detenerse.",
+        "b": "Se debe detener completamente antes de continuar.",
+        "c": "Solo se puede detener durante la noche.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Stop' indica que se debe detener completamente antes de continuar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los ciclistas al llegar a un cruce con semáforo?",
+        "a": "Ignorar el semáforo.",
+        "b": "Detenerse y esperar la luz verde.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Los ciclistas deben detenerse y esperar la luz verde al llegar a un cruce con semáforo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Zona escolar'?",
+        "a": "Zona donde se permite estacionar.",
+        "b": "Zona donde se debe reducir la velocidad debido a la presencia de niños.",
+        "c": "Zona donde no se permite el paso.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Zona escolar' indica que se debe reducir la velocidad debido a la presencia de niños en la zona.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si un vehículo está detenido en un paso peatonal?",
+        "a": "Tocar la bocina.",
+        "b": "Acelerar y pasar.",
+        "c": "Detenerse y esperar a que se mueva.",
+        "respuesta": "c",
+        "explicacion": "Se debe detener y esperar a que el vehículo se mueva para permitir el paso de los peatones.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver una señal de 'Ceda el paso'?",
+        "a": "Acelerar.",
+        "b": "Detenerse y ceder el paso a otros vehículos.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "La señal de 'Ceda el paso' indica que se debe detener y ceder el paso a otros vehículos.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Fin de la zona de peligro'?",
+        "a": "La zona de peligro ha terminado y se puede acelerar.",
+        "b": "Se debe continuar con precaución.",
+        "c": "No hay cambios en la carretera.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que la zona de peligro ha terminado y se puede acelerar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se acerca una ambulancia con las luces encendidas?",
+        "a": "Acelerar para evitar el tráfico.",
+        "b": "Detenerse y permitir que pase.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Se debe detenerse y permitir que la ambulancia pase para garantizar la seguridad.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si se encuentran en una intersección sin señales de tráfico?",
+        "a": "Acelerar y cruzar.",
+        "b": "Ceder el paso al tráfico a la derecha.",
+        "c": "No hay reglas que seguir.",
+        "respuesta": "b",
+        "explicacion": "En una intersección sin señales de tráfico, los conductores deben ceder el paso al tráfico que venga desde la derecha.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido girar a la izquierda'?",
+        "a": "Se puede girar a la izquierda.",
+        "b": "No se permite girar a la izquierda.",
+        "c": "Se debe girar a la derecha.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que no se permite girar a la izquierda.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay una señal de 'Prohibido estacionar'?",
+        "a": "Estacionar en la zona.",
+        "b": "Detenerse y buscar un lugar permitido.",
+        "c": "Ignorar la señal.",
+        "respuesta": "b",
+        "explicacion": "Se debe detenerse y buscar un lugar donde esté permitido estacionar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué debe hacer un ciclista al acercarse a un cruce de carretera?",
+        "a": "Acelerar para cruzar rápido.",
+        "b": "Detenerse y mirar antes de cruzar.",
+        "c": "No necesita detenerse.",
+        "respuesta": "b",
+        "explicacion": "Un ciclista debe detenerse y mirar antes de cruzar para asegurarse de que es seguro hacerlo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay un vehículo en emergencia en la carretera?",
+        "a": "Acelerar y pasar rápidamente.",
+        "b": "Detenerse y dejar espacio.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Se debe detenerse y dejar espacio para que el vehículo de emergencia pueda pasar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el paso a vehículos pesados'?",
+        "a": "Los vehículos pesados pueden pasar.",
+        "b": "Está prohibido el paso a vehículos pesados.",
+        "c": "Solo se permite el paso a vehículos ligeros.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido el paso a vehículos pesados.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al ver una señal de 'Cuidado: animales sueltos'?",
+        "a": "Acelerar.",
+        "b": "Reducir la velocidad y estar atentos.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe reducir la velocidad y estar atentos a la posible presencia de animales en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver una señal de 'Fin de la zona de velocidad reducida'?",
+        "a": "Acelerar y continuar a la velocidad máxima.",
+        "b": "Mantener la misma velocidad.",
+        "c": "Reducir la velocidad.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que se puede acelerar hasta la velocidad máxima permitida, ya que se ha terminado la zona de velocidad reducida.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el paso a bicicletas'?",
+        "a": "Las bicicletas pueden pasar.",
+        "b": "Está prohibido el paso a bicicletas.",
+        "c": "Las bicicletas deben ir por el arcén.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que está prohibido el paso a bicicletas.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si se encuentran con un peatón cruzando la calle?",
+        "a": "Acelerar y continuar.",
+        "b": "Detenerse y permitir que el peatón cruce.",
+        "c": "Tocar la bocina para avisar.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben detenerse y permitir que el peatón cruce de manera segura.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Cuidado, carretera resbaladiza'?",
+        "a": "No se debe conducir.",
+        "b": "Debes conducir con precaución.",
+        "c": "Se puede acelerar.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que debes conducir con precaución debido a la posibilidad de que la carretera esté resbaladiza.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el semáforo está en intermitente amarillo?",
+        "a": "Acelerar.",
+        "b": "Detenerse por completo.",
+        "c": "Conducir con precaución.",
+        "respuesta": "c",
+        "explicacion": "Un semáforo en intermitente amarillo indica que se debe conducir con precaución.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido estacionar'?",
+        "a": "Estacionar está permitido.",
+        "b": "No se puede estacionar en esa zona.",
+        "c": "Se puede estacionar solo de noche.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que no se puede estacionar en la zona donde está colocada.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores cuando ven la señal de 'Cuidado: niños'?",
+        "a": "Acelerar.",
+        "b": "Conducir con precaución y reducir la velocidad.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe conducir con precaución y reducir la velocidad por la posible presencia de niños.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en un cruce con un tren?",
+        "a": "Acelerar para cruzar.",
+        "b": "Detenerse y esperar a que pase el tren.",
+        "c": "Cruzar sin detenerse.",
+        "respuesta": "b",
+        "explicacion": "Se debe detenerse y esperar a que pase el tren antes de continuar.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se indica al ver una señal de 'Fin de la autopista'?",
+        "a": "Se puede acelerar.",
+        "b": "Fin de las condiciones de autopista; se debe estar atento.",
+        "c": "No se debe cambiar de carril.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se ha llegado al final de la autopista y que se deben estar atentos a las condiciones de la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los ciclistas al acercarse a una señal de 'Ceda el paso'?",
+        "a": "Ignorar la señal.",
+        "b": "Detenerse y ceder el paso si es necesario.",
+        "c": "Acelerar.",
+        "respuesta": "b",
+        "explicacion": "Los ciclistas deben detenerse y ceder el paso si es necesario al acercarse a una señal de 'Ceda el paso'.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Obras en la carretera'?",
+        "a": "No se puede pasar.",
+        "b": "Se debe reducir la velocidad y estar atentos.",
+        "c": "Se puede acelerar.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe reducir la velocidad y estar atentos a las obras en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si ven una señal de 'Cuidado: animales sueltos'?",
+        "a": "Ignorar la señal.",
+        "b": "Acelerar.",
+        "c": "Reducir la velocidad y estar alerta.",
+        "respuesta": "c",
+        "explicacion": "Se debe reducir la velocidad y estar alerta ante la posibilidad de animales sueltos en la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el vehículo comienza a derrapar?",
+        "a": "Girar en la dirección opuesta.",
+        "b": "Suelta el acelerador y no frenes bruscamente.",
+        "c": "Acelera para recuperar el control.",
+        "respuesta": "b",
+        "explicacion": "Es importante soltar el acelerador y no frenar bruscamente para recuperar el control del vehículo.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido girar a la derecha'?",
+        "a": "Se permite girar a la derecha.",
+        "b": "No se permite girar a la derecha.",
+        "c": "Se permite girar si no hay tráfico.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que no se permite girar a la derecha.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores en caso de accidente?",
+        "a": "Abandonar la escena.",
+        "b": "Llamar a los servicios de emergencia y ayudar si es posible.",
+        "c": "Esperar a que alguien más llame.",
+        "respuesta": "b",
+        "explicacion": "Los conductores deben llamar a los servicios de emergencia y ayudar a los heridos si es posible.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido adelantar'?",
+        "a": "Está permitido adelantar.",
+        "b": "No se puede adelantar.",
+        "c": "Solo se puede adelantar en condiciones especiales.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que no se puede adelantar en esa sección de la carretera.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores al acercarse a un cruce con semáforo en verde?",
+        "a": "Acelerar sin mirar.",
+        "b": "Conducir con precaución y asegurarse de que no haya peatones.",
+        "c": "Detenerse.",
+        "respuesta": "b",
+        "explicacion": "Se debe conducir con precaución y asegurarse de que no haya peatones cruzando.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si el vehículo se sobrecalienta?",
+        "a": "Continuar conduciendo.",
+        "b": "Detenerse y dejar enfriar el motor.",
+        "c": "Apagar el motor inmediatamente.",
+        "respuesta": "b",
+        "explicacion": "Es importante detenerse y dejar enfriar el motor si el vehículo se sobrecalienta.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué se debe hacer al ver la señal de 'Curva peligrosa'?",
+        "a": "Acelerar para pasar rápidamente.",
+        "b": "Reducir la velocidad y conducir con cuidado.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que se debe reducir la velocidad y conducir con cuidado al acercarse a una curva peligrosa.",
+        "categoria_id": 9
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Prohibido el paso a vehículos de motor'?",
+        "a": "Se permite el paso a vehículos de motor.",
+        "b": "No se permite el paso a vehículos de motor.",
+        "c": "Solo se permite el paso a bicicletas.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que no se permite el paso a vehículos de motor en esa zona.",
+        "categoria_id": 9
+    }
+]

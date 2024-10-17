@@ -1,0 +1,335 @@
+[
+    {
+        "pregunta": "¿Qué efecto tiene el consumo de alcohol en la capacidad de conducir?",
+        "a": "Aumenta la concentración.",
+        "b": "Disminuye la concentración y los reflejos.",
+        "c": "No tiene ningún efecto.",
+        "respuesta": "b",
+        "explicacion": "El consumo de alcohol disminuye la concentración y los reflejos, aumentando el riesgo de accidentes.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es la tasa de alcohol en sangre permitida para conducir en la mayoría de los países?",
+        "a": "0.0 g/l.",
+        "b": "0.5 g/l.",
+        "c": "1.0 g/l.",
+        "respuesta": "b",
+        "explicacion": "En la mayoría de los países, la tasa de alcohol en sangre permitida para conducir es de 0.5 g/l.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué tipo de drogas pueden afectar la conducción?",
+        "a": "Solo drogas ilegales.",
+        "b": "Cualquier tipo de droga, legal o ilegal.",
+        "c": "Solo alcohol.",
+        "respuesta": "b",
+        "explicacion": "Cualquier tipo de droga, ya sea legal (como medicamentos) o ilegal, puede afectar la capacidad para conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se ha consumido alcohol y se necesita conducir?",
+        "a": "Conducir, pero con precaución.",
+        "b": "Buscar un conductor alternativo o usar transporte público.",
+        "c": "Esperar a que pase la resaca.",
+        "respuesta": "b",
+        "explicacion": "Si se ha consumido alcohol, es mejor buscar un conductor alternativo o usar transporte público.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es un síntoma común de la intoxicación por alcohol?",
+        "a": "Aumento de la coordinación.",
+        "b": "Dificultad para hablar.",
+        "c": "Aumento de la energía.",
+        "respuesta": "b",
+        "explicacion": "La dificultad para hablar es un síntoma común de la intoxicación por alcohol.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué efecto pueden tener las drogas en la conducción?",
+        "a": "Pueden mejorar el rendimiento.",
+        "b": "Pueden disminuir la atención y los tiempos de reacción.",
+        "c": "No tienen efecto en la conducción.",
+        "respuesta": "b",
+        "explicacion": "Las drogas pueden disminuir la atención y los tiempos de reacción, aumentando el riesgo de accidentes.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es la mejor manera de evitar conducir bajo los efectos del alcohol?",
+        "a": "Tomar una bebida energizante.",
+        "b": "No consumir alcohol antes de conducir.",
+        "c": "Conducir lentamente.",
+        "respuesta": "b",
+        "explicacion": "La mejor manera de evitar conducir bajo los efectos del alcohol es no consumir alcohol antes de conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si se siente mareado o enfermo debido al consumo de alcohol?",
+        "a": "Conducir lentamente.",
+        "b": "Detenerse y no conducir.",
+        "c": "Tomar un café y seguir conduciendo.",
+        "respuesta": "b",
+        "explicacion": "Si un conductor se siente mareado o enfermo debido al consumo de alcohol, debe detenerse y no conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué se puede hacer si un amigo ha consumido alcohol y quiere conducir?",
+        "a": "Permitir que conduzca, ya que es responsable.",
+        "b": "Convencerlo de que no conduzca y ayudarlo a encontrar otra forma de transporte.",
+        "c": "Dejar que decida por sí mismo.",
+        "respuesta": "b",
+        "explicacion": "Es importante convencer a un amigo que ha consumido alcohol de que no conduzca y ayudarlo a encontrar otra forma de transporte.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué son las pruebas de alcoholemia?",
+        "a": "Pruebas para medir el nivel de estrés.",
+        "b": "Pruebas para medir el nivel de alcohol en sangre.",
+        "c": "Pruebas para medir la velocidad de reacción.",
+        "respuesta": "b",
+        "explicacion": "Las pruebas de alcoholemia son pruebas diseñadas para medir el nivel de alcohol en sangre de una persona.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué efectos puede tener el uso de medicamentos combinados con alcohol?",
+        "a": "No hay efectos si se combinan.",
+        "b": "Puede aumentar la sedación y disminuir la coordinación.",
+        "c": "Puede mejorar el rendimiento.",
+        "respuesta": "b",
+        "explicacion": "Combinar medicamentos con alcohol puede aumentar la sedación y disminuir la coordinación, lo que es peligroso al conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se ve a un conductor errático en la carretera?",
+        "a": "Ignorarlo y continuar conduciendo.",
+        "b": "Llamar a la policía y reportarlo.",
+        "c": "Tratar de adelantarlo rápidamente.",
+        "respuesta": "b",
+        "explicacion": "Si se ve a un conductor errático, se debe llamar a la policía y reportarlo para evitar accidentes.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es la mejor forma de prevenir accidentes relacionados con el alcohol?",
+        "a": "Conducir con precaución.",
+        "b": "No consumir alcohol antes de conducir.",
+        "c": "Tomar solo una bebida.",
+        "respuesta": "b",
+        "explicacion": "La mejor forma de prevenir accidentes relacionados con el alcohol es no consumir alcohol antes de conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué significa la señal de 'Control de alcoholemia'?",
+        "a": "Detenerse para realizar la prueba de alcohol.",
+        "b": "No se permite el consumo de alcohol.",
+        "c": "Se puede beber y conducir.",
+        "respuesta": "a",
+        "explicacion": "La señal indica que los conductores deben detenerse para realizar la prueba de alcohol.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cómo afecta el consumo de marihuana a la conducción?",
+        "a": "Mejora la concentración.",
+        "b": "Disminuye la coordinación y el tiempo de reacción.",
+        "c": "No tiene efecto en la conducción.",
+        "respuesta": "b",
+        "explicacion": "El consumo de marihuana puede disminuir la coordinación y el tiempo de reacción, afectando la capacidad para conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se siente la necesidad de beber para conducir mejor?",
+        "a": "Beber más para sentirse seguro.",
+        "b": "No beber y buscar ayuda profesional si es necesario.",
+        "c": "Conducir de todos modos.",
+        "respuesta": "b",
+        "explicacion": "Si se siente la necesidad de beber para conducir mejor, es importante no beber y buscar ayuda profesional si es necesario.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores si son detenidos por un control de alcoholemia?",
+        "a": "Colaborar con las autoridades.",
+        "b": "Tratar de escapar.",
+        "c": "Negarse a someterse a la prueba.",
+        "respuesta": "a",
+        "explicacion": "Los conductores deben colaborar con las autoridades si son detenidos por un control de alcoholemia.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué efecto tiene el alcohol en la capacidad de tomar decisiones?",
+        "a": "Mejora la toma de decisiones.",
+        "b": "Puede alterar el juicio y la toma de decisiones.",
+        "c": "No tiene efecto en las decisiones.",
+        "respuesta": "b",
+        "explicacion": "El alcohol puede alterar el juicio y la toma de decisiones, aumentando el riesgo de comportamientos peligrosos.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué es el síndrome de dependencia del alcohol?",
+        "a": "Una mejora en el estado de ánimo.",
+        "b": "La necesidad incontrolable de consumir alcohol.",
+        "c": "Un tratamiento médico para el alcoholismo.",
+        "respuesta": "b",
+        "explicacion": "El síndrome de dependencia del alcohol es la necesidad incontrolable de consumir alcohol, a pesar de sus efectos negativos.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué es la alcoholemia?",
+        "a": "El estudio de la sangre.",
+        "b": "La concentración de alcohol en la sangre.",
+        "c": "Una enfermedad relacionada con el hígado.",
+        "respuesta": "b",
+        "explicacion": "La alcoholemia se refiere a la concentración de alcohol en la sangre de una persona.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es un signo de intoxicación por alcohol?",
+        "a": "Claridad mental.",
+        "b": "Confusión y desorientación.",
+        "c": "Aumento de la coordinación.",
+        "respuesta": "b",
+        "explicacion": "La confusión y desorientación son signos comunes de intoxicación por alcohol.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué debe hacer un conductor si es testigo de un accidente causado por alcohol?",
+        "a": "No involucrarse.",
+        "b": "Llamar a los servicios de emergencia.",
+        "c": "Conducir rápidamente para alejarse.",
+        "respuesta": "b",
+        "explicacion": "Si un conductor es testigo de un accidente causado por alcohol, debe llamar a los servicios de emergencia inmediatamente.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es el efecto de las drogas estimulantes en la conducción?",
+        "a": "Aumentan el tiempo de reacción.",
+        "b": "Disminuyen la capacidad de atención.",
+        "c": "Pueden aumentar temporalmente la energía y la atención.",
+        "respuesta": "c",
+        "explicacion": "Las drogas estimulantes pueden aumentar temporalmente la energía y la atención, pero también pueden llevar a la fatiga y disminución de la concentración a largo plazo.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué sucede si un conductor se niega a realizar una prueba de alcoholemia?",
+        "a": "No pasa nada.",
+        "b": "Puede enfrentar sanciones legales.",
+        "c": "Se le permitirá seguir conduciendo.",
+        "respuesta": "b",
+        "explicacion": "Negarse a realizar una prueba de alcoholemia puede resultar en sanciones legales, incluida la suspensión de la licencia de conducir.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué es la tolerancia al alcohol?",
+        "a": "La capacidad de beber sin enfermarse.",
+        "b": "La necesidad de consumir más alcohol para obtener el mismo efecto.",
+        "c": "La cantidad de alcohol permitida por ley.",
+        "respuesta": "b",
+        "explicacion": "La tolerancia al alcohol es la necesidad de consumir más alcohol para obtener el mismo efecto debido al uso regular.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es el primer paso para ayudar a alguien con problemas de alcohol?",
+        "a": "Ignorarlo y dejar que lo resuelva.",
+        "b": "Hablar con él sobre sus problemas.",
+        "c": "Regañarlo por su comportamiento.",
+        "respuesta": "b",
+        "explicacion": "Hablar con la persona sobre sus problemas es un primer paso importante para ayudarla con su relación con el alcohol.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Prohibido conducir bajo los efectos de las drogas'?",
+        "a": "Se puede conducir si se está cansado.",
+        "b": "Es ilegal conducir bajo los efectos de las drogas.",
+        "c": "Se permite el consumo de drogas mientras se conduce.",
+        "respuesta": "b",
+        "explicacion": "La señal indica que es ilegal conducir bajo los efectos de las drogas, lo que puede llevar a sanciones severas.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué tipo de drogas son más comunes entre los conductores involucrados en accidentes?",
+        "a": "Drogas legales como el café.",
+        "b": "Drogas ilegales y medicamentos recetados.",
+        "c": "Ninguna, todos los conductores son responsables.",
+        "respuesta": "b",
+        "explicacion": "Los conductores involucrados en accidentes a menudo han consumido drogas ilegales y medicamentos recetados.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué efecto tiene el alcohol en la percepción del tiempo?",
+        "a": "Lo acelera.",
+        "b": "Lo ralentiza.",
+        "c": "No afecta la percepción del tiempo.",
+        "respuesta": "b",
+        "explicacion": "El alcohol puede ralentizar la percepción del tiempo, lo que afecta la capacidad de reacción.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es un efecto a largo plazo del consumo excesivo de alcohol?",
+        "a": "Mejor salud mental.",
+        "b": "Daño al hígado.",
+        "c": "Aumento de la energía.",
+        "respuesta": "b",
+        "explicacion": "El consumo excesivo de alcohol a largo plazo puede causar daño al hígado, entre otros problemas de salud.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué consejo se debe dar a un amigo que ha bebido mucho?",
+        "a": "Que conduzca con cuidado.",
+        "b": "Que busque un lugar para dormir.",
+        "c": "Que tome café y se sienta bien.",
+        "respuesta": "b",
+        "explicacion": "Es importante aconsejar a un amigo que ha bebido mucho que busque un lugar seguro para dormir o un medio alternativo de transporte.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de los programas de educación sobre alcohol y drogas?",
+        "a": "Promover el consumo responsable.",
+        "b": "Reducir el conocimiento sobre los efectos.",
+        "c": "Evitar que las personas se informen sobre sus riesgos.",
+        "respuesta": "a",
+        "explicacion": "Los programas de educación sobre alcohol y drogas tienen como objetivo promover el consumo responsable y prevenir el abuso.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué deben hacer los conductores para mantenerse informados sobre los efectos del alcohol y las drogas?",
+        "a": "Confiar en la información de amigos.",
+        "b": "Investigar y educarse sobre los riesgos.",
+        "c": "No preocuparse por ello.",
+        "respuesta": "b",
+        "explicacion": "Es fundamental que los conductores investiguen y se eduquen sobre los riesgos del alcohol y las drogas para tomar decisiones informadas.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué significa el término 'ebriedad'?",
+        "a": "Un estado de claridad mental.",
+        "b": "Un estado de intoxicación por alcohol.",
+        "c": "Un estado de sobriedad.",
+        "respuesta": "b",
+        "explicacion": "La ebriedad se refiere a un estado de intoxicación causado por el consumo de alcohol.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se sospecha que alguien está conduciendo bajo los efectos del alcohol?",
+        "a": "Hacer un gesto amistoso.",
+        "b": "Informar a las autoridades.",
+        "c": "Ignorarlo.",
+        "respuesta": "b",
+        "explicacion": "Si se sospecha que alguien está conduciendo bajo los efectos del alcohol, se debe informar a las autoridades para evitar accidentes.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Qué representa el término 'drogas de diseño'?",
+        "a": "Drogas de uso médico.",
+        "b": "Drogas creadas para imitar otras sustancias.",
+        "c": "Drogas naturales.",
+        "respuesta": "b",
+        "explicacion": "Las 'drogas de diseño' son sustancias químicas creadas para imitar los efectos de otras drogas ilegales.",
+        "categoria_id": 10
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal de las campañas de concienciación sobre el alcohol?",
+        "a": "Aumentar el consumo.",
+        "b": "Reducir los accidentes relacionados con el alcohol.",
+        "c": "Disminuir la vigilancia de la policía.",
+        "respuesta": "b",
+        "explicacion": "El objetivo principal de las campañas de concienciación sobre el alcohol es reducir los accidentes y promover la seguridad vial.",
+        "categoria_id": 10
+    }
+]

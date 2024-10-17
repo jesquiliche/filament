@@ -1,0 +1,759 @@
+[
+    {
+        "pregunta": "¿Cuál es el primer paso al llegar a la escena de un accidente?",
+        "a": "Iniciar los primeros auxilios inmediatamente.",
+        "b": "Asegurarse de que la escena sea segura.",
+        "c": "Llamar a los servicios de emergencia.",
+        "respuesta": "b",
+        "explicacion": "Es crucial asegurarse de que la escena sea segura antes de intervenir en un accidente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona está consciente y tiene un objeto atascado en la garganta?",
+        "a": "Dar golpes en la espalda.",
+        "b": "Hacer maniobras de Heimlich.",
+        "c": "Esperar a que el objeto salga por sí solo.",
+        "respuesta": "b",
+        "explicacion": "Si una persona está consciente y tiene un objeto atascado en la garganta, se deben realizar maniobras de Heimlich para intentar desobstruir la vía aérea.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe actuar ante una hemorragia externa?",
+        "a": "Limpiar la herida con agua y continuar.",
+        "b": "Aplicar presión directa sobre la herida.",
+        "c": "Dejar que la sangre fluya para limpiar la herida.",
+        "respuesta": "b",
+        "explicacion": "Se debe aplicar presión directa sobre la herida para controlar la hemorragia externa.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la posición adecuada para una persona que ha perdido el conocimiento pero respira?",
+        "a": "En posición supina.",
+        "b": "En posición lateral de seguridad.",
+        "c": "Sentada en una silla.",
+        "respuesta": "b",
+        "explicacion": "La posición lateral de seguridad ayuda a mantener las vías respiratorias abiertas y previene la aspiración si la persona vomita.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer ante una quemadura de primer grado?",
+        "a": "Aplicar hielo directamente sobre la quemadura.",
+        "b": "Enfriar la quemadura con agua fría.",
+        "c": "Cubrirla con una venda apretada.",
+        "respuesta": "b",
+        "explicacion": "Se debe enfriar la quemadura con agua fría para aliviar el dolor y reducir la inflamación.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué hacer si una persona presenta síntomas de un ataque cardíaco?",
+        "a": "Negarse a ayudar y esperar a que se recupere.",
+        "b": "Llamar a los servicios de emergencia y ayudar a la persona a sentarse.",
+        "c": "Poner a la persona a caminar para que se active.",
+        "respuesta": "b",
+        "explicacion": "Es fundamental llamar a los servicios de emergencia y ayudar a la persona a sentarse mientras se espera ayuda.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la causa más común de asfixia en adultos?",
+        "a": "El agua.",
+        "b": "Los alimentos sólidos.",
+        "c": "El aire.",
+        "respuesta": "b",
+        "explicacion": "Los alimentos sólidos son la causa más común de asfixia en adultos, especialmente si no se mastican adecuadamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe tratar una picadura de insecto?",
+        "a": "Aplicar calor para aliviar el dolor.",
+        "b": "Limpiar la zona con agua y jabón y aplicar frío.",
+        "c": "Raspar la picadura con una uña.",
+        "respuesta": "b",
+        "explicacion": "Se debe limpiar la zona con agua y jabón y aplicar frío para reducir la inflamación y el dolor.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué debe hacer una persona que se encuentra con alguien que ha sufrido una caída y parece estar inconsciente?",
+        "a": "Moverlo para comprobar si responde.",
+        "b": "Llamar a los servicios de emergencia y no moverlo.",
+        "c": "Intentar despertarlo sacudiéndolo.",
+        "respuesta": "b",
+        "explicacion": "Es importante no mover a una persona que ha sufrido una caída y parece inconsciente; se debe llamar a los servicios de emergencia.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se identifica un golpe de calor?",
+        "a": "Por la piel fría y húmeda.",
+        "b": "Por la sudoración excesiva y piel caliente y seca.",
+        "c": "Por un resfriado común.",
+        "respuesta": "b",
+        "explicacion": "El golpe de calor se identifica por la sudoración excesiva y la piel caliente y seca, y es una emergencia médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es la maniobra de Heimlich?",
+        "a": "Una técnica para reanimar a una persona.",
+        "b": "Una técnica para desobstruir las vías respiratorias.",
+        "c": "Una técnica para aplicar vendas.",
+        "respuesta": "b",
+        "explicacion": "La maniobra de Heimlich es una técnica utilizada para desobstruir las vías respiratorias de una persona que está asfixiándose.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de un accidente con una herida punzante?",
+        "a": "Retirar el objeto si es posible.",
+        "b": "No mover el objeto y estabilizarlo.",
+        "c": "Aplicar presión sobre la herida.",
+        "respuesta": "b",
+        "explicacion": "En caso de una herida punzante, no se debe retirar el objeto, sino estabilizarlo y buscar atención médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la mejor forma de evitar la transmisión de infecciones al proporcionar primeros auxilios?",
+        "a": "Usar guantes desechables.",
+        "b": "No es necesario tomar precauciones.",
+        "c": "Usar las manos desnudas.",
+        "respuesta": "a",
+        "explicacion": "Usar guantes desechables es una de las mejores formas de evitar la transmisión de infecciones al proporcionar primeros auxilios.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe actuar ante una fractura?",
+        "a": "Mover la parte afectada para comprobar la lesión.",
+        "b": "Inmovilizar la fractura y buscar ayuda médica.",
+        "c": "Aplicar calor sobre la fractura.",
+        "respuesta": "b",
+        "explicacion": "Ante una fractura, se debe inmovilizar la parte afectada y buscar ayuda médica inmediatamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona tiene una reacción alérgica severa?",
+        "a": "Esperar a que pase.",
+        "b": "Administrar epinefrina si está disponible y llamar a emergencias.",
+        "c": "Dar agua para aliviar los síntomas.",
+        "respuesta": "b",
+        "explicacion": "En caso de una reacción alérgica severa, se debe administrar epinefrina si está disponible y llamar a emergencias.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el primer signo de un infarto?",
+        "a": "Dolor en el brazo izquierdo.",
+        "b": "Sabor dulce en la boca.",
+        "c": "Temblores.",
+        "respuesta": "a",
+        "explicacion": "Uno de los primeros signos de un infarto es el dolor en el brazo izquierdo, acompañado a menudo de dolor en el pecho.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es un desfibrilador?",
+        "a": "Un dispositivo para medir la presión arterial.",
+        "b": "Un dispositivo que ayuda a restaurar el ritmo cardíaco.",
+        "c": "Un aparato que se utiliza para cortar heridas.",
+        "respuesta": "b",
+        "explicacion": "Un desfibrilador es un dispositivo que ayuda a restaurar el ritmo cardíaco en caso de paro cardíaco.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se ve a alguien convulsionando?",
+        "a": "Sostener a la persona para evitar que se lastime.",
+        "b": "Colocarle algo en la boca.",
+        "c": "Proteger el área alrededor y no sujetar a la persona.",
+        "respuesta": "c",
+        "explicacion": "Se debe proteger el área alrededor de la persona convulsionando y no sujetarla; es importante no colocar nada en su boca.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de un ataque de asma?",
+        "a": "No hacer nada y esperar.",
+        "b": "Ayudar a la persona a usar su inhalador si tiene uno.",
+        "c": "Colocar a la persona en una posición horizontal.",
+        "respuesta": "b",
+        "explicacion": "En caso de un ataque de asma, se debe ayudar a la persona a usar su inhalador si tiene uno, y asegurarse de que reciba atención médica si los síntomas no mejoran.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona presenta síntomas de un accidente cerebrovascular?",
+        "a": "Llevar a la persona a caminar.",
+        "b": "Llamar a los servicios de emergencia de inmediato.",
+        "c": "Darle agua y esperar.",
+        "respuesta": "b",
+        "explicacion": "Los síntomas de un accidente cerebrovascular requieren atención médica inmediata, por lo que se debe llamar a los servicios de emergencia.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué significa la sigla RCP?",
+        "a": "Reanimación Cardíaca Pulmonar.",
+        "b": "Reacción Cardiaca Positiva.",
+        "c": "Recuperación de la Circulación Pulmonar.",
+        "respuesta": "a",
+        "explicacion": "RCP significa Reanimación Cardíaca Pulmonar, un procedimiento vital en caso de paro cardíaco.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona sufre una convulsión?",
+        "a": "Ponerle algo en la boca.",
+        "b": "Sujetar su cuerpo firmemente.",
+        "c": "Proteger su cabeza y el área alrededor.",
+        "respuesta": "c",
+        "explicacion": "Es importante proteger la cabeza de la persona y el área a su alrededor para evitar lesiones.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el principal signo de un shock?",
+        "a": "Aumento de la temperatura corporal.",
+        "b": "Piel fría y húmeda.",
+        "c": "Cansancio extremo.",
+        "respuesta": "b",
+        "explicacion": "La piel fría y húmeda es un signo común de shock y requiere atención médica urgente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer ante un esguince?",
+        "a": "Aplicar calor de inmediato.",
+        "b": "Inmovilizar la zona y aplicar hielo.",
+        "c": "Continuar moviendo la articulación para evitar rigidez.",
+        "respuesta": "b",
+        "explicacion": "Para un esguince, se debe inmovilizar la zona afectada y aplicar hielo para reducir la inflamación.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de un vendaje?",
+        "a": "Cubrir una herida y detener el sangrado.",
+        "b": "Cambiar el color de la herida.",
+        "c": "Hacer que la herida se cure más rápido.",
+        "respuesta": "a",
+        "explicacion": "El vendaje se utiliza principalmente para cubrir una herida y detener el sangrado.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de intoxicación?",
+        "a": "Hacer que la persona vomite.",
+        "b": "Llamar al centro de control de intoxicaciones y seguir sus instrucciones.",
+        "c": "Dar agua para diluir el veneno.",
+        "respuesta": "b",
+        "explicacion": "En caso de intoxicación, se debe llamar al centro de control de intoxicaciones para recibir instrucciones específicas.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es una fractura abierta?",
+        "a": "Una fractura que no afecta la piel.",
+        "b": "Una fractura que causa la exposición del hueso a través de la piel.",
+        "c": "Una fractura que no causa dolor.",
+        "respuesta": "b",
+        "explicacion": "Una fractura abierta es aquella en la que el hueso está expuesto a través de la piel, lo que representa un riesgo de infección.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe actuar ante una emergencia por ahogamiento?",
+        "a": "Realizar respiración boca a boca si la persona no respira.",
+        "b": "Dejar que la persona se recupere por sí sola.",
+        "c": "Aplicar presión sobre el abdomen.",
+        "respuesta": "a",
+        "explicacion": "En caso de ahogamiento, si la persona no respira, se debe iniciar la respiración boca a boca inmediatamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona se desmaya?",
+        "a": "Hacer que la persona se siente de inmediato.",
+        "b": "Colocar a la persona en posición horizontal y elevar sus piernas.",
+        "c": "Dar agua de inmediato.",
+        "respuesta": "b",
+        "explicacion": "Colocar a la persona en posición horizontal y elevar sus piernas ayuda a mejorar el flujo sanguíneo al cerebro.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay una herida con un objeto punzante incrustado?",
+        "a": "Retirar el objeto antes de curar la herida.",
+        "b": "Dejar el objeto en su lugar y buscar ayuda médica.",
+        "c": "Cubrir la herida con un vendaje apretado.",
+        "respuesta": "b",
+        "explicacion": "No se debe retirar el objeto punzante; en su lugar, se debe estabilizar y buscar ayuda médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué hacer si una persona presenta síntomas de un ataque de ansiedad?",
+        "a": "Decirle que se calme.",
+        "b": "Tratar de que respire profundamente y calmarla.",
+        "c": "Ignorar la situación.",
+        "respuesta": "b",
+        "explicacion": "Ayudar a la persona a respirar profundamente y calmarla puede aliviar los síntomas de un ataque de ansiedad.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay un derrame cerebral?",
+        "a": "Dar un vaso de agua.",
+        "b": "Llamar a emergencias de inmediato.",
+        "c": "Hacer ejercicios de movilidad.",
+        "respuesta": "b",
+        "explicacion": "Un derrame cerebral es una emergencia médica y requiere atención inmediata, por lo que se debe llamar a emergencias.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es un vendaje compresivo?",
+        "a": "Un vendaje que se usa para cubrir heridas superficiales.",
+        "b": "Un vendaje que aplica presión sobre una herida para detener el sangrado.",
+        "c": "Un vendaje decorativo.",
+        "respuesta": "b",
+        "explicacion": "Un vendaje compresivo se utiliza para aplicar presión sobre una herida y ayudar a detener el sangrado.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué debe hacerse en caso de contacto con productos químicos?",
+        "a": "Lavar la zona afectada con agua abundante.",
+        "b": "Frotar la zona para eliminar el producto.",
+        "c": "Cubrir la zona con una venda.",
+        "respuesta": "a",
+        "explicacion": "En caso de contacto con productos químicos, se debe lavar la zona afectada con agua abundante durante al menos 15 minutos.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se identifica una hemorragia interna?",
+        "a": "Por el sangrado visible en la piel.",
+        "b": "Por síntomas como mareos, debilidad o dolor abdominal.",
+        "c": "Por el aumento de la temperatura corporal.",
+        "respuesta": "b",
+        "explicacion": "Los síntomas como mareos, debilidad o dolor abdominal pueden indicar una hemorragia interna.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento inicial para un ataque al corazón?",
+        "a": "Dar un vaso de agua.",
+        "b": "Dar aspirina si la persona no es alérgica.",
+        "c": "Hacer que la persona camine.",
+        "respuesta": "b",
+        "explicacion": "Dar aspirina puede ayudar a diluir la sangre y es un tratamiento inicial importante, siempre que la persona no sea alérgica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona está inconsciente y no respira?",
+        "a": "Realizar RCP inmediatamente.",
+        "b": "Esperar a que se despierte.",
+        "c": "Llamar a emergencias y esperar.",
+        "respuesta": "a",
+        "explicacion": "Si una persona está inconsciente y no respira, se debe iniciar RCP inmediatamente y llamar a emergencias.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si alguien sufre una quemadura leve?",
+        "a": "Aplicar hielo directamente sobre la quemadura.",
+        "b": "Enfriar la quemadura con agua tibia o fría durante varios minutos.",
+        "c": "Cubrirla con una venda apretada.",
+        "respuesta": "b",
+        "explicacion": "Para una quemadura leve, es importante enfriarla con agua tibia o fría durante al menos 10 minutos.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el primer paso en la atención de un accidente en el que hay múltiples heridos?",
+        "a": "Atender a la persona más herida primero.",
+        "b": "Evaluar la situación y asegurar la escena.",
+        "c": "Llamar a los servicios de emergencia.",
+        "respuesta": "b",
+        "explicacion": "Siempre se debe asegurar la escena y evaluar la situación antes de atender a los heridos.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es un botiquín de primeros auxilios?",
+        "a": "Un lugar donde se almacenan medicamentos de todo tipo.",
+        "b": "Un conjunto de materiales y equipos para atender lesiones y emergencias.",
+        "c": "Un equipo de cocina.",
+        "respuesta": "b",
+        "explicacion": "Un botiquín de primeros auxilios contiene materiales y equipos necesarios para atender lesiones y emergencias.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento inicial para un corte profundo?",
+        "a": "Aplicar un vendaje compresivo y buscar atención médica.",
+        "b": "Limpiar la herida con agua y aplicar una pomada.",
+        "c": "No hacer nada y dejar que se cure solo.",
+        "respuesta": "a",
+        "explicacion": "Se debe aplicar un vendaje compresivo y buscar atención médica si el corte es profundo.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de sangrado nasal?",
+        "a": "Tirar de la cabeza hacia atrás.",
+        "b": "Sentarse y presionar suavemente la parte blanda de la nariz.",
+        "c": "Aplicar hielo en la frente.",
+        "respuesta": "b",
+        "explicacion": "Sentarse y presionar suavemente la parte blanda de la nariz ayuda a detener el sangrado nasal.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona está sufriendo una reacción alérgica severa?",
+        "a": "Administrar antihistamínicos orales.",
+        "b": "Aplicar frío en la zona afectada.",
+        "c": "Llamar a emergencias y utilizar un autoinyector de epinefrina si está disponible.",
+        "respuesta": "c",
+        "explicacion": "En caso de reacción alérgica severa, se debe llamar a emergencias y usar un autoinyector de epinefrina si está disponible.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si hay un corte por vidrio?",
+        "a": "Lavar la herida con agua y cubrirla con un vendaje.",
+        "b": "No tocar la herida y esperar a que cicatrice.",
+        "c": "Retirar cualquier fragmento de vidrio visible.",
+        "respuesta": "a",
+        "explicacion": "Lavar la herida con agua y cubrirla con un vendaje es esencial para prevenir infecciones.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento correcto si alguien se atraganta?",
+        "a": "Realizar la maniobra de Heimlich.",
+        "b": "Pedirle que tosa con fuerza.",
+        "c": "Dar agua para intentar desalojar el objeto.",
+        "respuesta": "a",
+        "explicacion": "La maniobra de Heimlich es la técnica adecuada para ayudar a una persona que se está atragantando.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona tiene un ataque epiléptico?",
+        "a": "Tratar de sujetarla para evitar que se mueva.",
+        "b": "Poner algo en su boca.",
+        "c": "Asegurarse de que esté en un lugar seguro y esperar a que pase el ataque.",
+        "respuesta": "c",
+        "explicacion": "Durante un ataque epiléptico, es importante asegurar que la persona esté en un lugar seguro y esperar a que el ataque termine.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe tratar una picadura de insecto?",
+        "a": "Limpiar la zona y aplicar una compresa fría.",
+        "b": "Raspar la picadura con una uña.",
+        "c": "No hacer nada y dejar que pase.",
+        "respuesta": "a",
+        "explicacion": "Limpiar la zona afectada y aplicar una compresa fría ayuda a reducir la inflamación y el dolor.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de fractura sospechada?",
+        "a": "Mover la extremidad afectada.",
+        "b": "Inmovilizar la zona afectada y buscar atención médica.",
+        "c": "Dejar que la persona camine.",
+        "respuesta": "b",
+        "explicacion": "Se debe inmovilizar la zona afectada y buscar atención médica para un tratamiento adecuado.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si alguien se encuentra en estado de shock?",
+        "a": "Hacer que se sienta más activo.",
+        "b": "Mantenerlo caliente y cómodo, y buscar atención médica.",
+        "c": "Darle algo de beber.",
+        "respuesta": "b",
+        "explicacion": "Es fundamental mantener a la persona en un lugar cálido y cómodo, y buscar atención médica inmediatamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer en caso de una herida punzante?",
+        "a": "Lavar la herida y cubrirla.",
+        "b": "Retirar el objeto y aplicar presión.",
+        "c": "Dejar el objeto en su lugar y buscar atención médica.",
+        "respuesta": "c",
+        "explicacion": "En una herida punzante, el objeto debe dejarse en su lugar y se debe buscar atención médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué significa el término 'first aid'?",
+        "a": "Ayuda legal.",
+        "b": "Primeros auxilios.",
+        "c": "Ayuda económica.",
+        "respuesta": "b",
+        "explicacion": "El término 'first aid' se traduce al español como 'primeros auxilios'.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona tiene una herida con sangrado abundante?",
+        "a": "Aplicar un vendaje compresivo y elevar la extremidad.",
+        "b": "Ponerle una bolsa de hielo.",
+        "c": "Dar agua para ayudar.",
+        "respuesta": "a",
+        "explicacion": "En caso de sangrado abundante, se debe aplicar un vendaje compresivo y elevar la extremidad si es posible.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es la maniobra de Heimlich?",
+        "a": "Una técnica de reanimación.",
+        "b": "Una técnica para ayudar a alguien que se atraganta.",
+        "c": "Un método para detener el sangrado.",
+        "respuesta": "b",
+        "explicacion": "La maniobra de Heimlich es una técnica utilizada para ayudar a una persona que se atraganta a desalojar el objeto.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si alguien sufre una lesión en la cabeza?",
+        "a": "Tratar de mover a la persona.",
+        "b": "Mantenerla tranquila y buscar atención médica.",
+        "c": "Dar medicamentos para el dolor.",
+        "respuesta": "b",
+        "explicacion": "En caso de lesión en la cabeza, es importante mantener a la persona tranquila y buscar atención médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la técnica adecuada para aplicar una venda?",
+        "a": "Envolverla demasiado apretada.",
+        "b": "Cubrir la herida sin dejar espacios vacíos.",
+        "c": "Dejar que la venda se mueva libremente.",
+        "respuesta": "b",
+        "explicacion": "Al aplicar una venda, se debe cubrir la herida completamente sin dejar espacios vacíos para protegerla adecuadamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona tiene un golpe de calor?",
+        "a": "Colocarla en un lugar fresco y darle agua.",
+        "b": "Cubrirla con mantas.",
+        "c": "Dejarla en el sol.",
+        "respuesta": "a",
+        "explicacion": "En caso de golpe de calor, es crucial llevar a la persona a un lugar fresco y proporcionarle agua.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es un EPI?",
+        "a": "Equipo de protección individual.",
+        "b": "Equipo de primeros auxilios.",
+        "c": "Equipo de prevención de incendios.",
+        "respuesta": "a",
+        "explicacion": "EPI significa 'Equipo de Protección Individual', utilizado para proteger a las personas durante situaciones de riesgo.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si alguien tiene una herida infectada?",
+        "a": "Limpiarla con agua y cubrirla.",
+        "b": "Ignorarla y dejarla sanar sola.",
+        "c": "Aplicar ungüentos caseros.",
+        "respuesta": "a",
+        "explicacion": "Es importante limpiar una herida infectada con agua y consultar a un médico para un tratamiento adecuado.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se identifica una fractura abierta?",
+        "a": "El hueso está visible a través de la piel.",
+        "b": "Hay solo hinchazón.",
+        "c": "No hay dolor en la zona.",
+        "respuesta": "a",
+        "explicacion": "Una fractura abierta se identifica cuando el hueso está visible a través de la piel, lo que requiere atención médica inmediata.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el primer paso en la resucitación cardiopulmonar (RCP)?",
+        "a": "Comenzar a dar respiraciones de rescate.",
+        "b": "Realizar compresiones torácicas.",
+        "c": "Llamar a emergencias.",
+        "respuesta": "c",
+        "explicacion": "El primer paso en la RCP es llamar a emergencias antes de comenzar con la maniobra.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona tiene un esguince?",
+        "a": "Aplicar hielo y mantener la extremidad elevada.",
+        "b": "Mover la extremidad afectada para comprobar el dolor.",
+        "c": "Realizar ejercicio en la zona afectada.",
+        "respuesta": "a",
+        "explicacion": "Aplicar hielo y mantener la extremidad elevada ayuda a reducir la hinchazón en caso de un esguince.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la maniobra de compresión torácica?",
+        "a": "Ayudar a alguien a respirar.",
+        "b": "Restablecer el ritmo cardíaco en caso de paro.",
+        "c": "Aliviar el dolor en el pecho.",
+        "respuesta": "b",
+        "explicacion": "La maniobra de compresión torácica se utiliza para restablecer el ritmo cardíaco en caso de paro cardíaco.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona ha sido envenenada?",
+        "a": "Hacer que vomite inmediatamente.",
+        "b": "Llamar a emergencias y seguir sus instrucciones.",
+        "c": "Administrar agua o leche.",
+        "respuesta": "b",
+        "explicacion": "En caso de envenenamiento, se debe llamar a emergencias y seguir sus instrucciones específicas.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué hacer si alguien se corta con un objeto afilado?",
+        "a": "Lavar la herida con agua y cubrirla.",
+        "b": "Dejar la herida abierta.",
+        "c": "Aguantar la hemorragia con presión directa.",
+        "respuesta": "c",
+        "explicacion": "En caso de cortes, aplicar presión directa ayuda a controlar la hemorragia antes de limpiar y cubrir la herida.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo ideal para enfriar una quemadura?",
+        "a": "Menos de un minuto.",
+        "b": "Más de 30 minutos.",
+        "c": "Entre 10 y 20 minutos.",
+        "respuesta": "c",
+        "explicacion": "Es recomendable enfriar una quemadura con agua durante al menos 10 a 20 minutos para minimizar el daño.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se encuentra a alguien inconsciente?",
+        "a": "Dejarlo solo.",
+        "b": "Verificar la respiración y llamar a emergencias.",
+        "c": "Darle agua.",
+        "respuesta": "b",
+        "explicacion": "Es crucial verificar la respiración de una persona inconsciente y llamar a emergencias de inmediato.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se presenta un golpe en la cabeza?",
+        "a": "Aplicar calor en la zona.",
+        "b": "Observar si hay síntomas y buscar atención si es necesario.",
+        "c": "No hacer nada.",
+        "respuesta": "b",
+        "explicacion": "Es importante observar si hay síntomas después de un golpe en la cabeza y buscar atención médica si es necesario.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'triage' en primeros auxilios?",
+        "a": "Clasificación de heridos según la gravedad.",
+        "b": "Un tipo de vendaje.",
+        "c": "Un método de reanimación.",
+        "respuesta": "a",
+        "explicacion": "El 'triage' es la clasificación de los heridos según la gravedad de sus lesiones para priorizar el tratamiento.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el efecto de la hipotermia?",
+        "a": "Aumento de la temperatura corporal.",
+        "b": "Descenso de la temperatura corporal.",
+        "c": "Pérdida de conciencia.",
+        "respuesta": "b",
+        "explicacion": "La hipotermia provoca un descenso de la temperatura corporal y puede ser peligrosa si no se trata adecuadamente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se produce un accidente con una caída?",
+        "a": "Levantar a la persona inmediatamente.",
+        "b": "Evaluar la situación y comprobar si hay lesiones.",
+        "c": "Dejarla en el suelo.",
+        "respuesta": "b",
+        "explicacion": "Es fundamental evaluar la situación y comprobar si hay lesiones antes de mover a una persona que ha sufrido una caída.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona presenta dificultad para respirar?",
+        "a": "Mantenerla tranquila y llamar a emergencias.",
+        "b": "Ponerla en posición horizontal.",
+        "c": "Obligarla a respirar profundamente.",
+        "respuesta": "a",
+        "explicacion": "Si alguien presenta dificultad para respirar, se debe mantener la calma y llamar a emergencias de inmediato.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la función de la reanimación cardiopulmonar (RCP)?",
+        "a": "Reestablecer la circulación sanguínea y la respiración.",
+        "b": "Detener la hemorragia.",
+        "c": "Curar heridas.",
+        "respuesta": "a",
+        "explicacion": "La RCP tiene como función reestablecer la circulación sanguínea y la respiración en casos de paro cardíaco.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es una quemadura de tercer grado?",
+        "a": "Una quemadura superficial.",
+        "b": "Una quemadura que afecta todas las capas de la piel.",
+        "c": "Una quemadura que no duele.",
+        "respuesta": "b",
+        "explicacion": "Una quemadura de tercer grado afecta todas las capas de la piel y requiere atención médica inmediata.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal de realizar primeros auxilios?",
+        "a": "Prolongar la vida y prevenir complicaciones.",
+        "b": "Curar todas las heridas.",
+        "c": "Realizar un diagnóstico médico.",
+        "respuesta": "a",
+        "explicacion": "El objetivo principal de los primeros auxilios es prolongar la vida y prevenir complicaciones hasta que llegue ayuda profesional.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer ante una hemorragia?",
+        "a": "Aplicar presión directa sobre la herida.",
+        "b": "Limpiar la herida con alcohol.",
+        "c": "Dejar que sangre.",
+        "respuesta": "a",
+        "explicacion": "Aplicar presión directa sobre la herida es fundamental para controlar una hemorragia.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se debe tratar una quemadura de segundo grado?",
+        "a": "Sumergir la quemadura en agua fría.",
+        "b": "Cubrirla con un vendaje seco y aplicar hielo.",
+        "c": "Aplicar crema antibiótica inmediatamente.",
+        "respuesta": "a",
+        "explicacion": "Las quemaduras de segundo grado deben ser tratadas sumergiéndolas en agua fría durante 10-20 minutos.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es el síndrome de muerte súbita en lactantes?",
+        "a": "Muerte inesperada de un bebé durante el sueño.",
+        "b": "Falta de respiración en recién nacidos.",
+        "c": "Una enfermedad contagiosa.",
+        "respuesta": "a",
+        "explicacion": "El síndrome de muerte súbita en lactantes se refiere a la muerte inesperada de un bebé durante el sueño sin causa aparente.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la manera correcta de realizar la maniobra de Heimlich?",
+        "a": "Aplicar presión en el abdomen.",
+        "b": "Patear a la persona en la espalda.",
+        "c": "Apretar el pecho.",
+        "respuesta": "a",
+        "explicacion": "La maniobra de Heimlich se realiza aplicando presión en el abdomen para desalojar un objeto que obstruye la respiración.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si una persona presenta un ataque epiléptico?",
+        "a": "Sujetar a la persona para evitar que se lastime.",
+        "b": "Colocar un objeto en su boca.",
+        "c": "Asegurarse de que esté en un lugar seguro y observar el tiempo del ataque.",
+        "respuesta": "c",
+        "explicacion": "Durante un ataque epiléptico, es importante asegurarse de que la persona esté en un lugar seguro y observar la duración del ataque.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cómo se trata una herida por mordedura de serpiente?",
+        "a": "Aplicar un torniquete.",
+        "b": "Mantener la calma y buscar atención médica inmediatamente.",
+        "c": "Chupar el veneno.",
+        "respuesta": "b",
+        "explicacion": "En caso de mordedura de serpiente, es crucial mantener la calma y buscar atención médica lo antes posible.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué se debe evitar hacer con un objeto incrustado en una herida?",
+        "a": "Retirarlo.",
+        "b": "Cubrirlo.",
+        "c": "Dejarlo en su lugar y buscar atención médica.",
+        "respuesta": "a",
+        "explicacion": "No se debe retirar un objeto incrustado; es mejor dejarlo en su lugar y buscar atención médica.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es un desfibrilador automático externo (DEA)?",
+        "a": "Un dispositivo para administrar electricidad al corazón.",
+        "b": "Un aparato para medir la presión arterial.",
+        "c": "Una máquina para realizar análisis de sangre.",
+        "respuesta": "a",
+        "explicacion": "Un desfibrilador automático externo (DEA) es un dispositivo utilizado para administrar electricidad al corazón en caso de paro cardíaco.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Qué es la asfixia?",
+        "a": "Falta de aire debido a una obstrucción en las vías respiratorias.",
+        "b": "Una enfermedad respiratoria crónica.",
+        "c": "Una reacción alérgica.",
+        "respuesta": "a",
+        "explicacion": "La asfixia ocurre cuando hay falta de aire debido a una obstrucción en las vías respiratorias.",
+        "categoria_id": 11
+    },
+    {
+        "pregunta": "¿Cuál es la posición de recuperación?",
+        "a": "Acostado de espaldas.",
+        "b": "De lado con una pierna flexionada.",
+        "c": "Sentado.",
+        "respuesta": "b",
+        "explicacion": "La posición de recuperación es acostarse de lado con una pierna flexionada para mantener la vía respiratoria abierta.",
+        "categoria_id": 11
+    }
+]
+ 

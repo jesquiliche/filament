@@ -160,5 +160,546 @@
         "respuesta": "b",
         "explicacion": "Al adelantar, se debe respetar el límite de velocidad establecido en la carretera.",
         "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de prohibición de adelantar'?",
+        "a": "Se puede adelantar",
+        "b": "No se puede adelantar",
+        "c": "Se debe reducir la velocidad",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de prohibición de adelantar' indica que ya se puede realizar la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿En qué situación está prohibido adelantar en una intersección?",
+        "a": "Cuando hay semáforos en la intersección",
+        "b": "En cualquier intersección no regulada",
+        "c": "Cuando la intersección es regulada por un agente de tráfico",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en intersecciones no reguladas, excepto en las glorietas.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué maniobra se debe realizar antes de adelantar?",
+        "a": "Aumentar la velocidad sin señalizar",
+        "b": "Verificar que no hay riesgo y señalizar la maniobra",
+        "c": "Tocar el claxon para avisar",
+        "respuesta": "b",
+        "explicacion": "Antes de adelantar, es fundamental asegurarse de que la maniobra se puede hacer sin riesgo y señalizarla correctamente.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar en una curva sin visibilidad?",
+        "a": "Sí, siempre que se haga con precaución",
+        "b": "No, nunca está permitido",
+        "c": "Solo si la curva es muy amplia",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en curvas sin visibilidad suficiente por el riesgo de accidentes.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica una línea continua en la calzada respecto al adelantamiento?",
+        "a": "Se puede adelantar si no hay tráfico en sentido contrario",
+        "b": "Se puede adelantar si es urgente",
+        "c": "Está prohibido adelantar",
+        "respuesta": "c",
+        "explicacion": "Una línea continua prohíbe el adelantamiento, ya que implica que no hay suficiente visibilidad o seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar a un vehículo que circula por un carril reversible?",
+        "a": "Sí, siempre que se haga con precaución",
+        "b": "No, está prohibido",
+        "c": "Solo si el carril reversible es exclusivo para adelantamientos",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en carriles reversibles debido a la peligrosidad de los cambios de sentido.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debe hacer un vehículo que es adelantado?",
+        "a": "Aumentar la velocidad",
+        "b": "Mantener la velocidad o disminuirla ligeramente",
+        "c": "Cambiar de carril",
+        "respuesta": "b",
+        "explicacion": "El vehículo adelantado debe mantener o disminuir ligeramente su velocidad para facilitar la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar por el arcén?",
+        "a": "Sí, si hay espacio suficiente",
+        "b": "No, está prohibido",
+        "c": "Solo a vehículos que circulan muy lentamente",
+        "respuesta": "b",
+        "explicacion": "Adelantar por el arcén está prohibido excepto en situaciones de emergencia.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué vehículos pueden adelantar por la derecha?",
+        "a": "Solo motocicletas",
+        "b": "Ningún vehículo puede hacerlo",
+        "c": "Vehículos que circulen por carriles habilitados para ello",
+        "respuesta": "c",
+        "explicacion": "Solo se permite adelantar por la derecha cuando la vía tiene carriles habilitados para ello, como en algunos casos en autopistas.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuál es la distancia lateral mínima para adelantar a un ciclista?",
+        "a": "1 metro",
+        "b": "1,5 metros",
+        "c": "2 metros",
+        "respuesta": "b",
+        "explicacion": "Al adelantar a un ciclista, se debe dejar una distancia lateral mínima de 1,5 metros.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar en un paso a nivel sin barreras?",
+        "a": "Sí, si no se acerca ningún tren",
+        "b": "No, está prohibido adelantar",
+        "c": "Solo a bicicletas",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en pasos a nivel sin barreras por seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuándo está prohibido adelantar en una pendiente ascendente?",
+        "a": "Siempre",
+        "b": "Cuando hay poca visibilidad",
+        "c": "Nunca, se puede adelantar en cualquier pendiente",
+        "respuesta": "b",
+        "explicacion": "Adelantar en una pendiente ascendente está prohibido si hay poca visibilidad o riesgo de colisión.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar a un vehículo que está deteniéndose en un paso de peatones?",
+        "a": "Sí, si no hay peatones cruzando",
+        "b": "No, nunca está permitido",
+        "c": "Solo si hay visibilidad suficiente",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar a un vehículo que se está deteniendo en un paso de peatones por seguridad de los peatones.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Es obligatorio usar el intermitente para adelantar?",
+        "a": "Solo si hay tráfico",
+        "b": "Sí, siempre que se realice la maniobra",
+        "c": "No, solo es opcional",
+        "respuesta": "b",
+        "explicacion": "El uso del intermitente es obligatorio para señalizar cualquier maniobra de adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar en un túnel con un solo carril por sentido?",
+        "a": "No, está prohibido",
+        "b": "Sí, siempre que no haya tráfico",
+        "c": "Solo si el túnel tiene buena iluminación",
+        "respuesta": "a",
+        "explicacion": "En túneles con un solo carril por sentido, está prohibido adelantar por motivos de seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se detecta un obstáculo durante la maniobra de adelantamiento?",
+        "a": "Acelerar para terminar la maniobra lo antes posible",
+        "b": "Detener la maniobra y regresar al carril derecho",
+        "c": "Tocar el claxon y continuar",
+        "respuesta": "b",
+        "explicacion": "Si surge un obstáculo durante la maniobra de adelantamiento, se debe detener la maniobra y regresar al carril.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar a vehículos de tracción animal?",
+        "a": "Sí, pero con precaución y reduciendo la velocidad",
+        "b": "No, está prohibido",
+        "c": "Solo si hay buena visibilidad",
+        "respuesta": "a",
+        "explicacion": "Es posible adelantar a vehículos de tracción animal, pero siempre con precaución y respetando la distancia lateral.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué acción está prohibida cuando otro vehículo intenta adelantarle?",
+        "a": "Mantener la velocidad constante",
+        "b": "Aumentar la velocidad",
+        "c": "Reducir la velocidad",
+        "respuesta": "b",
+        "explicacion": "Está prohibido aumentar la velocidad cuando otro vehículo está realizando una maniobra de adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuándo está permitido adelantar en un paso de peatones?",
+        "a": "Nunca está permitido",
+        "b": "Cuando no haya peatones cruzando",
+        "c": "Si la visibilidad es suficiente",
+        "respuesta": "a",
+        "explicacion": "Adelantar en un paso de peatones está prohibido para proteger la seguridad de los peatones.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué distancia mínima lateral se debe respetar al adelantar a un vehículo estacionado?",
+        "a": "1 metro",
+        "b": "2 metros",
+        "c": "1,5 metros",
+        "respuesta": "c",
+        "explicacion": "Al adelantar a un vehículo estacionado, se debe respetar una distancia mínima lateral de 1,5 metros.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica la señal de 'Fin de prohibición de adelantar'?",
+        "a": "Se puede adelantar",
+        "b": "No se puede adelantar",
+        "c": "Se debe reducir la velocidad",
+        "respuesta": "a",
+        "explicacion": "La señal de 'Fin de prohibición de adelantar' indica que ya se puede realizar la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿En qué situación está prohibido adelantar en una intersección?",
+        "a": "Cuando hay semáforos en la intersección",
+        "b": "En cualquier intersección no regulada",
+        "c": "Cuando la intersección es regulada por un agente de tráfico",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en intersecciones no reguladas, excepto en las glorietas.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué maniobra se debe realizar antes de adelantar?",
+        "a": "Aumentar la velocidad sin señalizar",
+        "b": "Verificar que no hay riesgo y señalizar la maniobra",
+        "c": "Tocar el claxon para avisar",
+        "respuesta": "b",
+        "explicacion": "Antes de adelantar, es fundamental asegurarse de que la maniobra se puede hacer sin riesgo y señalizarla correctamente.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar en una curva sin visibilidad?",
+        "a": "Sí, siempre que se haga con precaución",
+        "b": "No, nunca está permitido",
+        "c": "Solo si la curva es muy amplia",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en curvas sin visibilidad suficiente por el riesgo de accidentes.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué indica una línea continua en la calzada respecto al adelantamiento?",
+        "a": "Se puede adelantar si no hay tráfico en sentido contrario",
+        "b": "Se puede adelantar si es urgente",
+        "c": "Está prohibido adelantar",
+        "respuesta": "c",
+        "explicacion": "Una línea continua prohíbe el adelantamiento, ya que implica que no hay suficiente visibilidad o seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar a un vehículo que circula por un carril reversible?",
+        "a": "Sí, siempre que se haga con precaución",
+        "b": "No, está prohibido",
+        "c": "Solo si el carril reversible es exclusivo para adelantamientos",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en carriles reversibles debido a la peligrosidad de los cambios de sentido.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué debe hacer un vehículo que es adelantado?",
+        "a": "Aumentar la velocidad",
+        "b": "Mantener la velocidad o disminuirla ligeramente",
+        "c": "Cambiar de carril",
+        "respuesta": "b",
+        "explicacion": "El vehículo adelantado debe mantener o disminuir ligeramente su velocidad para facilitar la maniobra.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar por el arcén?",
+        "a": "Sí, si hay espacio suficiente",
+        "b": "No, está prohibido",
+        "c": "Solo a vehículos que circulan muy lentamente",
+        "respuesta": "b",
+        "explicacion": "Adelantar por el arcén está prohibido excepto en situaciones de emergencia.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué vehículos pueden adelantar por la derecha?",
+        "a": "Solo motocicletas",
+        "b": "Ningún vehículo puede hacerlo",
+        "c": "Vehículos que circulen por carriles habilitados para ello",
+        "respuesta": "c",
+        "explicacion": "Solo se permite adelantar por la derecha cuando la vía tiene carriles habilitados para ello, como en algunos casos en autopistas.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuál es la distancia lateral mínima para adelantar a un ciclista?",
+        "a": "1 metro",
+        "b": "1,5 metros",
+        "c": "2 metros",
+        "respuesta": "b",
+        "explicacion": "Al adelantar a un ciclista, se debe dejar una distancia lateral mínima de 1,5 metros.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar en un paso a nivel sin barreras?",
+        "a": "Sí, si no se acerca ningún tren",
+        "b": "No, está prohibido adelantar",
+        "c": "Solo a bicicletas",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar en pasos a nivel sin barreras por seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuándo está prohibido adelantar en una pendiente ascendente?",
+        "a": "Siempre",
+        "b": "Cuando hay poca visibilidad",
+        "c": "Nunca, se puede adelantar en cualquier pendiente",
+        "respuesta": "b",
+        "explicacion": "Adelantar en una pendiente ascendente está prohibido si hay poca visibilidad o riesgo de colisión.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar a un vehículo que está deteniéndose en un paso de peatones?",
+        "a": "Sí, si no hay peatones cruzando",
+        "b": "No, nunca está permitido",
+        "c": "Solo si hay visibilidad suficiente",
+        "respuesta": "b",
+        "explicacion": "Está prohibido adelantar a un vehículo que se está deteniendo en un paso de peatones por seguridad de los peatones.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Es obligatorio usar el intermitente para adelantar?",
+        "a": "Solo si hay tráfico",
+        "b": "Sí, siempre que se realice la maniobra",
+        "c": "No, solo es opcional",
+        "respuesta": "b",
+        "explicacion": "El uso del intermitente es obligatorio para señalizar cualquier maniobra de adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Está permitido adelantar en un túnel con un solo carril por sentido?",
+        "a": "No, está prohibido",
+        "b": "Sí, siempre que no haya tráfico",
+        "c": "Solo si el túnel tiene buena iluminación",
+        "respuesta": "a",
+        "explicacion": "En túneles con un solo carril por sentido, está prohibido adelantar por motivos de seguridad.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué se debe hacer si se detecta un obstáculo durante la maniobra de adelantamiento?",
+        "a": "Acelerar para terminar la maniobra lo antes posible",
+        "b": "Detener la maniobra y regresar al carril derecho",
+        "c": "Tocar el claxon y continuar",
+        "respuesta": "b",
+        "explicacion": "Si surge un obstáculo durante la maniobra de adelantamiento, se debe detener la maniobra y regresar al carril.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Se puede adelantar a vehículos de tracción animal?",
+        "a": "Sí, pero con precaución y reduciendo la velocidad",
+        "b": "No, está prohibido",
+        "c": "Solo si hay buena visibilidad",
+        "respuesta": "a",
+        "explicacion": "Es posible adelantar a vehículos de tracción animal, pero siempre con precaución y respetando la distancia lateral.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Qué acción está prohibida cuando otro vehículo intenta adelantarle?",
+        "a": "Mantener la velocidad constante",
+        "b": "Aumentar la velocidad",
+        "c": "Reducir la velocidad",
+        "respuesta": "b",
+        "explicacion": "Está prohibido aumentar la velocidad cuando otro vehículo está realizando una maniobra de adelantamiento.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuándo está permitido adelantar en un paso de peatones?",
+        "a": "Nunca está permitido",
+        "b": "Cuando no haya peatones cruzando",
+        "c": "Si la visibilidad es suficiente",
+        "respuesta": "a",
+        "explicacion": "Adelantar en un paso de peatones está prohibido para proteger la seguridad de los peatones.",
+        "categoria_id": 6
+    },
+    {
+        "pregunta": "¿Cuál es la distancia lateral mínima al adelantar a un vehículo estacionado?",
+        "a": "1 metro",
+        "b": "2 metros",
+        "c": "1,5 metros",
+        "respuesta": "c",
+        "explicacion": "Al adelantar a un vehículo estacionado, se debe respetar una distancia mínima lateral de 1,5 metros.",
+        "categoria_id": 6
     }
-]
+    ,
+        {
+            "pregunta": "¿Qué indica la señal de 'Prohibido adelantar a vehículos de motor'?",
+            "a": "No se puede adelantar a vehículos de motor",
+            "b": "No se puede adelantar a ningún vehículo",
+            "c": "Se puede adelantar solo a motocicletas",
+            "respuesta": "a",
+            "explicacion": "La señal prohíbe el adelantamiento solo a vehículos de motor, incluyendo coches y camiones.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Cuándo se permite adelantar a un vehículo por la izquierda?",
+            "a": "Siempre",
+            "b": "Solo cuando las condiciones de la vía lo permitan",
+            "c": "Solo en carreteras con más de dos carriles",
+            "respuesta": "b",
+            "explicacion": "El adelantamiento por la izquierda solo se permite cuando las condiciones de la vía lo permitan y sea seguro.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿En qué situación es obligatorio adelantar por la derecha?",
+            "a": "Cuando el vehículo de delante está señalizando que va a girar a la izquierda",
+            "b": "En autopistas con tres carriles",
+            "c": "En vías urbanas",
+            "respuesta": "a",
+            "explicacion": "Se debe adelantar por la derecha cuando el vehículo de delante está señalizando que va a girar a la izquierda.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Se puede adelantar en tramos donde la visibilidad está reducida por condiciones meteorológicas?",
+            "a": "Sí, si hay líneas discontinuas",
+            "b": "No, está prohibido",
+            "c": "Solo a vehículos de gran tamaño",
+            "respuesta": "b",
+            "explicacion": "Está prohibido adelantar en tramos donde la visibilidad está reducida por condiciones como la niebla o lluvia intensa.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué debe hacer un conductor al ser adelantado en una vía estrecha?",
+            "a": "Acelerar para permitir el adelantamiento",
+            "b": "Reducir la velocidad y facilitar la maniobra",
+            "c": "Mantener la velocidad",
+            "respuesta": "b",
+            "explicacion": "En vías estrechas, el conductor debe reducir la velocidad para facilitar el adelantamiento.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Es obligatorio ceder el paso al vehículo que realiza la maniobra de adelantamiento?",
+            "a": "Sí, siempre",
+            "b": "Solo si el vehículo que adelanta es un vehículo de emergencia",
+            "c": "No, nunca",
+            "respuesta": "a",
+            "explicacion": "Es obligatorio ceder el paso al vehículo que está realizando la maniobra de adelantamiento.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué maniobra está prohibida en una vía con señalización de prohibido adelantar?",
+            "a": "Adelantar a cualquier vehículo",
+            "b": "Adelantar a vehículos de tracción animal",
+            "c": "Adelantar a ciclistas",
+            "respuesta": "a",
+            "explicacion": "La señal de prohibido adelantar prohíbe la maniobra de adelantamiento a cualquier vehículo.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Se puede adelantar a un autobús que está detenido en una parada?",
+            "a": "No, está prohibido",
+            "b": "Sí, con precaución",
+            "c": "Solo si no hay peatones cruzando",
+            "respuesta": "b",
+            "explicacion": "Se puede adelantar a un autobús detenido en una parada, pero siempre con precaución y vigilando a los peatones.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué debe hacer el conductor si al adelantar observa un obstáculo en la vía?",
+            "a": "Acelerar para completar el adelantamiento",
+            "b": "Volver a su carril lo antes posible",
+            "c": "Detener el vehículo inmediatamente",
+            "respuesta": "b",
+            "explicacion": "Ante un obstáculo, el conductor debe regresar a su carril lo antes posible, sin completar la maniobra de adelantamiento.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué vehículos tienen prohibido adelantar en una autopista?",
+            "a": "Motocicletas de baja cilindrada",
+            "b": "Camiones de más de 3.500 kg",
+            "c": "Vehículos de tracción animal",
+            "respuesta": "c",
+            "explicacion": "Los vehículos de tracción animal tienen prohibido circular y, por tanto, adelantar en autopistas.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué se debe hacer si un vehículo en sentido contrario también está realizando un adelantamiento?",
+            "a": "Acelerar para evitar el choque",
+            "b": "Reducir la velocidad y, si es necesario, frenar",
+            "c": "Tocar el claxon",
+            "respuesta": "b",
+            "explicacion": "Si un vehículo en sentido contrario también está adelantando, se debe reducir la velocidad y frenar si es necesario para evitar la colisión.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿En qué situación se permite adelantar en un cambio de rasante?",
+            "a": "Cuando hay suficiente visibilidad",
+            "b": "En ningún caso está permitido",
+            "c": "Solo si el cambio de rasante está bien iluminado",
+            "respuesta": "b",
+            "explicacion": "Está prohibido adelantar en cambios de rasante debido a la falta de visibilidad que presentan estas zonas.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Se puede adelantar a un vehículo que circula lentamente en una vía de doble sentido?",
+            "a": "Sí, si las condiciones lo permiten",
+            "b": "No, nunca",
+            "c": "Solo si el vehículo tiene problemas mecánicos",
+            "respuesta": "a",
+            "explicacion": "Se puede adelantar a un vehículo lento en una vía de doble sentido si las condiciones de visibilidad y seguridad lo permiten.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué debe hacer el conductor si al adelantar se aproxima una curva?",
+            "a": "Completar el adelantamiento rápidamente",
+            "b": "Cancelar la maniobra y regresar al carril",
+            "c": "Reducir la velocidad",
+            "respuesta": "b",
+            "explicacion": "Si se aproxima una curva, se debe cancelar el adelantamiento y regresar al carril para evitar riesgos.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Es obligatorio señalizar el adelantamiento en vías urbanas?",
+            "a": "Sí, siempre",
+            "b": "No, solo en carreteras",
+            "c": "Solo si hay vehículos cercanos",
+            "respuesta": "a",
+            "explicacion": "El adelantamiento debe señalizarse siempre, tanto en vías urbanas como interurbanas, para informar a los demás usuarios de la maniobra.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué vehículos tienen prioridad en un adelantamiento en carreteras estrechas?",
+            "a": "El vehículo más pequeño",
+            "b": "El vehículo que circula cuesta arriba",
+            "c": "El vehículo más grande",
+            "respuesta": "b",
+            "explicacion": "En carreteras estrechas, tiene prioridad el vehículo que circula cuesta arriba en un adelantamiento o cruce.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Qué significa cuando un conductor pone el intermitente derecho durante un adelantamiento?",
+            "a": "Que va a adelantar",
+            "b": "Que se reincorpora al carril derecho",
+            "c": "Que va a reducir la velocidad",
+            "respuesta": "b",
+            "explicacion": "El intermitente derecho indica que el conductor se reincorpora al carril derecho tras adelantar.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿En qué situaciones se permite adelantar en intersecciones?",
+            "a": "Solo cuando están reguladas por semáforos",
+            "b": "Siempre que no haya señales de prohibición",
+            "c": "Nunca está permitido",
+            "respuesta": "a",
+            "explicacion": "Está permitido adelantar en intersecciones reguladas por semáforos o por agentes de tráfico.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Cuál es la señal que prohíbe el adelantamiento?",
+            "a": "Un círculo rojo con dos vehículos dentro",
+            "b": "Un triángulo con dos vehículos",
+            "c": "Un cuadrado azul con una línea diagonal",
+            "respuesta": "a",
+            "explicacion": "La señal de prohibido adelantar es un círculo rojo con dos vehículos representados, uno rojo y otro negro.",
+            "categoria_id": 6
+        },
+        {
+            "pregunta": "¿Se puede adelantar a una bicicleta en una carretera de montaña con visibilidad reducida?",
+            "a": "No, está prohibido",
+            "b": "Sí, si se respeta una distancia de 1,5 metros",
+            "c": "Sí, siempre que se haga con rapidez",
+            "respuesta": "a",
+            "explicacion": "No se puede adelantar a una bicicleta en una carretera de montaña si la visibilidad es reducida.",
+            "categoria_id": 6
+        }
+    ]
