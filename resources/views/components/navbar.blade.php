@@ -12,6 +12,11 @@
                 Inicio
             </a>
         </li>
+        <li class="nav-link">
+            <a href="/test" onclick="closeMenu()">
+                Tests
+            </a>
+        </li>
     
     </ul>
 

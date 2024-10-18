@@ -28,4 +28,12 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
+Route::post('/corrector',[\App\Http\Controllers\CorrectorController::class,'corregir'])->name('corrector');
+Route::get('/test', [App\Http\Controllers\TestPorCateriasController::class,'index'])->name('test');
+Route::post('/preguntastema', [App\Http\Controllers\PreguntaController::class,'showByBloque'])->name('preguntastema');
+Route::post('/preguntastema', [App\Http\Controllers\PreguntaController::class,'showByBloque'])->name('preguntastema');
+
+Route::post('/preguntas', [App\Http\Controllers\PreguntaController::class,'showByCategory'])->name('preguntas');
+Route::post('/preguntasgeneral', [App\Http\Controllers\PreguntaController::class,'general'])->name('preguntasgeneral');
+
 require __DIR__.'/auth.php';
