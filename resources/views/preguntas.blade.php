@@ -15,7 +15,7 @@
         $x++;
         @endphp
         <div class="w-10/12 mx-auto">
-            <div class="w-10/12 mx-auto">
+            <div class="w-8/12 mx-auto">
                 <x-pregunta title="{{ $x }}. {{ $pregunta->pregunta }}">
                     @if ($pregunta->image)
 
@@ -38,6 +38,8 @@
                             <input type="hidden" name="texto{{ $x }}" value="{{ $pregunta->pregunta }}">
                             <input type="hidden" name="pregunta{{ $x }}" value="{{ $pregunta->id }}">
                             <input type="hidden" name="respuesta{{ $x }}" value="x">
+                            <input type="hidden" name="explicacion{{ $x }}" value="{{ $pregunta->Explicacion}}">
+                            
 
                             <label class="inline-flex items-center">
                                 <input type="radio" name="respuesta{{ $x }}" value="a" class="mr-1" required>
@@ -81,7 +83,7 @@
                             @endif
                         </div>
                     </div>
-
+                    
                 </x-pregunta>
             </div>
         </div>
