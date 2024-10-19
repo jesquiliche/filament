@@ -46,7 +46,7 @@
                 los test que quieras, cuando quieras!</h2>
     </div>
 </div>
-<div class="grid cols-1 md:grid-cols-3 md:gap-12 w-10/12  mx-auto  mt-22 md:mt-2">
+<div class="grid cols-1 md:grid-cols-3 md:gap-10 w-10/12  mx-auto  mt-22 md:mt-2">
     <x-card title="Fácil y cómodo de seguir">
         <img src="/portada1.jpg" class="rounded-lg" alt="portada1" class="h-44">
         <div class="card-content m-4">
@@ -59,11 +59,29 @@
                       Preguntas actualizadas al temario de la última convocatoria de 2022 y anteriores en nuestra plataforma en línea. ¡Regístrate ahora y obtén una preparación efectiva!
         </div>
     </x-card>
-    <x-card title="Más de 1000 preguntas">
+    <x-card title="Tests aleatorios">
         <img src="/portada3.jpeg" class="rounded-lg w-full mx-auto"  alt="portada3">
         <div class="m-4 font-semibold">
-           
-            Regístrate ahora para acceder a más de 1000 preguntas diseñadas por expertos. ¡Obtén una preparación efectiva y alcanza el éxito en tu examen de oposición!
+           Tests aleatorios por temas y tipo de carné.
+            ¡Obtén una preparación efectiva y alcanza el éxito en tu examen de oposición!
+        </div>
+    </x-card>
+    <x-card title="Seguimiento de errores historico">
+        <img src="/errores.jpeg" class="rounded-lg w-full mx-auto"  alt="portada3">
+        <div class="m-4 font-semibold">
+       Para revisar tus preguntas falladas en los test y así revisar tus errores más comunes.
+        </div>
+    </x-card>
+    <x-card title="Estadisticas">
+        <img src="/estadisticas.jpeg" class="rounded-lg w-full mx-auto"  alt="portada3">
+        <div class="m-4 font-semibold">
+       Para revisar tus preguntas falladas en los test y así revisar tus errores más comunes.
+        </div>
+    </x-card>
+    <x-card title="Todos los carnes">
+        <img src="carnes.jpeg" class="rounded-lg w-full mx-auto"  alt="portada3">
+        <div class="m-4 font-semibold">
+       Para revisar tus preguntas falladas en los test y así revisar tus errores más comunes.
         </div>
     </x-card>
 </div>

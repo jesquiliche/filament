@@ -29,6 +29,7 @@
                     $b=$data->{'b' . $i};
                     $a=$data->{'a' . $i};
                     $c=$data->{'c' . $i};
+                    $categotegoria_id=$data->{'categoria_id' . $i};
 
                     @endphp
 
@@ -92,25 +93,26 @@
             @php
             $aciertos++;
             $correctaL = 'X';
-            
-            
+
+
             @endphp
             <h2 class="text-center text-2xl font-bold italic text-green-700 p-2 w-4/12 mx-auto">Correcta</h2>
             @else
             <h2 class="text-center text-2xl font-bold italic text-red-700 p-2 w-4/12 mx-auto">Fallo</h2>
             @php
-                    // Guardamos los fallos con el ID de la pregunta
-                    $fallos[] = [
-                        'pregunta_id' => $pregunta_id, // Usamos el ID de la pregunta,
-                        'pregunta'=>$data->{'texto' . $i} ?? null, // Asignar null si no existe
-                        'seleccionada' => $seleccionada,
-                        'correcta' => $correctaL,
-                        'a' => $data->{'a' . $i}, // Aquí asignas correctamente el valor de 'a'
-                        'b' => $data->{'b' . $i}, // Aquí asignas correctamente el valor de 'a'
-                        'c' => $data->{'c' . $i}, // Aquí asignas correctamente el valor de 'a'
-                        'image' => $data->{'image' . $i} ?? null, // Asignar null si no existe
-                    ];
-                    @endphp
+            // Guardamos los fallos con el ID de la pregunta
+            $fallos[] = [
+            'pregunta_id' => $pregunta_id, // Usamos el ID de la pregunta,
+            'pregunta'=>$data->{'texto' . $i} ?? null, // Asignar null si no existe
+            'seleccionada' => $seleccionada,
+            'correcta' => $correctaL,
+            'a' => $data->{'a' . $i}, // Aquí asignas correctamente el valor de 'a'
+            'b' => $data->{'b' . $i}, // Aquí asignas correctamente el valor de 'a'
+            'c' => $data->{'c' . $i}, // Aquí asignas correctamente el valor de 'a'
+            'image' => $data->{'image' . $i} ?? null, // Asignar null si no existe
+            'categoria_id'=>$categotegoria_id,
+            ];
+            @endphp
             @endif
 
             <div class="m-2 border border-2 p-2 rounded-md bg-gray-200">
@@ -124,11 +126,30 @@
         </x-pregunta>
 
 
+
 </div>
 @endfor
-@php
-    dd($fallos); // Depuración en la vista
-@endphp
+
+<!-- Formulario para enviar los fallos -->
+<form action="{{ route('guardarFallos') }}" method="POST">
+    @csrf
+    @foreach ($fallos as $index => $fallo)
+    <!-- Enviar datos del fallo como campos ocultos -->
+    <input type="hidden" name="fallos[{{ $index }}][pregunta_id]" value="{{ $fallo['pregunta_id'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][pregunta]" value="{{ $fallo['pregunta'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][seleccionada]" value="{{ $fallo['seleccionada'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][correcta]" value="{{ $fallo['correcta'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][a]" value="{{ $fallo['a'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][b]" value="{{ $fallo['b'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][c]" value="{{ $fallo['c'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][image]" value="{{ $fallo['image'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][categoria_id]" value="{{ $fallo['categoria_id'] }}">
+    @endforeach
+    <div class="w-full flex justify-center">
+        <button type="submit" class="btn-primary">Guardar Fallos</button>
+    </div>
+    </div>
+</form>
 
 <div class="card col-lg-6 py-2 mx-auto mt-4 mb-4 text-center">
     <div class="w-1/3 bg-gray-50 mx-auto border-2 rounded-lg shadow-lg m-4 p-4">

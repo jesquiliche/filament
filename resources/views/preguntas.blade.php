@@ -40,7 +40,7 @@
                             <input type="hidden" name="pregunta{{ $x }}" value="{{ $pregunta->id }}">
                             <input type="hidden" name="respuesta{{ $x }}" value="x">
                             <input type="hidden" name="explicacion{{ $x }}" value="{{ $pregunta->Explicacion}}">
-                            
+                            <input type="hidden" name="categoria_id{{ $x }}" value="{{ $pregunta->categoria_id}}">
 
                             <label class="inline-flex items-center">
                                 <input type="radio" name="respuesta{{ $x }}" value="a" class="mr-1" required>

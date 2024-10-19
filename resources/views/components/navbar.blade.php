@@ -17,6 +17,31 @@
                 Tests
             </a>
         </li>
+        <li>
+            <a href="{{ route('register') }}" class="nav-link" onclick="closeMenu()">
+                Registro
+            </a>
+        </li>
+        @guest
+            <li>
+                <a href="{{ route('login') }}" class="nav-link" onclick="closeMenu()">
+                    Inicio sesión
+                </a>
+            </li>
+        @endguest
+        @if (auth()->check())
+            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                @csrf
+            </form>
+
+            <li>
+                <a href="{{ route('logout') }}" class="nav-link"
+                    onclick="event.preventDefault();
+                        document.getElementById('logout-form').submit(); closeMenu();">
+                    Logout - {{ auth()->user()->name }}
+                </a>
+            </li>
+        @endif
     
     </ul>
 
