@@ -8,6 +8,7 @@
     $data = (object) $preguntas;
     $aciertos = 0;
     $num_preguntas = $data->registros;
+    $fallos = []; // Inicializamos un array para los fallos
 
     @endphp
 
@@ -23,6 +24,12 @@
                     $respuesta = $data->{'a' . $i};
                     $correcta = $data->{'correcta' . $i};
                     $correctaL = '';
+                    $pregunta_id = $data->{'id' . $i};
+                    $a=$data->{'a' . $i};
+                    $b=$data->{'b' . $i};
+                    $a=$data->{'a' . $i};
+                    $c=$data->{'c' . $i};
+
                     @endphp
 
                     @if ($seleccionada == 'a')
@@ -32,7 +39,7 @@
                     @php
                     $correctaL = 'a';
                     @endphp
-                    <b><i class="fas fa-check"></i> Correcta</b>
+                    <b class="bg-green-400 p-1 rounded-md"><i class="fas fa-check"></i> Correcta</b>
                     @endif
                     <br />
                     <i>b) {{ $data->{'b' . $i} }}</i>
@@ -47,7 +54,7 @@
                     @php
                     $correctaL = 'b';
                     @endphp
-                    <b><i class="fas fa-check"></i> Correcta</b>
+                    <b <b class="bg-green-400 p-1 rounded-md"><i class="fas fa-check"></i> Correcta</b>
                     @endif
                     <br />
                     <i>c) {{ $data->{'c' . $i} }}</i>
@@ -62,7 +69,7 @@
                     @php
                     $correctaL = 'c';
                     @endphp
-                    <b><i class="fas fa-check"></i> Correcta</b>
+                    <b <b class="bg-green-400 p-2 rounded-md"><i class="fas fa-check"></i> Correcta</b>
                     @endif
                     <br />
 
@@ -85,10 +92,25 @@
             @php
             $aciertos++;
             $correctaL = 'X';
+            
+            
             @endphp
             <h2 class="text-center text-2xl font-bold italic text-green-700 p-2 w-4/12 mx-auto">Correcta</h2>
             @else
             <h2 class="text-center text-2xl font-bold italic text-red-700 p-2 w-4/12 mx-auto">Fallo</h2>
+            @php
+                    // Guardamos los fallos con el ID de la pregunta
+                    $fallos[] = [
+                        'pregunta_id' => $pregunta_id, // Usamos el ID de la pregunta,
+                        'pregunta'=>$data->{'texto' . $i} ?? null, // Asignar null si no existe
+                        'seleccionada' => $seleccionada,
+                        'correcta' => $correctaL,
+                        'a' => $data->{'a' . $i}, // Aquí asignas correctamente el valor de 'a'
+                        'b' => $data->{'b' . $i}, // Aquí asignas correctamente el valor de 'a'
+                        'c' => $data->{'c' . $i}, // Aquí asignas correctamente el valor de 'a'
+                        'image' => $data->{'image' . $i} ?? null, // Asignar null si no existe
+                    ];
+                    @endphp
             @endif
 
             <div class="m-2 border border-2 p-2 rounded-md bg-gray-200">
@@ -104,6 +126,9 @@
 
 </div>
 @endfor
+@php
+    dd($fallos); // Depuración en la vista
+@endphp
 
 <div class="card col-lg-6 py-2 mx-auto mt-4 mb-4 text-center">
     <div class="w-1/3 bg-gray-50 mx-auto border-2 rounded-lg shadow-lg m-4 p-4">
