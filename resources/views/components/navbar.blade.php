@@ -1,8 +1,8 @@
 <div class="bg-gray-50 fixed z-10 w-full shadow-lg flex items-center justify-between">
     <div class="flex items-center mx-3">
         <a href="/" class="flex items-center">
-            <img src="logo_low.png" class="h-16 w-16" alt="Logo">
-            <h1 class="text-3xl font-bold italic m-4">Tests de Autoescuela</h1>
+            <img src="llave.jpg" class="h-20 w-20" alt="Logo">
+            <h1 class="text-3xl font-bold italic ">TestAuto</h1>
         </a>
     </div>
 
@@ -15,6 +15,11 @@
         <li class="nav-link">
             <a href="/test" onclick="closeMenu()">
                 Tests
+            </a>
+        </li>
+        <li class="nav-link">
+            <a href="/fallos" onclick="closeMenu()">
+                Fallos
             </a>
         </li>
         <li>

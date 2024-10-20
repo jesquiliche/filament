@@ -53,5 +53,8 @@ Route::post('/preguntasgeneral', [App\Http\Controllers\PreguntaController::class
 Route::post('/guardar-fallos', [FalloController::class, 'guardarFallos'])->name('guardarFallos');
 
 
+Route::get('/fallos', [FalloController::class, 'index'])
+    ->middleware('auth')
+    ->name('fallos.index');
 
 require __DIR__ . '/auth.php';

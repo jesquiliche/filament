@@ -7,12 +7,12 @@
         </div>
         <div class="h-full">
             <x-card title="Test por Carné">
-                <img src="/bloque.jpg"/ class="rounded-full">
+                <img src="/bloque.jpg"/ class="rounded-md h-66">
                 <form action="{{ route('preguntastema') }}" method="POST" class="mt-5">
                     @csrf
 
                     <div class="form-group font-bold">
-                        <label>Bloque</label>
+                        <label>Carné</label>
                         <select class="form-control mt-2 rounded-md" name="bloque_id">
                             @foreach ($bloques as $bloque)
                                 <option value="{{ $bloque->id }}">{{ strip_tags($bloque->nombre) }}
@@ -38,7 +38,7 @@
         </div>
         <div class="h-full">
             <x-card title="Test por Temas">
-                <img src="/categorias.jpg" class="rounded-full"/>
+                <img src="/categorias.jpg" class="rounded-md h-[250px] w-full"/>
                 <form action="{{ route('preguntas') }}" method="POST" class="mt-5">
                     @csrf
 
@@ -73,7 +73,7 @@
         </div>
         <div class="h-full">
             <x-card title="Test general">
-                <img src="/general.jpg" class="rounded-full hidden md:block" width={100} height={100}/>
+                <img src="/general.jpg" class="rounded-md hidden md:block h-[250px] w-full"}/>
             <form action="{{ route('preguntasgeneral') }}" method="POST">
                 @csrf
               

@@ -15,7 +15,11 @@ class FalloController extends Controller
      */
     public function index()
     {
-        //
+        // Aquí puedes obtener los fallos de la base de datos
+        // Suponiendo que tienes un modelo llamado Fallo
+        $fallos = Fallo::paginate(10); // 10 fallos por página
+
+        return view('fallos.index', compact('fallos'));
     }
 
     /**
