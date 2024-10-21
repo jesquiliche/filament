@@ -89,6 +89,7 @@ class FalloController extends Controller
             $opcionC = $fallo['c'];
             $imagen = $fallo['image'] ?? null; // La imagen es opcional
             $categoriaId = $fallo['categoria_id'];
+            $explicacion = $fallo['explicacion'];
 
             // Usar updateOrInsert para actualizar o insertar el fallo en la base de datos
             DB::table('fallos')->updateOrInsert(
@@ -102,6 +103,7 @@ class FalloController extends Controller
                     'c' => $opcionC,
                     'image' => $imagen,
                     'categoria_id' => $categoriaId,
+                    'Explicacion'=>$explicacion,
                     'updated_at' => now(), // Solo actualiza la fecha de modificación
                 ]
             );

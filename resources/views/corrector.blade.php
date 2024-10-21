@@ -30,6 +30,7 @@
                     $a=$data->{'a' . $i};
                     $c=$data->{'c' . $i};
                     $categotegoria_id=$data->{'categoria_id' . $i};
+                    $expliacacion=$data->{'explicacion' . $i};
 
                     @endphp
 
@@ -111,6 +112,7 @@
             'c' => $data->{'c' . $i}, // Aquí asignas correctamente el valor de 'a'
             'image' => $data->{'image' . $i} ?? null, // Asignar null si no existe
             'categoria_id'=>$categotegoria_id,
+            'explicacion'=>$expliacacion,
             ];
             @endphp
             @endif
@@ -144,6 +146,7 @@
     <input type="hidden" name="fallos[{{ $index }}][c]" value="{{ $fallo['c'] }}">
     <input type="hidden" name="fallos[{{ $index }}][image]" value="{{ $fallo['image'] }}">
     <input type="hidden" name="fallos[{{ $index }}][categoria_id]" value="{{ $fallo['categoria_id'] }}">
+    <input type="hidden" name="fallos[{{ $index }}][explicacion]" value="{{ $fallo['explicacion'] }}">
     @endforeach
     <div class="w-full flex justify-center">
         <button type="submit" class="btn-primary">Guardar Fallos</button>

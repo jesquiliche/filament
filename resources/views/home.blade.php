@@ -52,9 +52,7 @@
             <div class="mx-auto">
                 <section class=" py-16">
                     <div class="max-w-7xl mx-auto text-center px-4">
-                        <h1 class="text-4xl font-bold text-black mb-4">¡Prepárate para aprobar tu examen de conducir con nuestra app de tests de autoescuela! 🚗📱</h1>
-                        <p class="text-xl text-black mb-8">¿Listo para tu examen teórico? ¡Con nuestra aplicación, aprobar es más fácil que nunca!</p>
-
+                   
                         <div class="grid md:grid-cols-2 gap-8">
                             <div class="bg-white rounded-lg border-2 shadow-lg p-6">
                                 <h2 class="text-2xl font-semibold text-black mb-4">🔑 ¿Qué te ofrecemos?</h2>
