@@ -14,13 +14,13 @@ class FalloController extends Controller
      * Display a listing of the resource.
      */
     public function index()
-    {
-        // Aquí puedes obtener los fallos de la base de datos
-        // Suponiendo que tienes un modelo llamado Fallo
-        $fallos = Fallo::paginate(10); // 10 fallos por página
+{
+    // Cargar los fallos con la relación de pregunta utilizando eager loading
+    $fallos = Fallo::with('preguntaAsociada')->paginate(10); // 10 fallos por página
 
-        return view('fallos.index', compact('fallos'));
-    }
+    return view('fallos.index', compact('fallos'));
+}
+
 
     /**
      * Show the form for creating a new resource.

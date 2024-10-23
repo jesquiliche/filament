@@ -5,16 +5,44 @@
     @foreach ($fallos as $fallo)
     @php
     $imagePath = $fallo->image;
+    $correcta=$fallo->preguntaAsociada->respuesta;
+    $seleccionada=$fallo->seleccionada;
     @endphp
     <div class="">
 
         <x-pregunta title="{{$fallo->pregunta}}">
             <div class="flex justify-between">
                 <div>
-                    <p class="p-1">a) {{$fallo->a}}</p>
-                    <p class="p-1">b) {{$fallo->b}}</p>
-                    <p class="p-1">c) {{$fallo->c}}</p>
-                    <p class="mt-2">Correcta: {{$fallo->correcta}}</p>
+                    @if($correcta=='a')
+                    <p class="p-1 text-green-700 font-bold italic">a) {{$fallo->preguntaAsociada->a}}</p>
+                    @else
+                    @if($seleccionada=='a')
+                    <p class="p-1 text-red-700 font-bold italic">a) {{$fallo->preguntaAsociada->a}}</p>
+                    @else
+                    <p class="p-1 ">a) {{$fallo->preguntaAsociada->a}}</p>
+                    @endif
+                    @endif
+
+                    @if($correcta=='b')
+                    <p class="p-1 text-green-700 font-bold italic">b) {{$fallo->preguntaAsociada->b}}</p>
+                    @else
+                    @if($seleccionada=='b')
+                    <p class="p-1 text-red-700 font-bold italic">b) {{$fallo->preguntaAsociada->b}}</p>
+                    @else
+                    <p class="p-1 ">a) {{$fallo->preguntaAsociada->b}}</p>
+                    @endif
+                    @endif
+
+                    @if($correcta=='c')
+                    <p class="p-1 text-green-700 font-bold italic">c) {{$fallo->preguntaAsociada->c}}</p>
+                    @else
+                    @if($seleccionada=='c')
+                    <p class="p-1 text-red-700 font-bold italic">c) {{$fallo->preguntaAsociada->c}}</p>
+                    @else
+                    <p class="p-1 ">a) {{$fallo->preguntaAsociada->c}}</p>
+                    @endif
+                    @endif
+
 
                 </div>
                 <div>

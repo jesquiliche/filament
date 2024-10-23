@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    font-family: 'Roboto', sans-serif;
-}
+
 
 [x-cloak] {
     display: none;

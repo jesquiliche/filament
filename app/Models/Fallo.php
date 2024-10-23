@@ -30,7 +30,7 @@ class Fallo extends Model
      * La relación con la tabla de preguntas, si tienes un modelo de Pregunta.
      * Puedes definir una relación belongsTo si las preguntas están en otra tabla.
      */
-    public function pregunta()
+    public function preguntaAsociada()
     {
         return $this->belongsTo(Pregunta::class, 'pregunta_id');
     }

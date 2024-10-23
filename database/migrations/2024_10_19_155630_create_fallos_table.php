@@ -15,7 +15,8 @@ class CreateFallosTable extends Migration
     {
         Schema::create('fallos', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('pregunta_id'); // ID de la pregunta fallada
+            $table->unsignedBigInteger('pregunta_id'); // ID de la pregunta fallada
+            $table->foreign('pregunta_id')->references('id')->on('preguntas')->onDelete('cascade');
             $table->string('pregunta'); // Texto de la pregunta
             $table->string('seleccionada'); // Respuesta seleccionada por el usuario
             $table->string('correcta'); // Respuesta correcta

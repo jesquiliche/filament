@@ -35,7 +35,9 @@
 
                     <div class="flex justify-between mx-auto">
                         <div>
-                        <input type="hidden" name="id{{ $x }}" value="{{ $pregunta->id }}">
+                            <p class="font-bold text-lg">{{$pregunta->categoria->nombre}}</p>
+                            <input type="hidden" name="id{{ $x }}" value="{{ $pregunta->id }}">
+
                             <input type="hidden" name="texto{{ $x }}" value="{{ $pregunta->pregunta }}">
                             <input type="hidden" name="pregunta{{ $x }}" value="{{ $pregunta->id }}">
                             <input type="hidden" name="respuesta{{ $x }}" value="x">
@@ -84,7 +86,7 @@
                             @endif
                         </div>
                     </div>
-                    
+
                 </x-pregunta>
             </div>
         </div>
