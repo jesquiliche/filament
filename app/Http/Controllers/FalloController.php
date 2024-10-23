@@ -81,29 +81,29 @@ class FalloController extends Controller
         foreach ($fallos as $fallo) {
             // Extraer los datos del fallo
             $preguntaId = $fallo['pregunta_id'];
-            $pregunta = $fallo['pregunta'];
+        
             $seleccionada = $fallo['seleccionada'];
-            $correcta = $fallo['correcta'];
-            $opcionA = $fallo['a'];
-            $opcionB = $fallo['b'];
-            $opcionC = $fallo['c'];
+            
+            
+            
+            
             $imagen = $fallo['image'] ?? null; // La imagen es opcional
             $categoriaId = $fallo['categoria_id'];
-            $explicacion = $fallo['explicacion'];
+        
 
             // Usar updateOrInsert para actualizar o insertar el fallo en la base de datos
             DB::table('fallos')->updateOrInsert(
                 ['pregunta_id' => $preguntaId], // Condición para buscar
                 [
-                    'pregunta' => $pregunta,
+                    
                     'seleccionada' => $seleccionada,
-                    'correcta' => $correcta,
-                    'a' => $opcionA,
-                    'b' => $opcionB,
-                    'c' => $opcionC,
+                    
+                    
+                    
+                    
                     'image' => $imagen,
                     'categoria_id' => $categoriaId,
-                    'Explicacion'=>$explicacion,
+                    
                     'updated_at' => now(), // Solo actualiza la fecha de modificación
                 ]
             );

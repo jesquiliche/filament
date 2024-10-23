@@ -1,7 +1,7 @@
 @extends('layouts.test')
 
 @section('content')
-<div class=" md:w-12/12 mx-auto py-24">
+<div class="md:w-12/12 mx-auto py-24">
     <h2 class="text-center text-2xl font-bold">{{ $titulo }}</h2>
 
     @php
@@ -18,31 +18,27 @@
             <div class="w-8/12 mx-auto">
                 <x-pregunta title="{{ $x }}. {{ $pregunta->pregunta }}">
                     @if ($pregunta->image)
-
                     @php
                     $imagePath = asset('storage/' . $pregunta->image);
                     @endphp
+                    @else
+                    @php
+                    $imagePath = '/llave.jpg';
+                    @endphp
+                    @endif
 
                     <!-- Verificar que el path no sea nulo antes de pasar al input -->
                     <input type="hidden" name="image{{ $x }}" value="{{ $imagePath }}">
-
-
-                    @endif
-
-
-
-
 
                     <div class="flex justify-between mx-auto">
                         <div>
                             <p class="font-bold text-lg">{{$pregunta->categoria->nombre}}</p>
                             <input type="hidden" name="id{{ $x }}" value="{{ $pregunta->id }}">
-
                             <input type="hidden" name="texto{{ $x }}" value="{{ $pregunta->pregunta }}">
                             <input type="hidden" name="pregunta{{ $x }}" value="{{ $pregunta->id }}">
                             <input type="hidden" name="respuesta{{ $x }}" value="x">
-                            <input type="hidden" name="explicacion{{ $x }}" value="{{ $pregunta->Explicacion}}">
-                            <input type="hidden" name="categoria_id{{ $x }}" value="{{ $pregunta->categoria_id}}">
+                            <input type="hidden" name="explicacion{{ $x }}" value="{{ $pregunta->Explicacion }}">
+                            <input type="hidden" name="categoria_id{{ $x }}" value="{{ $pregunta->categoria_id }}">
 
                             <label class="inline-flex items-center">
                                 <input type="radio" name="respuesta{{ $x }}" value="a" class="mr-1" required>
@@ -77,13 +73,9 @@
                             @endif
                         </div>
 
-                        <div lass="ml-auto">
-
-
-                            @if ($pregunta->image)
-
-                            <img src="{{ asset('storage/' . $pregunta->image) }}" class="h-44 rounded-md" alt="Imagen de la pregunta" />
-                            @endif
+                        <div class="ml-auto">
+                            <!-- Si la imagen existe, mostrarla -->
+                            <img src="{{ $pregunta->image ? asset('storage/' . $pregunta->image) : asset('/llave.jpg') }}" class="h-44 rounded-md" alt="Imagen de la pregunta" />
                         </div>
                     </div>
 
@@ -93,15 +85,13 @@
         @endforeach
         <input type="hidden" name="registros" value="{{ $x }}">
         <div class="container col-lg-8 text-center py-2 mt-3 mx-auto">
-            <input type="submit" class="btn-primary"
-                value="Corregir">
+            <input type="submit" class="btn-primary" value="Corregir">
         </div>
     </form>
     @else
     <div class="card text-center col-md-6 mx-auto py-4 mt-4 w-8/12">
         <h5>No se encontraron preguntas sobre este tema/bloque</h5>
-        <a href="{{ route('test') }}"
-            class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Ok</a>
+        <a href="{{ route('test') }}" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Ok</a>
     </div>
     @endif
 

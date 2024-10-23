@@ -2,17 +2,28 @@
 
 @section('content')
 <div class="py-20 w-8/12 mx-auto">
+    <h1 class="text-2xl text-center font-bold">Fallos</h1>
     @foreach ($fallos as $fallo)
     @php
-    $imagePath = $fallo->image;
+    $imagePath='';
     $correcta=$fallo->preguntaAsociada->respuesta;
     $seleccionada=$fallo->seleccionada;
     @endphp
+    @if ($fallo->preguntaAsociada->image)
+    @php
+    $imagePath =asset('storage/'. $fallo->preguntaAsociada->image);
+    @endphp
+    @else
+    @php
+    $imagePath ='/llave.jpg';
+    @endphp
+    @endif
     <div class="">
 
-        <x-pregunta title="{{$fallo->pregunta}}">
+        <x-pregunta title="{{$fallo->preguntaAsociada->pregunta}}">
             <div class="flex justify-between">
                 <div>
+                    <p class="font-bold">{{$fallo->preguntaAsociada->categoria->nombre}}</p>
                     @if($correcta=='a')
                     <p class="p-1 text-green-700 font-bold italic">a) {{$fallo->preguntaAsociada->a}}</p>
                     @else
@@ -53,7 +64,7 @@
             </div>
             <div class="bg-gray-200 rounded-md p-2">
                 <p class="font-bold text-lg text-center"> Explicación</p>
-                <p>{{$fallo->Explicacion}}</p>
+                <p>{{$fallo->preguntaAsociada->Explicacion}}</p>
             </div>
         </x-pregunta>
 

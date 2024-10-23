@@ -16,12 +16,7 @@ class Fallo extends Model
      */
     protected $fillable = [
         'pregunta_id',
-        'pregunta',
         'seleccionada',
-        'correcta',
-        'a',
-        'b',
-        'c',
         'image',
         'categoria_id',
     ];

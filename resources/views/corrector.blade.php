@@ -104,15 +104,12 @@
             // Guardamos los fallos con el ID de la pregunta
             $fallos[] = [
             'pregunta_id' => $pregunta_id, // Usamos el ID de la pregunta,
-            'pregunta'=>$data->{'texto' . $i} ?? null, // Asignar null si no existe
+        
             'seleccionada' => $seleccionada,
-            'correcta' => $correctaL,
-            'a' => $data->{'a' . $i}, // Aquí asignas correctamente el valor de 'a'
-            'b' => $data->{'b' . $i}, // Aquí asignas correctamente el valor de 'a'
-            'c' => $data->{'c' . $i}, // Aquí asignas correctamente el valor de 'a'
+            
             'image' => $data->{'image' . $i} ?? null, // Asignar null si no existe
             'categoria_id'=>$categotegoria_id,
-            'explicacion'=>$expliacacion,
+        
             ];
             @endphp
             @endif
@@ -138,15 +135,11 @@
     @foreach ($fallos as $index => $fallo)
     <!-- Enviar datos del fallo como campos ocultos -->
     <input type="hidden" name="fallos[{{ $index }}][pregunta_id]" value="{{ $fallo['pregunta_id'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][pregunta]" value="{{ $fallo['pregunta'] }}">
+    
     <input type="hidden" name="fallos[{{ $index }}][seleccionada]" value="{{ $fallo['seleccionada'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][correcta]" value="{{ $fallo['correcta'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][a]" value="{{ $fallo['a'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][b]" value="{{ $fallo['b'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][c]" value="{{ $fallo['c'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][image]" value="{{ $fallo['image'] }}">
+      <input type="hidden" name="fallos[{{ $index }}][image]" value="{{ $fallo['image'] }}">
     <input type="hidden" name="fallos[{{ $index }}][categoria_id]" value="{{ $fallo['categoria_id'] }}">
-    <input type="hidden" name="fallos[{{ $index }}][explicacion]" value="{{ $fallo['explicacion'] }}">
+    
     @endforeach
     <div class="w-full flex justify-center">
         <button type="submit" class="btn-primary">Guardar Fallos</button>
