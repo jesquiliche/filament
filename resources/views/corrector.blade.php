@@ -18,7 +18,7 @@
 
                 <div class=" ">
 
-                    <i>a) {{ $data->{'a' . $i} }}</i>
+                    
                     @php
                     $seleccionada = $data->{'respuesta' . $i};
                     $respuesta = $data->{'a' . $i};
@@ -33,7 +33,10 @@
                     @endphp
 
                     @if ($seleccionada == 'a')
-                    <i class="fas fa-arrow-left"></i><b> Seleccionada</b>
+                    <i class="font-bold">a) {{ $data->{'a' . $i} }}</i>
+                    @else
+                    <i >a) {{ $data->{'a' . $i} }}</i>
+
                     @endif
                     @if ($correcta == $respuesta)
                     @php
@@ -43,13 +46,15 @@
                     @endif
                     <br />
 
-                    <i>b) {{ $data->{'b' . $i} }}</i>
+                    
                     @php
                     $respuesta = $data->{'b' . $i};
                     $correcta = $data->{'correcta' . $i};
                     @endphp
                     @if ($seleccionada == 'b')
-                    <i class="fas fa-arrow-left"></i><b> Seleccionada</b>
+                    <i class="font-bold">b) {{ $data->{'b' . $i} }}</i>
+                    @else
+                    <i >b) {{ $data->{'b' . $i} }}</i>
                     @endif
                     @if ($correcta == $respuesta)
                     @php
@@ -59,13 +64,14 @@
                     @endif
                     <br />
 
-                    <i>c) {{ $data->{'c' . $i} }}</i>
                     @php
                     $respuesta = $data->{'c' . $i};
                     $correcta = $data->{'correcta' . $i};
                     @endphp
                     @if ($seleccionada == 'c')
-                    <i class="fas fa-arrow-left"></i><b> Seleccionada</b>
+                    <i class="font-bold">c) {{ $data->{'c' . $i} }}</i>
+                    @else
+                    <i >c) {{ $data->{'c' . $i} }}</i>
                     @endif
                     @if ($correcta == $respuesta)
                     @php
