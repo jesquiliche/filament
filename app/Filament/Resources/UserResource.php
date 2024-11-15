@@ -38,7 +38,9 @@ class UserResource extends Resource
                     ->password()
                     ->required()
                     ->maxLength(255)
+                    ->hiddenOn('edit')
                     ->dehydrateStateUsing(fn($state) => Hash::make($state)), // Hashear la contraseña antes de guardarla
+                Forms\Components\Select::make('roles')->multiple()->relationship('roles', 'name')
             ]);
     }
 
@@ -54,6 +56,7 @@ class UserResource extends Resource
                 Tables\Columns\TextColumn::make('email_verified_at')
                     ->dateTime()
                     ->sortable(),
+                Tables\Columns\TextColumn::make('roles.name')->searchable()
 
 
 
